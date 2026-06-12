@@ -1,16 +1,13 @@
 IPTV Playlist Health Report
-Generated : 2026-06-12 05:52 UTC
+Generated : 2026-06-12 06:02 UTC
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Total channels : 69
-✅ Alive        : 66
-❌ Dead         : 3
+✅ Alive        : 67
+❌ Dead         : 2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DEAD CHANNELS (3):
-
-  ❌ [Entertainment] Bravo
-     http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
+DEAD CHANNELS (2):
 
   ❌ [Crime & Investigation] Charge! TV
      http://kytv.xyz/live/20022002/20022002/1407188.m3u8
@@ -19,7 +16,7 @@ DEAD CHANNELS (3):
      http://kytv.xyz/live/20022002/20022002/175883.m3u8
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ALIVE CHANNELS (66):
+ALIVE CHANNELS (67):
 
   ✅ [Local News] 12 On Your Side Richmond
   ✅ [News] CBS News
@@ -42,6 +39,7 @@ ALIVE CHANNELS (66):
   ✅ [Entertainment] A&E
   ✅ [Entertainment] AMC
   ✅ [Entertainment] BET
+  ✅ [Entertainment] Bravo
   ✅ [Entertainment] Comedy Central
   ✅ [Entertainment] E! Entertainment
   ✅ [Entertainment] FX

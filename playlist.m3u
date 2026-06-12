@@ -63,6 +63,9 @@ http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/BET_logo_2012.svg/320px-BET_logo_2012.svg.png" group-title="Entertainment",BET
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.m3u8
 
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bravo_logo_2017.svg/320px-Bravo_logo_2017.svg.png" group-title="Entertainment",Bravo
+http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Comedy_Central_logo.svg/320px-Comedy_Central_logo.svg.png" group-title="Entertainment",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
