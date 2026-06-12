@@ -22,6 +22,7 @@
 name: Update IPTV Playlist
  
 on:
+  workflow_dispatch:
   # Run on every push to main (useful for testing)
   push:
     branches:
@@ -31,9 +32,9 @@ on:
   # Cron syntax (UTC): minute  hour  day  month  weekday
   schedule:
     - cron: "0 */12 * * *"
- 
-  # Allow manual trigger from the Actions tab
-  workflow_dispatch:
+
+permissions:
+  contents: write
  
 jobs:
   build-playlist:
