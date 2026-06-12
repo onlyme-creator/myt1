@@ -25,7 +25,7 @@ from bs4 import BeautifulSoup
 # Config
 # ---------------------------------------------------------------------------
 OUTPUT_FILE     = "playlist.m3u"
-EPG_FILE        = "epg.xml.gz"
+EPG_FILE        = "shrunk_epg.xml"
 EPG_URL         = "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
 REQUEST_TIMEOUT = 15
 USER_AGENT = (
