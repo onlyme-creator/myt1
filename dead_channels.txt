@@ -1,6 +1,9 @@
-# Dead channels as of 2026-06-12 04:29 UTC
+# Dead channels as of 2026-06-12 05:52 UTC
 # These are automatically excluded from playlist.m3u
 # They will reappear automatically if they come back online
+
+[Entertainment] Bravo
+  url: http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
 
 [Crime & Investigation] Charge! TV
   url: http://kytv.xyz/live/20022002/20022002/1407188.m3u8
