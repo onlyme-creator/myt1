@@ -24,7 +24,9 @@ from bs4 import BeautifulSoup
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-OUTPUT_FILE = "playlist.m3u"
+OUTPUT_FILE     = "playlist.m3u"
+EPG_FILE        = "epg.xml.gz"
+EPG_URL         = "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
 REQUEST_TIMEOUT = 15
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -805,7 +807,7 @@ def compile_playlist(channels: list) -> tuple[str, list, list]:
     Dead channels are excluded from the playlist but their definitions
     remain untouched in CHANNELS so they auto-recover on the next run.
     """
-    lines   = ["#EXTM3U"]
+    lines   = ["#EXTM3U url-tvg=\"epg.xml.gz\" x-tvg-url=\"epg.xml.gz\""]
     alive   = []
     dead    = []
 
@@ -884,11 +886,48 @@ def write_health_report(alive: list, dead: list, path: str) -> None:
     log.info("Health report written → %s", path)
 
 
+def download_epg(url: str, path: str) -> bool:
+    """
+    Download the public US EPG (XMLTV) file and save it as epg.xml.gz
+    in the repository root.  Returns True on success, False on failure.
+    The playlist will still work without it — EPG is best-effort.
+    """
+    log.info("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    log.info("📡  Downloading EPG from:")
+    log.info("    %s", url)
+    headers = {"User-Agent": USER_AGENT}
+    try:
+        r = requests.get(
+            url,
+            headers=headers,
+            timeout=60,          # EPG files can be large — give it time
+            stream=True,
+        )
+        r.raise_for_status()
+        total = 0
+        with open(path, "wb") as fh:
+            for chunk in r.iter_content(chunk_size=1024 * 64):
+                if chunk:
+                    fh.write(chunk)
+                    total += len(chunk)
+        log.info("✅  EPG saved → %s  (%.1f KB)", path, total / 1024)
+        return True
+    except requests.exceptions.Timeout:
+        log.warning("❌  EPG download timed out — skipping.")
+    except requests.exceptions.ConnectionError as exc:
+        log.warning("❌  EPG connection error: %s — skipping.", exc)
+    except requests.exceptions.HTTPError as exc:
+        log.warning("❌  EPG HTTP error: %s — skipping.", exc)
+    except Exception as exc:
+        log.warning("❌  EPG download failed: %s — skipping.", exc)
+    return False
+
+
 if __name__ == "__main__":
     playlist, alive, dead = compile_playlist(CHANNELS)
     write_playlist(playlist, OUTPUT_FILE)
     write_dead_channels(dead, DEAD_FILE)
     write_health_report(alive, dead, REPORT_FILE)
+    download_epg(EPG_URL, EPG_FILE)
     # Exit code 0 always — dead channels are expected and handled gracefully
-    sys.exit(0)
     sys.exit(0)
