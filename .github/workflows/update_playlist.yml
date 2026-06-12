@@ -79,4 +79,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated update of playlist and EPG data [skip ci]"
-          file_pattern: 'playlist.m3u epg.xml.gz dead_channels.txt health_report.txt'
+          file_pattern: 'playlist.m3u dead_channels.txt health_report.txt'
