@@ -1,0 +1,87 @@
+IPTV Playlist Health Report
+Generated : 2026-06-12 00:52 UTC
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Total channels : 69
+✅ Alive        : 67
+❌ Dead         : 2
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DEAD CHANNELS (2):
+
+  ❌ [Crime & Investigation] Charge! TV
+     http://kytv.xyz/live/20022002/20022002/1407188.m3u8
+
+  ❌ [Crime & Investigation] Investigation Discovery
+     http://kytv.xyz/live/20022002/20022002/175883.m3u8
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ALIVE CHANNELS (67):
+
+  ✅ [Local News] 12 On Your Side Richmond
+  ✅ [News] CBS News
+  ✅ [News] CNN
+  ✅ [News] MSNBC
+  ✅ [News] HLN
+  ✅ [Broadcast] ABC
+  ✅ [Broadcast] CBS
+  ✅ [Broadcast] NBC 1
+  ✅ [Broadcast] NBC 2
+  ✅ [Broadcast] Fox 1
+  ✅ [Broadcast] Fox 2
+  ✅ [Sports] ESPN
+  ✅ [Sports] ESPN2
+  ✅ [Sports] ESPNU
+  ✅ [Sports] NBA TV
+  ✅ [Sports] NFL Network
+  ✅ [Sports] FS1
+  ✅ [Sports] FS2
+  ✅ [Entertainment] A&E
+  ✅ [Entertainment] AMC
+  ✅ [Entertainment] BET
+  ✅ [Entertainment] Bravo
+  ✅ [Entertainment] Comedy Central
+  ✅ [Entertainment] E! Entertainment
+  ✅ [Entertainment] FX
+  ✅ [Entertainment] FXX
+  ✅ [Entertainment] MTV
+  ✅ [Entertainment] Paramount Network
+  ✅ [Entertainment] Reelz
+  ✅ [Entertainment] Syfy
+  ✅ [Entertainment] TBS
+  ✅ [Entertainment] TV Land
+  ✅ [Entertainment] TNT
+  ✅ [Entertainment] truTV
+  ✅ [Entertainment] Vice TV
+  ✅ [Entertainment] VH1
+  ✅ [Entertainment] Revolt TV
+  ✅ [Entertainment] WE tv
+  ✅ [Movies & Premium] Cinemax
+  ✅ [Movies & Premium] HBO
+  ✅ [Movies & Premium] HBO2
+  ✅ [Movies & Premium] HBO Comedy
+  ✅ [Movies & Premium] Showtime
+  ✅ [Movies & Premium] Starz
+  ✅ [Movies & Premium] TCM
+  ✅ [Lifestyle & Science] Discovery Channel
+  ✅ [Entertainment] LMN
+  ✅ [Lifestyle & Science] National Geographic
+  ✅ [Entertainment] Fuse
+  ✅ [Entertainment] FXM
+  ✅ [Entertainment] Freeform
+  ✅ [Entertainment] Hallmark Channel
+  ✅ [Lifestyle & Science] National Geographic Wild
+  ✅ [Lifestyle & Science] Animal Planet
+  ✅ [Crime & Investigation] Court TV
+  ✅ [Kids] Boomerang
+  ✅ [Kids] Disney Junior
+  ✅ [Kids] Disney XD
+  ✅ [Free & Broadcast] Bounce TV
+  ✅ [Free & Broadcast] BUZZR
+  ✅ [Free & Broadcast] Comet TV
+  ✅ [Free & Broadcast] Cozi TV
+  ✅ [Free & Broadcast] Ebony TV
+  ✅ [Free & Broadcast] Game Show Central
+  ✅ [Free & Broadcast] Grit TV
+  ✅ [Free & Broadcast] getTV
+  ✅ [Free & Broadcast] ION Television

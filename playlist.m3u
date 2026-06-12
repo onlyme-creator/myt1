@@ -1,0 +1,202 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="WWBT.us" tvg-name="WWBT NBC12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NBC_2013_current_logo.svg/320px-NBC_2013_current_logo.svg.png" group-title="Local News",12 On Your Side Richmond
+https://amg00312-amg00312c35-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c35-amgplt0022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_News.svg/320px-CBS_News.svg.png" group-title="News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MSNBC_logo.svg/320px-MSNBC_logo.svg.png" group-title="News",MSNBC
+http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HLN_logo_2022.svg/320px-HLN_logo_2022.svg.png" group-title="News",HLN
+http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/ABC_Entertainment_logo_2021.svg/320px-ABC_Entertainment_logo_2021.svg.png" group-title="Broadcast",ABC
+http://stream.cammonitorplus.net/1809/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/320px-CBS_logo.svg.png" group-title="Broadcast",CBS
+http://stream.cammonitorplus.net/1810/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NBC_2013_current_logo.svg/320px-NBC_2013_current_logo.svg.png" group-title="Broadcast",NBC 1
+http://stream.cammonitorplus.net/1812/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NBC_2013_current_logo.svg/320px-NBC_2013_current_logo.svg.png" group-title="Broadcast",NBC 2
+http://stream.cammonitorplus.net/1820/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/FOX_Broadcasting_Company_logo.svg/320px-FOX_Broadcasting_Company_logo.svg.png" group-title="Broadcast",Fox 1
+http://stream.cammonitorplus.net/1833/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/FOX_Broadcasting_Company_logo.svg/320px-FOX_Broadcasting_Company_logo.svg.png" group-title="Broadcast",Fox 2
+http://stream.cammonitorplus.net/1752/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
+http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" group-title="Sports",ESPN2
+http://41.223.30.230/ESPN2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ESPNU_logo.svg/320px-ESPNU_logo.svg.png" group-title="Sports",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/NBA_TV.svg/320px-NBA_TV.svg.png" group-title="Sports",NBA TV
+http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/NFL_Network_logo.svg/320px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fox_Sports_1_logo.svg/320px-Fox_Sports_1_logo.svg.png" group-title="Sports",FS1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.m3u8
+
+#EXTINF:-1 tvg-id="FS2.us" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fox_Sports_2_logo.svg/320px-Fox_Sports_2_logo.svg.png" group-title="Sports",FS2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.m3u8
+
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/A%26E_Network_logo.svg/320px-A%26E_Network_logo.svg.png" group-title="Entertainment",A&E
+http://23.239.31.26:8989/aande/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AMC_2019_logo.svg/320px-AMC_2019_logo.svg.png" group-title="Entertainment",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/BET_logo_2012.svg/320px-BET_logo_2012.svg.png" group-title="Entertainment",BET
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bravo_logo_2017.svg/320px-Bravo_logo_2017.svg.png" group-title="Entertainment",Bravo
+http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Comedy_Central_logo.svg/320px-Comedy_Central_logo.svg.png" group-title="Entertainment",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="E!.us" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/fifty/E%21_logo.svg/320px-E%21_logo.svg.png" group-title="Entertainment",E! Entertainment
+http://23.237.104.106:8080/USA_E/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/320px-FX_International_logo.svg.png" group-title="Entertainment",FX
+http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FXX_logo.svg/320px-FXX_logo.svg.png" group-title="Entertainment",FXX
+http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/eight/MTV_2021_logo.svg/320px-MTV_2021_logo.svg.png" group-title="Entertainment",MTV
+http://23.237.104.106:8080/USA_MTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Paramount_Network_logo.svg/320px-Paramount_Network_logo.svg.png" group-title="Entertainment",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Reelz_logo.svg/320px-Reelz_logo.svg.png" group-title="Entertainment",Reelz
+http://23.237.104.106:8080/USA_REELZ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Syfy_logo_2017.svg/320px-Syfy_logo_2017.svg.png" group-title="Entertainment",Syfy
+http://23.237.104.106:8080/USA_SYFY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TBS_logo_2016.svg/320px-TBS_logo_2016.svg.png" group-title="Entertainment",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TV_Land_logo_2015.svg/320px-TV_Land_logo_2015.svg.png" group-title="Entertainment",TV Land
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.m3u8
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/TNT_US_2016.svg/320px-TNT_US_2016.svg.png" group-title="Entertainment",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TruTVEast.us" tvg-name="truTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TruTV_logo_2014.svg/320px-TruTV_logo_2014.svg.png" group-title="Entertainment",truTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="ViceTV.us" tvg-name="Vice TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Vice_TV_logo.svg/320px-Vice_TV_logo.svg.png" group-title="Entertainment",Vice TV
+http://23.237.104.106:8080/USA_VICETV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/VH1_logo.svg/320px-VH1_logo.svg.png" group-title="Entertainment",VH1
+http://23.237.104.106:8080/USA_VH1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RevoltTV.us" tvg-name="Revolt TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Revolt_TV_logo.svg/320px-Revolt_TV_logo.svg.png" group-title="Entertainment",Revolt TV
+http://23.237.104.106:8080/USA_REVOLT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="WEtv.us" tvg-name="WE tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/WE_tv_logo.svg/320px-WE_tv_logo.svg.png" group-title="Entertainment",WE tv
+http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/seventyfive/Cinemax_2014.svg/320px-Cinemax_2014.svg.png" group-title="Movies & Premium",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Movies & Premium",HBO
+http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Movies & Premium",HBO2
+http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Movies & Premium",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Showtime.svg/320px-Showtime.svg.png" group-title="Movies & Premium",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_2016.svg/320px-Starz_2016.svg.png" group-title="Movies & Premium",Starz
+http://23.237.104.106:8080/USA_STARZ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TCMEast.us" tvg-name="TCM East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TCM_Logo_2020.svg/320px-TCM_Logo_2020.svg.png" group-title="Movies & Premium",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Discovery_Channel_logo.svg/320px-Discovery_Channel_logo.svg.png" group-title="Lifestyle & Science",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeMovieNetwork.us" tvg-name="Lifetime Movie Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lifetime_Movie_Network_logo.svg/320px-Lifetime_Movie_Network_logo.svg.png" group-title="Entertainment",LMN
+http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" group-title="Lifestyle & Science",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fuse_TV_logo.svg/320px-Fuse_TV_logo.svg.png" group-title="Entertainment",Fuse
+http://23.237.104.106:8080/USA_FUSE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FXM_logo.svg/320px-FXM_logo.svg.png" group-title="Entertainment",FXM
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Freeform_2016_logo.svg/320px-Freeform_2016_logo.svg.png" group-title="Entertainment",Freeform
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/fifty/Hallmark_Channel_logo.svg/320px-Hallmark_Channel_logo.svg.png" group-title="Entertainment",Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nat_Geo_Wild_logo.svg/320px-Nat_Geo_Wild_logo.svg.png" group-title="Lifestyle & Science",National Geographic Wild
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/twenty/Animal_Planet_logo_2018.svg/320px-Animal_Planet_logo_2018.svg.png" group-title="Lifestyle & Science",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Court_TV_logo_2019.svg/320px-Court_TV_logo_2019.svg.png" group-title="Crime & Investigation",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Boomerang_2015_logo.svg/320px-Boomerang_2015_logo.svg.png" group-title="Kids",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/eight/Disney_Junior_logo.svg/320px-Disney_Junior_logo.svg.png" group-title="Kids",Disney Junior
+https://hlsr-app.vercel.app/api/proxy?url=http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/eight/Disney_XD_2015_logo.svg/320px-Disney_XD_2015_logo.svg.png" group-title="Kids",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Bounce_TV_logo.svg/320px-Bounce_TV_logo.svg.png" group-title="Free & Broadcast",Bounce TV
+http://23.237.104.106:8080/USA_BOUNCE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="BUZZR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Buzzr_logo.svg/320px-Buzzr_logo.svg.png" group-title="Free & Broadcast",BUZZR
+https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="CometTV.us" tvg-name="Comet TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Comet_%28TV_network%29_logo.svg/320px-Comet_%28TV_network%29_logo.svg.png" group-title="Free & Broadcast",Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
+
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/thirty/Cozi_TV_logo.svg/320px-Cozi_TV_logo.svg.png" group-title="Free & Broadcast",Cozi TV
+http://173.225.32.123/Cozi-2358/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="EbonyTV.us" tvg-name="Ebony TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/forty/Ebony_magazine_logo.svg/320px-Ebony_magazine_logo.svg.png" group-title="Free & Broadcast",Ebony TV
+https://amg00353-amg00353c34-lg-us-3767.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-ebonytv-lgus/cb573b1d6573618984cb376fcef44382847d3dd50e2fd63471a9448f1298410ddafbb2d3932fff695c811fc060036d555879cc1bd77d0ad7b923f6573077073c9c9cab6ba8d95266c0814b747ff0390157fa1e738567107bd6e7555ad473e6344d41b9473d1862c4f02ef43258c780088e7e2988acc0303a2c5e5b97095fe3f24cb7ade25e40d039a8e2014e967d44fa83439fd501e9d6805d8316847fa3459a95a48c8515d7e42f52937f8ab5a2c54007fbb54ad1a468b8d38e6c3ddc423c470a50f5d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe5fe28727cac5932692a4b8d74f4e37a0862809972278c2f8990312c70ecdabfbda7a7290f75e1f2dac3f8b70796dc2b4a371f584d57f66a224964964c4935391cc9d8123af7ce900ec04c7c2e6913e43014d0115b964ad8866e1d7bc12a7e51c25550216fcd40684ceee573e664091931efa275be88bc5d3915f629a344e14bf32800a5e2cfb3d622ab176b9826a38c0662b952502d951218e47efab63a3f39bd30329a6d7c84cb03dbefb599fbe50f8236f1752fabf0b5651162f80bc335c602a9208e580cbb5235104bea1cf8c80395230301956039cf1a721cbfcb2072956900368303a414ec65083278852105154a05cb4880c678e122e3decc5660eba0d43234f30e1351096dba82a1a182718dba409ca7c50/93/1920x1080_8048040/index.m3u8
+
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/thirty/Game_Show_Network_logo.svg/320px-Game_Show_Network_logo.svg.png" group-title="Free & Broadcast",Game Show Central
+https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
+
+#EXTINF:-1 tvg-id="GritTV.us" tvg-name="Grit TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Grit_%28TV_network%29_logo.svg/320px-Grit_%28TV_network%29_logo.svg.png" group-title="Free & Broadcast",Grit TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/40583.m3u8
+
+#EXTINF:-1 tvg-id="getTV.us" tvg-name="getTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GetTV_logo.svg/320px-GetTV_logo.svg.png" group-title="Free & Broadcast",getTV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.m3u8
+
+#EXTINF:-1 tvg-id="ION.us" tvg-name="ION Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ion_Television_2020_logo.svg/320px-Ion_Television_2020_logo.svg.png" group-title="Free & Broadcast",ION Television
+https://pb-xhb3ic8b61whm.akamaized.net/Ion_US_6.m3u8
