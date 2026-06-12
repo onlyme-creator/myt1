@@ -86,6 +86,7 @@ jobs:
           else
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
             git commit -m "chore: update playlist [${TIMESTAMP}]"
+            git pull --rebase origin main
             git push
           fi
 
