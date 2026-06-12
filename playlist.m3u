@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="epg.xml.gz" x-tvg-url="epg.xml.gz"
 
 #EXTINF:-1 tvg-id="WWBT.us" tvg-name="WWBT NBC12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NBC_2013_current_logo.svg/320px-NBC_2013_current_logo.svg.png" group-title="Local News",12 On Your Side Richmond
 https://amg00312-amg00312c35-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c35-amgplt0022/playlist.m3u8
