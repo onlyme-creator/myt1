@@ -807,7 +807,7 @@ def compile_playlist(channels: list) -> tuple[str, list, list]:
     Dead channels are excluded from the playlist but their definitions
     remain untouched in CHANNELS so they auto-recover on the next run.
     """
-    lines   = ["#EXTM3U url-tvg=\"epg.xml.gz\" x-tvg-url=\"epg.xml.gz\""]
+    lines   = ["#EXTM3U url-tvg=\"shrunk_epg.xml\" x-tvg-url=\"shrunk_epg.xml\""]
     alive   = []
     dead    = []
 
