@@ -36,6 +36,12 @@ http://stream.cammonitorplus.net/1752/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" group-title="Sports",ESPN2
+http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15950.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" group-title="Sports",ESPN2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2581.m3u8
+
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ESPNU_logo.svg/320px-ESPNU_logo.svg.png" group-title="Sports",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/tracks-v1a1/mono.m3u8
 
