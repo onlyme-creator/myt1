@@ -1,6 +1,9 @@
-# Dead channels as of 2026-06-16 02:23 UTC
+# Dead channels as of 2026-06-16 14:26 UTC
 # These are automatically excluded from playlist.m3u
 # They will reappear automatically if they come back online
+
+[Sports] ESPN2
+  url: http://41.223.30.230/ESPN2/tracks-v1a1/mono.m3u8
 
 [Crime & Investigation] Investigation Discovery
   url: http://kytv.xyz/live/20022002/20022002/175883.m3u8
