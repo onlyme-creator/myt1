@@ -1,9 +1,9 @@
 IPTV Playlist Health Report
-Generated : 2026-06-16 15:17 UTC
+Generated : 2026-06-16 15:48 UTC
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Total channels : 71
-✅ Alive        : 69
+Total channels : 72
+✅ Alive        : 70
 ❌ Dead         : 2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -16,7 +16,7 @@ DEAD CHANNELS (2):
      http://kytv.xyz/live/20022002/20022002/175883.m3u8
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ALIVE CHANNELS (69):
+ALIVE CHANNELS (70):
 
   ✅ [Local News] 12 On Your Side Richmond
   ✅ [News] CBS News
@@ -53,6 +53,7 @@ ALIVE CHANNELS (69):
   ✅ [Entertainment] TV Land
   ✅ [Entertainment] TNT
   ✅ [Entertainment] truTV
+  ✅ [Entertainment] USA Network East HD
   ✅ [Entertainment] Vice TV
   ✅ [Entertainment] VH1
   ✅ [Entertainment] Revolt TV
