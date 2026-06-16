@@ -391,6 +391,15 @@ CHANNELS = [
         "dynamic":      False,
     },
     {
+        "display_name": "USA Network East HD",
+        "tvg_id":       "USA.us",
+        "tvg_name":     "USA Network East HD",
+        "tvg_logo":     "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58452_dark_360w_270h.png",
+        "group_title":  "Entertainment",
+        "url":          "http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15905.m3u8",
+        "dynamic":      False,
+    },
+    {
         "display_name": "Vice TV",
         "tvg_id":       "ViceTV.us",
         "tvg_name":     "Vice TV",
