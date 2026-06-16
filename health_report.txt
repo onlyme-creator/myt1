@@ -1,22 +1,19 @@
 IPTV Playlist Health Report
-Generated : 2026-06-16 00:45 UTC
+Generated : 2026-06-16 01:58 UTC
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Total channels : 69
-✅ Alive        : 67
-❌ Dead         : 2
+✅ Alive        : 68
+❌ Dead         : 1
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DEAD CHANNELS (2):
-
-  ❌ [Crime & Investigation] Charge! TV
-     http://kytv.xyz/live/20022002/20022002/1407188.m3u8
+DEAD CHANNELS (1):
 
   ❌ [Crime & Investigation] Investigation Discovery
      http://kytv.xyz/live/20022002/20022002/175883.m3u8
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ALIVE CHANNELS (67):
+ALIVE CHANNELS (68):
 
   ✅ [Local News] 12 On Your Side Richmond
   ✅ [News] CBS News
@@ -73,6 +70,7 @@ ALIVE CHANNELS (67):
   ✅ [Lifestyle & Science] National Geographic Wild
   ✅ [Lifestyle & Science] Animal Planet
   ✅ [Crime & Investigation] Court TV
+  ✅ [Crime & Investigation] Charge! TV
   ✅ [Kids] Boomerang
   ✅ [Kids] Disney Junior
   ✅ [Kids] Disney XD

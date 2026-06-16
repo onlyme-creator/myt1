@@ -165,6 +165,9 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Court_TV_logo_2019.svg/320px-Court_TV_logo_2019.svg.png" group-title="Crime & Investigation",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ChargeTV.us" tvg-name="Charge! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/thirty/Charge_TV_logo.svg/320px-Charge_TV_logo.svg.png" group-title="Crime & Investigation",Charge! TV
+http://freedom4all365.top:8080/live/Konner/Konner/175943.m3u8
+
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Boomerang_2015_logo.svg/320px-Boomerang_2015_logo.svg.png" group-title="Kids",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 
