@@ -600,7 +600,7 @@ CHANNELS = [
     },
     {
         "display_name": "Charge! TV",
-        "tvg_id":       "ChargeTV.us",
+        "tvg_id":       "CHARGETV.us",
         "tvg_name":     "Charge! TV",
         "tvg_logo":     "https://upload.wikimedia.org/wikipedia/en/thumb/3/thirty/Charge_TV_logo.svg/320px-Charge_TV_logo.svg.png",
         "group_title":  "Crime & Investigation",
