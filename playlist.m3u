@@ -102,6 +102,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TruTVEast.us" tvg-name="truTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/TruTV_logo_2014.svg/320px-TruTV_logo_2014.svg.png" group-title="Entertainment",truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-id="USA.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/320px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3767.m3u8
+
 #EXTINF:-1 tvg-id="ViceTV.us" tvg-name="Vice TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Vice_TV_logo.svg/320px-Vice_TV_logo.svg.png" group-title="Entertainment",Vice TV
 http://23.237.104.106:8080/USA_VICETV/tracks-v1a1/mono.m3u8
 
@@ -128,6 +131,9 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Showtime.svg/320px-Showtime.svg.png" group-title="Movies & Premium",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Showtime.svg/320px-Showtime.svg.png" group-title="Movies & Premium",Showtime Extreme
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984
 
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_2016.svg/320px-Starz_2016.svg.png" group-title="Movies & Premium",Starz
 http://23.237.104.106:8080/USA_STARZ/tracks-v1a1/mono.m3u8
