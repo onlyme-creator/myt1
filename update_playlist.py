@@ -577,7 +577,7 @@ CHANNELS = [
         "tvg_name":     "Charge! TV",
         "tvg_logo":     "https://upload.wikimedia.org/wikipedia/en/thumb/3/thirty/Charge_TV_logo.svg/320px-Charge_TV_logo.svg.png",
         "group_title":  "Crime & Investigation",
-        "url":          "http://kytv.xyz/live/20022002/20022002/1407188.m3u8",
+        "url":          "http://freedom4all365.top:8080/live/Konner/Konner/175943.m3u8",
         "dynamic":      False,
     },
     {
