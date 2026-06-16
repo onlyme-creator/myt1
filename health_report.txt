@@ -1,22 +1,19 @@
 IPTV Playlist Health Report
-Generated : 2026-06-16 16:21 UTC
+Generated : 2026-06-16 18:20 UTC
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Total channels : 72
-✅ Alive        : 70
-❌ Dead         : 2
+✅ Alive        : 71
+❌ Dead         : 1
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DEAD CHANNELS (2):
-
-  ❌ [Sports] ESPN2
-     http://41.223.30.230/ESPN2/tracks-v1a1/mono.m3u8
+DEAD CHANNELS (1):
 
   ❌ [Crime & Investigation] Investigation Discovery
      http://kytv.xyz/live/20022002/20022002/175883.m3u8
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ALIVE CHANNELS (70):
+ALIVE CHANNELS (71):
 
   ✅ [Local News] 12 On Your Side Richmond
   ✅ [News] CBS News
@@ -30,6 +27,7 @@ ALIVE CHANNELS (70):
   ✅ [Broadcast] Fox 1
   ✅ [Broadcast] Fox 2
   ✅ [Sports] ESPN
+  ✅ [Sports] ESPN2
   ✅ [Sports] ESPN2
   ✅ [Sports] ESPN2
   ✅ [Sports] ESPNU
