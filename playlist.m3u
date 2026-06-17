@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="shrunk_epg.xml" x-tvg-url="shrunk_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/onlyme-creator/myt1/refs/heads/main/shrunk_epg.xml" x-tvg-url="https://raw.githubusercontent.com/onlyme-creator/myt1/refs/heads/main/shrunk_epg.xml"
 
 #EXTINF:-1 tvg-id="WWBT.us" tvg-name="WWBT NBC12 Richmond" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NBC_2013_current_logo.svg/320px-NBC_2013_current_logo.svg.png" group-title="Local News",12 On Your Side Richmond
 https://amg00312-amg00312c35-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c35-amgplt0022/playlist.m3u8
@@ -174,7 +174,7 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&h=270" group-title="Crime & Investigation",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CHARGETV.us" tvg-name="CHARGE!" tvg-logo="http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=360&h=270" group-title="Crime & Investigation",Charge! TV
+#EXTINF:-1 tvg-id="Charge.us" tvg-name="CHARGE!" tvg-logo="http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=360&h=270" group-title="Crime & Investigation",Charge! TV
 http://freedom4all365.top:8080/live/Konner/Konner/175943.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&h=270" group-title="Kids",Boomerang
