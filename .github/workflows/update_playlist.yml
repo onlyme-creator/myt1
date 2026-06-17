@@ -79,14 +79,13 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add playlist.m3u dead_channels.txt health_report.txt
+          git add playlist.m3u dead_channels.txt health_report.txt shrunk_epg.xml plex_us_epg.xml
 
           if git diff --cached --quiet; then
             echo "No changes — nothing to commit."
           else
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
             git commit -m "chore: update playlist [${TIMESTAMP}]"
-            git pull --rebase origin main
             git push
           fi
 
