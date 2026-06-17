@@ -69,11 +69,30 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # ── 5. Run the playlist compiler ──────────────────────────────────────
+      # ── 5. Download and decompress the EPG source file ───────────────────
+      #
+      # Downloads the gzipped XMLTV EPG from epgshare01.online and
+      # decompresses it to epg_ripper_US2.xml in the workspace root.
+      # The -f flag makes curl fail loudly if the server returns an error.
+      # The --retry flags handle transient network blips gracefully.
+      #
+      - name: Download EPG source
+        run: |
+          echo "[+] Downloading EPG source..."
+          curl -f --retry 3 --retry-delay 5 --retry-connrefused \
+            -o epg_ripper_US2.xml.gz \
+            "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+
+          echo "[+] Decompressing EPG source..."
+          gunzip -f epg_ripper_US2.xml.gz
+
+          echo "[+] EPG ready: $(du -sh epg_ripper_US2.xml | cut -f1) uncompressed"
+
+      # ── 6. Run the playlist compiler ──────────────────────────────────────
       - name: Compile playlist
         run: python update_playlist.py
 
-      # ── 6. Commit playlist, EPG, and health files ────────────────────────────
+      # ── 7. Commit playlist, EPG, and health files ────────────────────────────
       - name: Commit updated files
         run: |
           git config user.name  "github-actions[bot]"
@@ -89,7 +108,7 @@ jobs:
             git push
           fi
 
-      # ── 7. Open or close a GitHub Issue based on dead channels ───────────────
+      # ── 8. Open or close a GitHub Issue based on dead channels ───────────────
       #
       # Requires: Settings → Actions → General → Workflow permissions →
       #           "Read and write permissions" (already needed for the push above)
