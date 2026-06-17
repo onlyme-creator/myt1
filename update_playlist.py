@@ -1,15 +1,13 @@
 import re
 import os
 import glob
+import sys
 from lxml import etree
 
 # --- Configuration ---
-# Dynamically resolve the script's own directory — works on Windows, Linux, and macOS.
-# No hardcoded paths, so GitHub Actions (Linux) and your local Windows machine both work.
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PLAYLIST_FILE = os.path.join(SCRIPT_DIR, "playlist.m3u")
 OUTPUT_FILE = os.path.join(SCRIPT_DIR, "shrunk_epg.xml")
-EPG_PATTERN = os.path.join(SCRIPT_DIR, "epg_ripper_US2*.xml")
 TIMEZONE_OFFSET = "-0400"
 
 def extract_channel_ids(playlist_path):
@@ -31,15 +29,88 @@ def extract_channel_ids(playlist_path):
     print(f"[+] Found {len(channel_ids)} unique channel IDs in playlist.")
     return channel_ids
 
-def find_epg_source(pattern):
-    """Find the EPG source file matching the glob pattern."""
-    matches = glob.glob(pattern)
-    if not matches:
-        raise FileNotFoundError(f"No EPG source file found matching: {pattern}")
-    if len(matches) > 1:
-        print(f"[!] Multiple EPG files found, using: {matches[0]}")
-    print(f"[+] Using EPG source: {matches[0]}")
-    return matches[0]
+def find_epg_source():
+    """
+    Search for the EPG source file across all likely locations.
+    Priority order:
+      1. EPG_FILE env var (set this in your Actions workflow for a guaranteed path)
+      2. Same directory as the script
+      3. Current working directory
+      4. Workspace root (common in GitHub Actions: /home/runner/work/REPO/REPO)
+      5. Full recursive search from the repo root downward
+    """
+    pattern = "epg_ripper_US2*.xml"
+
+    # 1. Explicit env var override — most reliable in CI
+    env_path = os.environ.get("EPG_FILE")
+    if env_path:
+        if os.path.isfile(env_path):
+            print(f"[+] EPG source from EPG_FILE env var: {env_path}")
+            return env_path
+        else:
+            print(f"[!] EPG_FILE env var set to '{env_path}' but file not found there.")
+
+    # 2. Build a list of candidate directories to search
+    search_dirs = []
+
+    # Script's own directory
+    search_dirs.append(SCRIPT_DIR)
+
+    # Current working directory (may differ from script dir in CI)
+    cwd = os.getcwd()
+    if cwd not in search_dirs:
+        search_dirs.append(cwd)
+
+    # GitHub Actions workspace root: /home/runner/work/REPO/REPO
+    # Walk up from script dir to find the workspace root
+    candidate = SCRIPT_DIR
+    for _ in range(6):
+        candidate = os.path.dirname(candidate)
+        if candidate and candidate not in search_dirs:
+            search_dirs.append(candidate)
+        if candidate in ("/", ""):
+            break
+
+    # Also check GITHUB_WORKSPACE env var if present
+    gh_workspace = os.environ.get("GITHUB_WORKSPACE")
+    if gh_workspace and gh_workspace not in search_dirs:
+        search_dirs.append(gh_workspace)
+
+    # 3. Check each candidate dir (non-recursive first — fast)
+    print(f"[+] Searching for '{pattern}' in candidate directories...")
+    for d in search_dirs:
+        matches = glob.glob(os.path.join(d, pattern))
+        if matches:
+            print(f"[+] Found EPG source: {matches[0]}")
+            return matches[0]
+
+    # 4. Recursive fallback — search entire repo tree from workspace root
+    root = gh_workspace or SCRIPT_DIR
+    # Walk up to a likely repo root (stop at filesystem root or after 4 levels)
+    for _ in range(4):
+        parent = os.path.dirname(root)
+        if parent == root:
+            break
+        root = parent
+
+    print(f"[+] Falling back to recursive search under: {root}")
+    for dirpath, dirnames, filenames in os.walk(root):
+        # Skip hidden dirs and common noise
+        dirnames[:] = [d for d in dirnames if not d.startswith('.') and d not in ('node_modules', '__pycache__', '.git')]
+        for fname in filenames:
+            if re.match(r'epg_ripper_US2.*\.xml$', fname, re.IGNORECASE):
+                found = os.path.join(dirpath, fname)
+                print(f"[+] Found EPG source (recursive): {found}")
+                return found
+
+    # 5. Nothing found — print a helpful diagnostic before raising
+    print("\n[!] Could not locate the EPG source file. Diagnostic info:")
+    print(f"    Script dir : {SCRIPT_DIR}")
+    print(f"    CWD        : {cwd}")
+    print(f"    Searched   : {search_dirs}")
+    print(f"    Tip: Set the EPG_FILE environment variable in your workflow, e.g.:")
+    print(f"         EPG_FILE: /home/runner/work/myt1/myt1/epg_ripper_US2_something.xml")
+    raise FileNotFoundError(f"No file matching '{pattern}' found anywhere under {root}")
 
 def clean_timestamp(raw_ts):
     """
@@ -53,7 +124,6 @@ def clean_timestamp(raw_ts):
     match = re.match(r'(\d{14})', ts_str)
     if match:
         return f"{match.group(1)} {TIMEZONE_OFFSET}"
-    # Fallback: grab any run of digits up to 14
     digits = re.sub(r'\D', '', ts_str)[:14]
     if digits:
         return f"{digits} {TIMEZONE_OFFSET}"
@@ -141,7 +211,7 @@ def main():
         print("ERROR: No channel IDs found in playlist. Aborting.")
         return
 
-    epg_source = find_epg_source(EPG_PATTERN)
+    epg_source = find_epg_source()
     build_shrunk_epg(epg_source, channel_ids, OUTPUT_FILE)
 
     print("=" * 60)
