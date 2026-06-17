@@ -1,110 +1,162 @@
-import os
 import re
-import xml.etree.ElementTree as ET
+import os
+import glob
+from lxml import etree
 
-print("==============================================")
-print("🚀 RUNNING SECURE EPG REBUILD ENGINE")
-print("==============================================")
+# --- Configuration ---
+SCRIPT_DIR = r"C:\Users\Administrator\Documents\TV"
+PLAYLIST_FILE = os.path.join(SCRIPT_DIR, "playlist.m3u")
+OUTPUT_FILE = os.path.join(SCRIPT_DIR, "shrunk_epg.xml")
+EPG_PATTERN = os.path.join(SCRIPT_DIR, "epg_ripper_US2*.xml")
+TIMEZONE_OFFSET = "-0400"
 
-# Dynamic path handles local testing and cloud execution automatically
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-PLAYLIST_PATH = os.path.join(BASE_DIR, "playlist.m3u")
-OUTPUT_EPG_PATH = os.path.join(BASE_DIR, "shrunk_epg.xml")
-
-# 1. Automatically locate your local epg_ripper source file
-source_file = None
-for f in os.listdir(BASE_DIR):
-    if f.startswith("epg_ripper_US2") and f.endswith(".xml"):
-        source_file = os.path.join(BASE_DIR, f)
-        break
-
-if not source_file:
-    print("❌ ERROR: Could not find any epg_ripper_US2 XML file in your folder!")
-    exit()
-
-print(f"📦 Found source guide file: {os.path.basename(source_file)}")
-
-# 2. Extract active channel IDs from your playlist
-target_ids = set()
-if os.path.exists(PLAYLIST_PATH):
-    print(f"📖 Reading your active playlist: {PLAYLIST_PATH}")
-    id_pattern = re.compile(r'tvg-id="([^"]+)"')
-    name_pattern = re.compile(r'tvg-name="([^"]+)"')
-    
-    with open(PLAYLIST_PATH, 'r', encoding='utf-8', errors='ignore') as f:
-        for line in f:
-            if line.startswith('#EXTINF:'):
-                id_match = id_pattern.search(line)
-                name_match = name_pattern.search(line)
-                if id_match:
-                    target_ids.add(id_match.group(1).strip())
-                elif name_match:
-                    target_ids.add(name_match.group(1).strip())
-else:
-    print("❌ ERROR: playlist.m3u not found!")
-    exit()
-
-# Force hardcoded fallback bridges for USA and Charge tags
-target_ids.add("USA.us")
-target_ids.add("USANetwork.us")
-target_ids.add("Charge.us")
-
-print(f"🎯 Matching criteria enabled for {len(target_ids)} channels.")
-
-# 3. Stream through XML elements, extract data, and enforce Eastern Time zone
-try:
-    context = ET.iterparse(source_file, events=('start', 'end'))
-    new_root = ET.Element("tv")
-    
+def extract_channel_ids(playlist_path):
+    """Parse playlist.m3u and extract all tvg-id values."""
+    channel_ids = set()
     try:
-        _, first_el = next(context)
-        if first_el.tag == 'tv':
-            new_root.attrib = first_el.attrib
-    except StopIteration:
-        pass
+        with open(playlist_path, "r", encoding="utf-8", errors="replace") as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith("#EXTINF"):
+                    match = re.search(r'tvg-id="([^"]+)"', line, re.IGNORECASE)
+                    if match:
+                        tvg_id = match.group(1).strip()
+                        if tvg_id:
+                            channel_ids.add(tvg_id)
+    except FileNotFoundError:
+        print(f"ERROR: Playlist file not found: {playlist_path}")
+        raise
+    print(f"[+] Found {len(channel_ids)} unique channel IDs in playlist.")
+    return channel_ids
 
-    channel_count = 0
-    prog_count = 0
+def find_epg_source(pattern):
+    """Find the EPG source file matching the glob pattern."""
+    matches = glob.glob(pattern)
+    if not matches:
+        raise FileNotFoundError(f"No EPG source file found matching: {pattern}")
+    if len(matches) > 1:
+        print(f"[!] Multiple EPG files found, using: {matches[0]}")
+    print(f"[+] Using EPG source: {matches[0]}")
+    return matches[0]
 
-    print("⚡ Syncing schedules, embedding logos, and forcing Eastern Time...")
+def clean_timestamp(raw_ts):
+    """
+    Safely extract the first 14 digits from a timestamp string and
+    append the Eastern timezone offset. Returns a plain string with
+    NO brackets or quotes, e.g. '20260617120000 -0400'.
+    """
+    if not raw_ts:
+        return ""
+    # Strip whitespace and extract only the first 14 digit characters
+    ts_str = str(raw_ts).strip()
+    match = re.match(r'(\d{14})', ts_str)
+    if match:
+        return f"{match.group(1)} {TIMEZONE_OFFSET}"
+    # Fallback: grab any run of digits up to 14
+    digits = re.sub(r'\D', '', ts_str)[:14]
+    if digits:
+        return f"{digits} {TIMEZONE_OFFSET}"
+    return ts_str  # Return as-is if nothing matched
+
+def build_shrunk_epg(epg_source, channel_ids, output_path):
+    """
+    Stream-parse the large EPG XML file, keep only matching channels
+    and their programmes, fix timestamps, and write clean output XML.
+    """
+    matched_channels = {}   # id -> lxml Element
+    matched_programmes = [] # list of lxml Elements
+
+    print(f"[+] Stream-parsing EPG source (this may take a moment)...")
+
+    context = etree.iterparse(
+        epg_source,
+        events=("end",),
+        tag=("channel", "programme"),
+        recover=True,
+        encoding="utf-8"
+    )
+
+    processed = 0
     for event, elem in context:
-        if event == 'end':
-            if elem.tag == 'channel':
-                ch_id = elem.get('id')
-                if ch_id in target_ids:
-                    new_root.append(elem)
-                    channel_count += 1
-                else:
-                    elem.clear()
-                    
-            elif elem.tag == 'programme':
-                p_id = elem.get('channel')
-                if p_id in target_ids:
-                    start_time = elem.get('start')
-                    stop_time = elem.get('stop')
-                    
-                    # Clean punctuation tails cleanly as strings, avoiding list splitting bugs
-                    if start_time:
-                        clean_start = re.match(r'^(\d{14})', start_time.strip())
-                        if clean_start:
-                            elem.set('start', f"{clean_start.group(1)} -0400")
-                            
-                    if stop_time:
-                        clean_stop = re.match(r'^(\d{14})', stop_time.strip())
-                        if clean_stop:
-                            elem.set('stop', f"{clean_stop.group(1)} -0400")
-                    
-                    new_root.append(elem)
-                    prog_count += 1
-                else:
-                    elem.clear()
+        tag = elem.tag
 
-    print(f"📊 Processed {channel_count} channels containing {prog_count} show blocks.")
-    
-    # Compile files back to directory target
-    tree = ET.ElementTree(new_root)
-    tree.write(OUTPUT_EPG_PATH, encoding='utf-8', xml_declaration=True)
-    print(f"✅ SUCCESS! Guide generated smoothly at: {OUTPUT_EPG_PATH}")
+        if tag == "channel":
+            ch_id = (elem.get("id") or "").strip()
+            if ch_id in channel_ids:
+                # Deep copy so we can clear the tree safely
+                matched_channels[ch_id] = elem
+            else:
+                elem.clear()
 
-except Exception as e:
-    print(f"❌ CRITICAL LOG EXTRACTION FAULT: {e}")
+        elif tag == "programme":
+            ch_id = (elem.get("channel") or "").strip()
+            if ch_id in channel_ids:
+                # Fix the start timestamp
+                raw_start = elem.get("start", "")
+                clean_start = clean_timestamp(raw_start)
+                elem.set("start", clean_start)
+
+                # Fix the stop timestamp
+                raw_stop = elem.get("stop", "")
+                clean_stop = clean_timestamp(raw_stop)
+                elem.set("stop", clean_stop)
+
+                matched_programmes.append(elem)
+            else:
+                elem.clear()
+
+        processed += 1
+        if processed % 50000 == 0:
+            print(f"    ...processed {processed:,} elements so far")
+
+    print(f"[+] Done parsing. Matched {len(matched_channels)} channels, "
+          f"{len(matched_programmes)} programmes.")
+
+    # --- Build output XML tree ---
+    print(f"[+] Building output XML...")
+    tv_root = etree.Element("tv")
+    tv_root.set("generator-info-name", "shrunk_epg_builder")
+
+    # Write matched channel elements first
+    for ch_id in channel_ids:
+        if ch_id in matched_channels:
+            tv_root.append(matched_channels[ch_id])
+
+    # Write matched programme elements
+    for prog in matched_programmes:
+        tv_root.append(prog)
+
+    # --- Serialize to file ---
+    print(f"[+] Writing output to: {output_path}")
+    tree = etree.ElementTree(tv_root)
+    tree.write(
+        output_path,
+        xml_declaration=True,
+        encoding="UTF-8",
+        pretty_print=True
+    )
+    print(f"[+] Successfully wrote: {output_path}")
+
+def main():
+    print("=" * 60)
+    print("  shrunk_epg builder — TiviMate EPG Filter Script")
+    print("=" * 60)
+
+    # Step 1: Extract channel IDs from playlist
+    channel_ids = extract_channel_ids(PLAYLIST_FILE)
+    if not channel_ids:
+        print("ERROR: No channel IDs found in playlist. Aborting.")
+        return
+
+    # Step 2: Locate EPG source file
+    epg_source = find_epg_source(EPG_PATTERN)
+
+    # Step 3 & 4: Parse EPG, fix timestamps, build output
+    build_shrunk_epg(epg_source, channel_ids, OUTPUT_FILE)
+
+    print("=" * 60)
+    print("  All done! Load shrunk_epg.xml into TiviMate.")
+    print("=" * 60)
+
+if __name__ == "__main__":
+    main()
