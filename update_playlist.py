@@ -4,7 +4,9 @@ import glob
 from lxml import etree
 
 # --- Configuration ---
-SCRIPT_DIR = r"C:\Users\Administrator\Documents\TV"
+# Dynamically resolve the script's own directory — works on Windows, Linux, and macOS.
+# No hardcoded paths, so GitHub Actions (Linux) and your local Windows machine both work.
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PLAYLIST_FILE = os.path.join(SCRIPT_DIR, "playlist.m3u")
 OUTPUT_FILE = os.path.join(SCRIPT_DIR, "shrunk_epg.xml")
 EPG_PATTERN = os.path.join(SCRIPT_DIR, "epg_ripper_US2*.xml")
@@ -47,7 +49,6 @@ def clean_timestamp(raw_ts):
     """
     if not raw_ts:
         return ""
-    # Strip whitespace and extract only the first 14 digit characters
     ts_str = str(raw_ts).strip()
     match = re.match(r'(\d{14})', ts_str)
     if match:
@@ -56,15 +57,15 @@ def clean_timestamp(raw_ts):
     digits = re.sub(r'\D', '', ts_str)[:14]
     if digits:
         return f"{digits} {TIMEZONE_OFFSET}"
-    return ts_str  # Return as-is if nothing matched
+    return ts_str
 
 def build_shrunk_epg(epg_source, channel_ids, output_path):
     """
     Stream-parse the large EPG XML file, keep only matching channels
     and their programmes, fix timestamps, and write clean output XML.
     """
-    matched_channels = {}   # id -> lxml Element
-    matched_programmes = [] # list of lxml Elements
+    matched_channels = {}
+    matched_programmes = []
 
     print(f"[+] Stream-parsing EPG source (this may take a moment)...")
 
@@ -83,7 +84,6 @@ def build_shrunk_epg(epg_source, channel_ids, output_path):
         if tag == "channel":
             ch_id = (elem.get("id") or "").strip()
             if ch_id in channel_ids:
-                # Deep copy so we can clear the tree safely
                 matched_channels[ch_id] = elem
             else:
                 elem.clear()
@@ -91,12 +91,10 @@ def build_shrunk_epg(epg_source, channel_ids, output_path):
         elif tag == "programme":
             ch_id = (elem.get("channel") or "").strip()
             if ch_id in channel_ids:
-                # Fix the start timestamp
                 raw_start = elem.get("start", "")
                 clean_start = clean_timestamp(raw_start)
                 elem.set("start", clean_start)
 
-                # Fix the stop timestamp
                 raw_stop = elem.get("stop", "")
                 clean_stop = clean_timestamp(raw_stop)
                 elem.set("stop", clean_stop)
@@ -112,21 +110,17 @@ def build_shrunk_epg(epg_source, channel_ids, output_path):
     print(f"[+] Done parsing. Matched {len(matched_channels)} channels, "
           f"{len(matched_programmes)} programmes.")
 
-    # --- Build output XML tree ---
     print(f"[+] Building output XML...")
     tv_root = etree.Element("tv")
     tv_root.set("generator-info-name", "shrunk_epg_builder")
 
-    # Write matched channel elements first
     for ch_id in channel_ids:
         if ch_id in matched_channels:
             tv_root.append(matched_channels[ch_id])
 
-    # Write matched programme elements
     for prog in matched_programmes:
         tv_root.append(prog)
 
-    # --- Serialize to file ---
     print(f"[+] Writing output to: {output_path}")
     tree = etree.ElementTree(tv_root)
     tree.write(
@@ -142,16 +136,12 @@ def main():
     print("  shrunk_epg builder — TiviMate EPG Filter Script")
     print("=" * 60)
 
-    # Step 1: Extract channel IDs from playlist
     channel_ids = extract_channel_ids(PLAYLIST_FILE)
     if not channel_ids:
         print("ERROR: No channel IDs found in playlist. Aborting.")
         return
 
-    # Step 2: Locate EPG source file
     epg_source = find_epg_source(EPG_PATTERN)
-
-    # Step 3 & 4: Parse EPG, fix timestamps, build output
     build_shrunk_epg(epg_source, channel_ids, OUTPUT_FILE)
 
     print("=" * 60)
