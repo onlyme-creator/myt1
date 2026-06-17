@@ -85,7 +85,6 @@ jobs:
             echo "No changes — nothing to commit."
           else
             TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
-            git pull --rebase origin main
             git commit -m "chore: update playlist [${TIMESTAMP}]"
             git push
           fi
