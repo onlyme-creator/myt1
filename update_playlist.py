@@ -27,6 +27,18 @@ from bs4 import BeautifulSoup
 OUTPUT_FILE     = "playlist.m3u"
 EPG_FILE        = "shrunk_epg.xml"
 EPG_URL         = "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz"
+
+# Secondary EPG source — i.mjh.nz Plex US.
+# This covers channels missing from the primary EPG, specifically Charge! TV
+# (channel id "Charge.us" in this source).  The file is fetched fresh each
+# run and merged into the committed shrunk_epg.xml by merge_epg_sources().
+EPG_SECONDARY_URL  = "https://i.mjh.nz/Plex/us.xml"
+EPG_SECONDARY_FILE = "plex_us_epg.xml"
+
+# Public URL any IPTV player fetches to load EPG data.
+# url-tvg and x-tvg-url are standard XMLTV tags supported by all major
+# players (TiviMate, Kodi/IPTV Simple, OTT Navigator, IPTV Smarters, etc).
+EPG_PUBLIC_URL  = "https://raw.githubusercontent.com/onlyme-creator/myt1/refs/heads/main/shrunk_epg.xml"
 REQUEST_TIMEOUT = 15
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -600,7 +612,11 @@ CHANNELS = [
     },
     {
         "display_name": "Charge! TV",
-        "tvg_id":       "CHARGETV.us",
+        # tvg_id uses "Charge.us" — the id assigned by the i.mjh.nz Plex US
+        # EPG (secondary source), which is the only public EPG that carries
+        # Charge! schedule data.  The primary shrunk_epg.xml has a channel
+        # definition for CHARGETV.us but zero programme entries.
+        "tvg_id":       "Charge.us",
         "tvg_name":     "CHARGE!",
         "tvg_logo":     "http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=360&h=270",
         "group_title":  "Crime & Investigation",
@@ -834,7 +850,7 @@ def compile_playlist(channels: list) -> tuple[str, list, list]:
     Dead channels are excluded from the playlist but their definitions
     remain untouched in CHANNELS so they auto-recover on the next run.
     """
-    lines   = ["#EXTM3U url-tvg=\"shrunk_epg.xml\" x-tvg-url=\"shrunk_epg.xml\""]
+    lines   = [f"#EXTM3U url-tvg=\"{EPG_PUBLIC_URL}\" x-tvg-url=\"{EPG_PUBLIC_URL}\""]
     alive   = []
     dead    = []
 
@@ -950,11 +966,91 @@ def download_epg(url: str, path: str) -> bool:
     return False
 
 
+def merge_epg_sources(primary_path: str, secondary_path: str, output_path: str) -> bool:
+    """
+    Merge a secondary XMLTV file into the primary one.
+
+    Strategy:
+      - Parse both files with ElementTree.
+      - For every <channel> in the secondary that does NOT already exist in
+        the primary (matched by channel id), append it to the primary <tv>.
+      - For every <programme> in the secondary whose channel id is NOT already
+        represented in the primary, append it.
+      - Write the merged result to output_path (overwrites the primary in-place
+        when output_path == primary_path).
+
+    This keeps the primary EPG as the authority and only fills genuine gaps,
+    so duplicate programme data is never introduced.
+
+    Returns True on success, False if either file is missing or unparseable.
+    """
+    import xml.etree.ElementTree as ET
+
+    log.info("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    log.info("🔀  Merging secondary EPG into primary …")
+
+    for path in (primary_path, secondary_path):
+        if not __import__("os").path.exists(path):
+            log.warning("❌  File not found, skipping merge: %s", path)
+            return False
+
+    try:
+        primary_tree   = ET.parse(primary_path)
+        secondary_tree = ET.parse(secondary_path)
+    except ET.ParseError as exc:
+        log.warning("❌  EPG parse error during merge: %s", exc)
+        return False
+
+    primary_root   = primary_tree.getroot()
+    secondary_root = secondary_tree.getroot()
+
+    # Build sets of what the primary already knows about
+    primary_channel_ids = {ch.get("id") for ch in primary_root.findall("channel")}
+    primary_prog_channels = {p.get("channel") for p in primary_root.findall("programme")}
+
+    channels_added = 0
+    programmes_added = 0
+
+    # Merge missing channel definitions
+    for ch in secondary_root.findall("channel"):
+        cid = ch.get("id")
+        if cid not in primary_channel_ids:
+            primary_root.append(ch)
+            primary_channel_ids.add(cid)
+            channels_added += 1
+            log.info("  ➕ Channel added: %s", cid)
+
+    # Merge programme entries for channels that had no data in primary
+    for prog in secondary_root.findall("programme"):
+        cid = prog.get("channel")
+        if cid not in primary_prog_channels:
+            primary_root.append(prog)
+            programmes_added += 1
+
+    log.info("  ✅  Channels added : %d", channels_added)
+    log.info("  ✅  Programmes added: %d", programmes_added)
+
+    ET.indent(primary_root, space="  ")
+    primary_tree.write(output_path, encoding="utf-8", xml_declaration=True)
+    log.info("  💾  Merged EPG written → %s", output_path)
+    return True
+
+
 if __name__ == "__main__":
     playlist, alive, dead = compile_playlist(CHANNELS)
     write_playlist(playlist, OUTPUT_FILE)
     write_dead_channels(dead, DEAD_FILE)
     write_health_report(alive, dead, REPORT_FILE)
-    download_epg(EPG_URL, EPG_FILE)
+
+    # Step 1: download the secondary EPG (i.mjh.nz Plex US — has Charge! data)
+    download_epg(EPG_SECONDARY_URL, EPG_SECONDARY_FILE)
+
+    # Step 2: merge secondary into primary shrunk_epg.xml (fills Charge! gap)
+    merge_epg_sources(EPG_FILE, EPG_SECONDARY_FILE, EPG_FILE)
+
+    # Step 3: (optional) refresh the primary EPG from its upstream source.
+    #          Comment this out if you manage shrunk_epg.xml manually.
+    # download_epg(EPG_URL, EPG_FILE)
+
     # Exit code 0 always — dead channels are expected and handled gracefully
     sys.exit(0)
