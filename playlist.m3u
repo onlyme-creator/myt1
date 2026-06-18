@@ -135,3 +135,35 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/40583.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.m3u8
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television HD" tvg-logo="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&h=270" group-title="Free & Broadcast",ION Television
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US_6.m3u8
+#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
+#EXTINF:-1 tvg-id="62fa8176b9884200074ef5ae" tvg-name="The Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Entertainment",The Walking Dead Universe
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/9bab9bc1-1efb-4fee-9e03-9cf49be98a98/4.m3u8
+#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a" tvg-name="Stories by AMC" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="Entertainment",Stories by AMC
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/52e0ca72-2531-42c7-bacc-97bc6eecf610/4.m3u8
+#EXTINF:-1 tvg-id="666b38a5efa2a10008b15b3a" tvg-name="BET x Tyler Perry Drama" tvg-logo="https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG.png" group-title="Entertainment",BET x Tyler Perry Drama
+https://414192d1e2a74ec495a72e78890523b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-866-BETxTYLERPERRYDRAMA-TCL/9bc35396-b13b-48c0-afcf-fa2c34d69e04/0.m3u8
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png" group-title="Entertainment",TV One
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d" tvg-name="AMC Thrillers" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="Movies",AMC Thrillers
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/9f7db183-f741-4707-af23-e4652d750f73/4.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6876f8e2e50e77c59c8940c0" tvg-name="In The Heat of The Night" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5124527a-f21e-4f9a-b43a-6275fbf1aae3/ITHOTN_logo_dark_-_Carl_HoffelderRDX.png" group-title="Movies",In The Heat of The Night
+https://7b058334279b4a5b9b574cd126987c03.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1070-INTHEHEATOFTHENIGHT-TCLTV/b9da658a-19c3-4715-94c7-848350d9860b/0.m3u8
+#EXTINF:-1 tvg-id="US3300011V9" tvg-name="The First 48" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20260428T032020SQUARE.png" group-title="Crime",The First 48
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8ac8f1d1-8838-4639-99ed-900c795b789b/5.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-65282a6091e77473f1a44ff2" tvg-name="TV One Crime and Justice" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa702b5c-a659-4ddf-ba0e-a7abf4eda619/TVONE_Logo_TEAL_FULL_1500x1000.png" group-title="Crime",TV One Crime and Justice
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/d1ad3cb2-ee74-4ce0-b318-b730232b9de8/0.m3u8
+#EXTINF:-1 tvg-id="LawAndOrder.noepg" tvg-name="Law and Order" tvg-logo="" group-title="Crime",Law and Order
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/c0e93c6e-efe4-46ae-9040-3c11a9ba8636/5.m3u8
+#EXTINF:-1 tvg-id="USBD1200007FE" tvg-name="OuterSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="Sci-Fi",OuterSphere
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/363d55d0-34d6-4394-ba93-81df00a2fddd/4.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-689fb59eba3be0bafe349d35" tvg-name="The Outer Limits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2373afb-f4c2-4e2d-b61a-5b1abd8e8110/OuterLimits_logo_dark_-_Carl_HoffeldeWHITErRDX.png" group-title="Sci-Fi",The Outer Limits
+https://49477bf91d3c44a898b82f099b033948.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1145-THEROUTERLIMITS-TCLTV/4d481029-ca21-4ecf-bcd8-6c16962ff6a7/4.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68161fa001a9a5584ff27e96" tvg-name="Ancient Aliens" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2fe1556a-c271-46cb-927f-935263f2491c/AncientAliensGM_channel_logo_WHite_RDX.png" group-title="Sci-Fi",Ancient Aliens
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/84de2ab8-f7af-479d-b1d5-64bedb52f43a/5.m3u8
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png" group-title="Science and Nature",History Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63506e7747b2355a27e76e7f" tvg-name="PBS Nature" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0bbdc4ce-bd60-418c-9c1d-7bf29b98ca14/NATURE_White-BlueRDX.png" group-title="Science and Nature",PBS Nature
+https://d2irko5f9gt1c5.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-publica/2b91a450-e8c4-43bc-a359-925072abe289/4.m3u8
+#EXTINF:-1 tvg-id="US1800014CG" tvg-name="Alfred Hitchcock Presents" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png" group-title="Crime",Alfred Hitchcock Presents
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b885d021-1d5b-4f28-a251-6f68cfd25321/5.m3u8
