@@ -59,7 +59,7 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_REELZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Revolt.HD.us2" tvg-name="Revolt HD" tvg-logo="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",Revolt TV
 http://23.237.104.106:8080/USA_REVOLT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="62f2ce24f328e00007e7f55a" tvg-name="Stories by AMC" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="Entertainment",Stories by AMC
+#EXTINF:-1 tvg-id="Stories.by.AMC.us2" tvg-name="Stories by AMC" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="Entertainment",Stories by AMC
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/52e0ca72-2531-42c7-bacc-97bc6eecf610/4.m3u8
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy HD" tvg-logo="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&h=270" group-title="Entertainment",Syfy
 http://23.237.104.106:8080/USA_SYFY/tracks-v1a1/mono.m3u8
@@ -135,7 +135,7 @@ http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
 http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68161fa001a9a5584ff27e96" tvg-name="Ancient Aliens" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2fe1556a-c271-46cb-927f-935263f2491c/AncientAliensGM_channel_logo_WHite_RDX.png" group-title="Sci-Fi & Mystery",Ancient Aliens
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/84de2ab8-f7af-479d-b1d5-64bedb52f43a/5.m3u8
-#EXTINF:-1 tvg-id="USBD1200007FE" tvg-name="OuterSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="Sci-Fi & Mystery",OuterSphere
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" tvg-name="OuterSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="Sci-Fi & Mystery",OuterSphere
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/363d55d0-34d6-4394-ba93-81df00a2fddd/4.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-689fb59eba3be0bafe349d35" tvg-name="The Outer Limits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2373afb-f4c2-4e2d-b61a-5b1abd8e8110/OuterLimits_logo_dark_-_Carl_HoffeldeWHITErRDX.png" group-title="Sci-Fi & Mystery",The Outer Limits
 https://49477bf91d3c44a898b82f099b033948.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1145-THEROUTERLIMITS-TCLTV/4d481029-ca21-4ecf-bcd8-6c16962ff6a7/4.m3u8

@@ -1,206 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-  <channel id="MSNBC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MSNBC HD</display-name>
-  </channel>
-  <channel id="FX.Movie.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX Movie Channel HD</display-name>
-  </channel>
-  <channel id="TBS.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TBS HD</display-name>
-  </channel>
-  <channel id="KSNF-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KSNF-DT</display-name>
-  </channel>
-  <channel id="FXX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FXX HD</display-name>
-  </channel>
-  <channel id="Animal.Planet.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Animal Planet HD</display-name>
-  </channel>
-  <channel id="Boomerang.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Boomerang</display-name>
-  </channel>
-  <channel id="Vice.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Vice</display-name>
-  </channel>
-  <channel id="USA.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">USA Network HD</display-name>
-  </channel>
-  <channel id="FS2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS2 HD</display-name>
-  </channel>
-  <channel id="Turner.Classic.Movies.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Turner Classic Movies HD</display-name>
-  </channel>
-  <channel id="6a1610bebdf296985fd95603-6533de63bd43e1c8b1865152">
-    <display-name>Ebony TV by Lionsgate</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/09d19711-7f10-45d1-8ec9-2100d6f0d27a/EbonyTV_Logo_1500x1000_DarkBG.png"/>
-  </channel>
-  <channel id="HBO2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO2 HD</display-name>
-  </channel>
-  <channel id="62fa8176b9884200074ef5ae">
-    <display-name>The Walking Dead Universe</display-name>
-    <icon src="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png"/>
-  </channel>
-  <channel id="Paramount.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount Network HD</display-name>
-  </channel>
-  <channel id="BUZZR.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BUZZR Stream</display-name>
-  </channel>
-  <channel id="6a1610bebdf296985fd95603-6876f8e2e50e77c59c8940c0">
-    <display-name>In The Heat Of The Night by MGM</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5124527a-f21e-4f9a-b43a-6275fbf1aae3/ITHOTN_logo_dark_-_Carl_HoffelderRDX.png"/>
-  </channel>
-  <channel id="FS1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS1 HD</display-name>
-  </channel>
-  <channel id="CHARGE!.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CHARGE!</display-name>
-  </channel>
-  <channel id="Freeform.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Freeform HD</display-name>
-  </channel>
   <channel id="CBS.Streaming.SD.East.feed.us2">
     <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
     <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">CBS Streaming SD East feed</display-name>
-  </channel>
-  <channel id="truTV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">truTV HD</display-name>
-  </channel>
-  <channel id="6a1610bebdf296985fd95603-68161fa001a9a5584ff27e96">
-    <display-name>Ancient Aliens</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/2fe1556a-c271-46cb-927f-935263f2491c/AncientAliensGM_channel_logo_WHite_RDX.png"/>
-  </channel>
-  <channel id="NFL.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NFL Network HD</display-name>
-  </channel>
-  <channel id="Fuse.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fuse HD</display-name>
-  </channel>
-  <channel id="TV.Land.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV Land HD</display-name>
-  </channel>
-  <channel id="ESPN2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN2 HD</display-name>
-  </channel>
-  <channel id="HBO.Comedy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Comedy HD</display-name>
-  </channel>
-  <channel id="WFLD-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WFLD-DT</display-name>
-  </channel>
-  <channel id="NBA.TV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NBA TV HD</display-name>
-  </channel>
-  <channel id="6a1610bebdf296985fd95603-65282a6091e77473f1a44ff2">
-    <display-name>TV One Crime &amp; Justice</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/aa702b5c-a659-4ddf-ba0e-a7abf4eda619/TVONE_Logo_TEAL_FULL_1500x1000.png"/>
-  </channel>
-  <channel id="Disney.XD.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Disney XD HD</display-name>
-  </channel>
-  <channel id="KTBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KTBC-DT</display-name>
-  </channel>
-  <channel id="Revolt.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Revolt HD</display-name>
-  </channel>
-  <channel id="MTV.-.Music.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MTV - Music Television HD</display-name>
-  </channel>
-  <channel id="Bounce.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Bounce TV</display-name>
   </channel>
   <channel id="Hallmark.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
@@ -208,231 +12,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Hallmark Channel HD</display-name>
   </channel>
-  <channel id="Comedy.Central.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comedy Central HD</display-name>
-  </channel>
-  <channel id="E!.Entertainment.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">E! Entertainment Television HD</display-name>
-  </channel>
-  <channel id="VH1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">VH1 HD</display-name>
-  </channel>
-  <channel id="Court.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Court TV</display-name>
-  </channel>
-  <channel id="TV.ONE.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV ONE HD</display-name>
-  </channel>
-  <channel id="Cinemax.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax HD</display-name>
-  </channel>
-  <channel id="National.Geographic.Wild.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic Wild HD</display-name>
-  </channel>
-  <channel id="get.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">get</display-name>
-  </channel>
-  <channel id="6a1610bebdf296985fd95603-63506e7747b2355a27e76e7f">
-    <display-name>PBS Nature</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/0bbdc4ce-bd60-418c-9c1d-7bf29b98ca14/NATURE_White-BlueRDX.png"/>
-  </channel>
-  <channel id="LMN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">LMN HD</display-name>
-  </channel>
-  <channel id="Grit.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Grit</display-name>
-  </channel>
-  <channel id="A.and.E.HD.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">A and E HD East</display-name>
-  </channel>
-  <channel id="Syfy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Syfy HD</display-name>
-  </channel>
-  <channel id="62f2ce24f328e00007e7f55a">
-    <display-name>Stories by AMC</display-name>
-    <icon src="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png"/>
-  </channel>
-  <channel id="US3300011V9">
-    <display-name>The First 48</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20260428T032020SQUARE.png"/>
-  </channel>
-  <channel id="AMC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC HD</display-name>
-  </channel>
-  <channel id="Game.Show.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Game Show Network HD</display-name>
-  </channel>
-  <channel id="ABC.National.Feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ABC National Feed</display-name>
-  </channel>
   <channel id="History.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">History HD</display-name>
-  </channel>
-  <channel id="ESPN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN HD</display-name>
-  </channel>
-  <channel id="HLN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HLN HD</display-name>
-  </channel>
-  <channel id="ION.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ION Television HD</display-name>
-  </channel>
-  <channel id="COZI.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">COZI TV</display-name>
-  </channel>
-  <channel id="WE.tv.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WE tv HD</display-name>
-  </channel>
-  <channel id="Paramount+.with.Showtime.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount+ with Showtime HD</display-name>
-  </channel>
-  <channel id="FX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX HD</display-name>
-  </channel>
-  <channel id="WNBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WNBC-DT</display-name>
-  </channel>
-  <channel id="TNT.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TNT HD</display-name>
-  </channel>
-  <channel id="BET.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BET HD</display-name>
-  </channel>
-  <channel id="CNN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CNN HD</display-name>
-  </channel>
-  <channel id="ReelzChannel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ReelzChannel HD</display-name>
-  </channel>
-  <channel id="6176fd25e83a5f0007a464c9">
-    <display-name>Bounce XL</display-name>
-    <icon src="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png"/>
-  </channel>
-  <channel id="USBD1200007FE">
-    <display-name>OuterSphere</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png"/>
-  </channel>
-  <channel id="HBO.West.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO West</display-name>
-  </channel>
-  <channel id="National.Geographic.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic HD</display-name>
-  </channel>
-  <channel id="WWBT-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WWBT-DT</display-name>
-  </channel>
-  <channel id="666b38a5efa2a10008b15b3a">
-    <display-name>BET x Tyler Perry Drama</display-name>
-    <icon src="https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG.png"/>
-  </channel>
-  <channel id="ESPNU.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPNU HD</display-name>
-  </channel>
-  <channel id="US1800014CG">
-    <display-name>Alfred Hitchcock Presents</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
-  </channel>
-  <channel id="6a1610bebdf296985fd95603-689fb59eba3be0bafe349d35">
-    <display-name>The Outer Limits</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f2373afb-f4c2-4e2d-b61a-5b1abd8e8110/OuterLimits_logo_dark_-_Carl_HoffeldeWHITErRDX.png"/>
-  </channel>
-  <channel id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d">
-    <display-name>AMC Thrillers</display-name>
-    <icon src="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png"/>
   </channel>
   <channel id="Starz.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
@@ -440,11 +24,335 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Starz HD</display-name>
   </channel>
-  <channel id="Comet.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="6a1610bebdf296985fd95603-689fb59eba3be0bafe349d35">
+    <display-name>The Outer Limits</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f2373afb-f4c2-4e2d-b61a-5b1abd8e8110/OuterLimits_logo_dark_-_Carl_HoffeldeWHITErRDX.png"/>
+  </channel>
+  <channel id="COZI.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comet</display-name>
+    <display-name lang="en">COZI TV</display-name>
+  </channel>
+  <channel id="Cinemax.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cinemax HD</display-name>
+  </channel>
+  <channel id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d">
+    <display-name>AMC Thrillers</display-name>
+    <icon src="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png"/>
+  </channel>
+  <channel id="FXX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FXX HD</display-name>
+  </channel>
+  <channel id="6176fd25e83a5f0007a464c9">
+    <display-name>Bounce XL</display-name>
+    <icon src="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png"/>
+  </channel>
+  <channel id="USA.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">USA Network HD</display-name>
+  </channel>
+  <channel id="WNBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WNBC-DT</display-name>
+  </channel>
+  <channel id="Revolt.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Revolt HD</display-name>
+  </channel>
+  <channel id="WWBT-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WWBT-DT</display-name>
+  </channel>
+  <channel id="FX.Movie.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX Movie Channel HD</display-name>
+  </channel>
+  <channel id="Disney.XD.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Disney XD HD</display-name>
+  </channel>
+  <channel id="Turner.Classic.Movies.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Turner Classic Movies HD</display-name>
+  </channel>
+  <channel id="WFLD-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WFLD-DT</display-name>
+  </channel>
+  <channel id="US1800014CG">
+    <display-name>Alfred Hitchcock Presents</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
+  </channel>
+  <channel id="62fa8176b9884200074ef5ae">
+    <display-name>The Walking Dead Universe</display-name>
+    <icon src="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png"/>
+  </channel>
+  <channel id="Game.Show.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Game Show Network HD</display-name>
+  </channel>
+  <channel id="ION.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ION Television HD</display-name>
+  </channel>
+  <channel id="HBO2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO2 HD</display-name>
+  </channel>
+  <channel id="Boomerang.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Boomerang</display-name>
+  </channel>
+  <channel id="KTBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KTBC-DT</display-name>
+  </channel>
+  <channel id="A.and.E.HD.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">A and E HD East</display-name>
+  </channel>
+  <channel id="ESPNU.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPNU HD</display-name>
+  </channel>
+  <channel id="ReelzChannel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ReelzChannel HD</display-name>
+  </channel>
+  <channel id="Court.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Court TV</display-name>
+  </channel>
+  <channel id="truTV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">truTV HD</display-name>
+  </channel>
+  <channel id="NBA.TV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NBA TV HD</display-name>
+  </channel>
+  <channel id="FX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX HD</display-name>
+  </channel>
+  <channel id="Animal.Planet.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Animal Planet HD</display-name>
+  </channel>
+  <channel id="LMN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">LMN HD</display-name>
+  </channel>
+  <channel id="NFL.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NFL Network HD</display-name>
+  </channel>
+  <channel id="6a1610bebdf296985fd95603-63506e7747b2355a27e76e7f">
+    <display-name>PBS Nature</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/0bbdc4ce-bd60-418c-9c1d-7bf29b98ca14/NATURE_White-BlueRDX.png"/>
+  </channel>
+  <channel id="MSNBC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MSNBC HD</display-name>
+  </channel>
+  <channel id="E!.Entertainment.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">E! Entertainment Television HD</display-name>
+  </channel>
+  <channel id="Paramount.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount Network HD</display-name>
+  </channel>
+  <channel id="WE.tv.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WE tv HD</display-name>
+  </channel>
+  <channel id="Stories.by.AMC.us2">
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <url>http://www.xumo.com</url>
+    <display-name lang="en">Stories by AMC</display-name>
+  </channel>
+  <channel id="CNN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CNN HD</display-name>
+  </channel>
+  <channel id="ESPN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN HD</display-name>
+  </channel>
+  <channel id="AMC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC HD</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Comedy HD</display-name>
+  </channel>
+  <channel id="National.Geographic.Wild.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic Wild HD</display-name>
+  </channel>
+  <channel id="Grit.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Grit</display-name>
+  </channel>
+  <channel id="Comedy.Central.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comedy Central HD</display-name>
+  </channel>
+  <channel id="CBS.News.National.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS News National Stream</display-name>
+  </channel>
+  <channel id="TV.Land.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV Land HD</display-name>
+  </channel>
+  <channel id="CHARGE!.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CHARGE!</display-name>
+  </channel>
+  <channel id="6a1610bebdf296985fd95603-6876f8e2e50e77c59c8940c0">
+    <display-name>In The Heat Of The Night by MGM</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5124527a-f21e-4f9a-b43a-6275fbf1aae3/ITHOTN_logo_dark_-_Carl_HoffelderRDX.png"/>
+  </channel>
+  <channel id="Freeform.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Freeform HD</display-name>
+  </channel>
+  <channel id="Fuse.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Fuse HD</display-name>
+  </channel>
+  <channel id="BET.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BET HD</display-name>
+  </channel>
+  <channel id="6a1610bebdf296985fd95603-641496bf238e21f260e7844a">
+    <display-name>OuterSphere by Lionsgate</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png"/>
+  </channel>
+  <channel id="US3300011V9">
+    <display-name>The First 48</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20260428T032020SQUARE.png"/>
+  </channel>
+  <channel id="FS2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS2 HD</display-name>
+  </channel>
+  <channel id="Syfy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Syfy HD</display-name>
+  </channel>
+  <channel id="ABC.National.Feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ABC National Feed</display-name>
+  </channel>
+  <channel id="KSNF-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KSNF-DT</display-name>
+  </channel>
+  <channel id="National.Geographic.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic HD</display-name>
   </channel>
   <channel id="Discovery.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
@@ -452,11 +360,105 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Discovery Channel HD</display-name>
   </channel>
-  <channel id="CBS.News.National.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+  <channel id="6a1610bebdf296985fd95603-65282a6091e77473f1a44ff2">
+    <display-name>TV One Crime &amp; Justice</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/aa702b5c-a659-4ddf-ba0e-a7abf4eda619/TVONE_Logo_TEAL_FULL_1500x1000.png"/>
+  </channel>
+  <channel id="6a1610bebdf296985fd95603-6533de63bd43e1c8b1865152">
+    <display-name>Ebony TV by Lionsgate</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/09d19711-7f10-45d1-8ec9-2100d6f0d27a/EbonyTV_Logo_1500x1000_DarkBG.png"/>
+  </channel>
+  <channel id="FS1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS News National Stream</display-name>
+    <display-name lang="en">FS1 HD</display-name>
+  </channel>
+  <channel id="666b38a5efa2a10008b15b3a">
+    <display-name>BET x Tyler Perry Drama</display-name>
+    <icon src="https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG.png"/>
+  </channel>
+  <channel id="HBO.West.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO West</display-name>
+  </channel>
+  <channel id="Paramount+.with.Showtime.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount+ with Showtime HD</display-name>
+  </channel>
+  <channel id="6a1610bebdf296985fd95603-68161fa001a9a5584ff27e96">
+    <display-name>Ancient Aliens</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/2fe1556a-c271-46cb-927f-935263f2491c/AncientAliensGM_channel_logo_WHite_RDX.png"/>
+  </channel>
+  <channel id="get.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">get</display-name>
+  </channel>
+  <channel id="Bounce.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Bounce TV</display-name>
+  </channel>
+  <channel id="TBS.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TBS HD</display-name>
+  </channel>
+  <channel id="Comet.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comet</display-name>
+  </channel>
+  <channel id="VH1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">VH1 HD</display-name>
+  </channel>
+  <channel id="MTV.-.Music.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MTV - Music Television HD</display-name>
+  </channel>
+  <channel id="TV.ONE.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV ONE HD</display-name>
+  </channel>
+  <channel id="BUZZR.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BUZZR Stream</display-name>
+  </channel>
+  <channel id="TNT.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TNT HD</display-name>
+  </channel>
+  <channel id="Vice.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Vice</display-name>
+  </channel>
+  <channel id="ESPN2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN2 HD</display-name>
+  </channel>
+  <channel id="HLN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HLN HD</display-name>
   </channel>
 
   <programme channel="ABC.National.Feed.us2" start="20260617043700 +0000" stop="20260617050600 +0000">
@@ -16778,6 +16780,381 @@
     <icon src="http://dtil.tmsimg.com/assets/p26444735_b_h8_ae.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E24</episode-num>
     <previously-shown /></programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618004800 +0000" stop="20260618014300 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">Detroit</sub-title>
+    <desc lang="en">Lestat reflects on the events leading to his tour, including the formation of his band and the publication of a certain book, while experiencing a disquieting, drug-fueled spiritual trip and going head-to-head with a resentful coven.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618014300 +0000" stop="20260618021200 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After Detroit</sub-title>
+    <desc lang="en">Discussing The Vampire Lestat.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618021200 +0000" stop="20260618030800 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Jet Set</sub-title>
+    <desc lang="en">Don makes some new friends on his trip to Los Angeles; Peggy looks for romance; Duck ponders the future of Sterling Cooper.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618030800 +0000" stop="20260618040400 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Mountain King</sub-title>
+    <desc lang="en">Don meets up with an old friend; Pete&apos;s personal life presents problems; Joan brings her boyfriend to the office.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618040400 +0000" stop="20260618050000 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Meditations in an Emergency</sub-title>
+    <desc lang="en">Duck offers Pete a promotion, Betty has a dangerous liaison after receiving some unwanted news, and Don returns.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618050000 +0000" stop="20260618055500 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Out of Town</sub-title>
+    <desc lang="en">Don accidentally learns a secret about Salvatore during a business trip to Baltimore; Back at the office, the firings continue, but the new management appoints Peter and Ken as new co-heads of accounts.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618055500 +0000" stop="20260618065000 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Love Among the Ruins</sub-title>
+    <desc lang="en">Betty&apos;s father visits; Sterling Cooper handles a very specific client request; Roger makes wedding arrangements; Peggy is affected personally by a campaign.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618065000 +0000" stop="20260618074600 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">My Old Kentucky Home</sub-title>
+    <desc lang="en">The writers are forced to work after hours; Roger hosts a party; Joan and Greg host their own party; Sally has a run-in with Grandpa.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618074600 +0000" stop="20260618084200 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Arrangements</sub-title>
+    <desc lang="en">Don has reservations about a misguided potential client who wants to sell jai alai as the &quot;new national pastime&quot;; Betty&apos;s father passes away.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618084200 +0000" stop="20260618091200 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">Preview Special</sub-title>
+    <desc lang="en">Guests look forward to The Vampire Lestat premiere.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618091200 +0000" stop="20260618100700 +0000">
+    <title lang="en">The Vampire Lestat</title>
+    <sub-title lang="en">Detroit</sub-title>
+    <desc lang="en">Lestat reflects on the events leading to his tour, including the formation of his band and the publication of a certain book, while experiencing a disquieting, drug-fueled spiritual trip and going head-to-head with a resentful coven.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618100700 +0000" stop="20260618103600 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">After Detroit</sub-title>
+    <desc lang="en">Discussing The Vampire Lestat.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618103600 +0000" stop="20260618115300 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">In Throes of Increasing Wonder..</sub-title>
+    <desc lang="en">Living in 1910 New Orleans as his family&apos;s executor-in-charge, Louis&apos;s life begins to unravel in otherworldly ways when he meets Lestat, a vampire; in 2020, Louis tells his story to journalist Molloy.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618115300 +0000" stop="20260618124800 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">...After the Phantoms of Your Former Self</sub-title>
+    <desc lang="en">Beginning his life as a vampire, Louis learns the rules of vampirism from his maker and companion Lestat; Louis discovers increasing differences between himself and Lestat; in Dubai, Louis reveals more of his modern-day vampire lifestyle to Molloy.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618124800 +0000" stop="20260618133600 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">Is My Very Nature That of the Devil</sub-title>
+    <desc lang="en">Louis continues his life as a businessman of Storyville; when an old friend comes to town, Louis&apos; relationship with Lestat is tested; Louis&apos; business intertwines with growing tensions in New Orleans, leading to a new chapter in Louis&apos; vampire life.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618133600 +0000" stop="20260618142400 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">...The Ruthless Pursuit of Blood With All a Child&apos;s Demanding</sub-title>
+    <desc lang="en">Claudia&apos;s transformation into a vampire teen completely changes Louis and Lestat&apos;s lives; as Claudia asks more questions, Louis and Lestat are forced to confront questions about making a teen vampire; Claudia learns dark realities of her new life.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618142400 +0000" stop="20260618151400 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">A Vile Hunger for Your Hammering Heart</sub-title>
+    <desc lang="en">Claudia&apos;s activities and curiosities present continued challenges for Louis and Lestat; her actions light an explosive fuse.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618151400 +0000" stop="20260618160700 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">Like Angels Put in Hell by God</sub-title>
+    <desc lang="en">Lestat attempts to make amends with Louis; the vampire family decides to live together once more; an action from Lestat leads the family to decide to leave New Orleans, once and for all; in Dubai, Molloy has a realization.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618160700 +0000" stop="20260618170300 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">The Thing Lay Still</sub-title>
+    <desc lang="en">The vampire family plans to leave town after a big Mardi Gras ball; Claudia and Louis operate outside of Lestat&apos;s knowledge; in Dubai, Louis reveals a new element to the interview that changes everything.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618170300 +0000" stop="20260618175600 +0000">
+    <title lang="en">A Discovery of Witches</title>
+    <desc lang="en">Matthew and Diana return from Elizabethan London to find tragedy at Sept-Tours; Agatha challenges Knox in the Congregation; Diana learns she&apos;s carrying twins.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618175600 +0000" stop="20260618184900 +0000">
+    <title lang="en">A Discovery of Witches</title>
+    <desc lang="en">Diana and Matthew are shocked when Jack Blackfriars reappears, but their joy is short-lived; Chris seeks samples from Matthew&apos;s family to research blood rage.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618184900 +0000" stop="20260618194400 +0000">
+    <title lang="en">A Discovery of Witches</title>
+    <desc lang="en">In New Orleans, Matthew and Marcus struggle to reconnect with Marcus&apos; children; in London, Diana and Phoebe find a lead in their hunt for the missing pages.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618194400 +0000" stop="20260618203800 +0000">
+    <title lang="en">A Discovery of Witches</title>
+    <desc lang="en">Struggling to pin down T.J. Weston, Diana, Phoebe, and Sarah seek help from other witches; Benjamin has a proposition for Satu; Matthew finally returns home.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618203800 +0000" stop="20260618213200 +0000">
+    <title lang="en">A Discovery of Witches</title>
+    <desc lang="en">Benjamin&apos;s plan to bring down the de Clermonts is set into motion; Matthew and Diana return to Sept-Tours with the twins; Gerbert demands to examine the babies.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618213200 +0000" stop="20260618222500 +0000">
+    <title lang="en">A Discovery of Witches</title>
+    <desc lang="en">After receiving Benjamin&apos;s message, Matthew leaves Sept-Tours at dawn to track him down; Diana enlists Sarah&apos;s help to finally get the Book of Life.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618222500 +0000" stop="20260618231900 +0000">
+    <title lang="en">A Discovery of Witches</title>
+    <desc lang="en">As Benjamin tortures Matthew to near death, Diana makes plans to rescue him; revelations from the Book of Life illuminate the long-hidden secrets of creatures.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260618231900 +0000" stop="20260619001200 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Lasher</sub-title>
+    <desc lang="en">Rowan Mayfair is determined to understand what Lasher has become; Sip is hell-bent on capturing him.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619001200 +0000" stop="20260619010700 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Ten of Swords</sub-title>
+    <desc lang="en">Rowan must find Lasher before more people are hurt; Sip finds an ally in an angry Mayfair cousin.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619010700 +0000" stop="20260619015500 +0000">
+    <title lang="en">Mayfair Witches</title>
+    <sub-title lang="en">Cover the Mirrors</sub-title>
+    <desc lang="en">Rowan desperately partners with Cortland to try to stop Lasher; Moira assists Sip in capturing him.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619015500 +0000" stop="20260619025100 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Fog</sub-title>
+    <desc lang="en">Betty has hallucinations of her dead father as she delivers her baby; Peggy begins to question her future at Sterling Cooper.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619025100 +0000" stop="20260619034700 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Guy Walks Into an Advertising Agency</sub-title>
+    <desc lang="en">The new British bosses want the staff to come in to meet their dashing new blade Guy MacKendrick; Joan tenders her resignation only to find that she has been too rash.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619034700 +0000" stop="20260619044300 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Seven Twenty Three</sub-title>
+    <desc lang="en">As Don secures an account with Conrad Hilton, Sterling and Cooper try to strong-arm Don into signing a contract; Betty meets with her acquaintance from the governor&apos;s office.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619044300 +0000" stop="20260619053900 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Souvenir</sub-title>
+    <desc lang="en">Don and Betty renew their love affair while on a business trip to Rome; Peter has a bout of infidelity with an au pair in his building while his wife is away.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619053900 +0000" stop="20260619063500 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Wee Small Hours</sub-title>
+    <desc lang="en">Betty tries to meet with Henry Francis again; Don steps up his pursuit of his daughter&apos;s former teacher. Don disappoints Conrad Hilton and is forced by a client to fire Salvatore over an unwelcome advance.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619063500 +0000" stop="20260619073100 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Color Blue</sub-title>
+    <desc lang="en">As Sterling Cooper prepares for its 40th anniversary party, the bosses in London drop a bombshell to Lane; Miss Farrell&apos;s troubled brother pays a visit to her and Don; Betty stumbles onto her husband&apos;s secrets.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619073100 +0000" stop="20260619082700 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Gypsy and the Hobo</sub-title>
+    <desc lang="en">An old flame and potential client re-enters Roger Sterling&apos;s life; Joan&apos;s husband searches for a new job; and Don finally comes clean to Betty about his true identity.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619082700 +0000" stop="20260619092500 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">What Can the Damned Really Say to the Damned</sub-title>
+    <desc lang="en">Louis recounts about Claudia&apos;s quest to find Old World Vampires amid the backdrop of Europe during WWII.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619092500 +0000" stop="20260619102100 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">Do You Know What It Means to Be Loved by Death</sub-title>
+    <desc lang="en">Armand joins the interview, and he and Louis tell Molloy the story of how they met.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619102100 +0000" stop="20260619112200 +0000">
+    <title lang="en">Interview With the Vampire</title>
+    <sub-title lang="en">No Pain</sub-title>
+    <desc lang="en">Armand tells the history of the Theatre des Vampires; Louis tells of his reluctance to join.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619112200 +0000" stop="20260619122200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">What&apos;s Your Story?</sub-title>
+    <desc lang="en">A lone traveler&apos;s wearying journey is interrupted by new acquaintances, some who become friend, others who become foe.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619122200 +0000" stop="20260619131500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Another Day in the Diamond</sub-title>
+    <desc lang="en">A troubled survivor finds allies in an unexpected place; the life Madison has fought to build comes under threat.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619131500 +0000" stop="20260619141000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Good Out Here</sub-title>
+    <desc lang="en">Madison and Morgan try to help Nick find inner peace; a quest for revenge exacts its toll on the group.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619141000 +0000" stop="20260619150600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Buried</sub-title>
+    <desc lang="en">Al&apos;s questioning uncovers some surprising truths about the group&apos;s past; John Dorie receives unexpected news.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619150600 +0000" stop="20260619160200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Laura</sub-title>
+    <desc lang="en">The arrival of a wounded visitor in John Dorie&apos;s life forces him to change his ways.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619160200 +0000" stop="20260619165600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Just in Case</sub-title>
+    <desc lang="en">Strand has a hard time coming to terms with Madison&apos;s decisions, while the situation at the stadium takes an unexpected turn.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619165600 +0000" stop="20260619174700 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Wrong Side of Where You Are Now</sub-title>
+    <desc lang="en">Madison&apos;s decision to help an adversary has unintended consequences; John Dorie&apos;s life hangs in the balance.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619174700 +0000" stop="20260619184200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">No One&apos;s Gone</sub-title>
+    <desc lang="en">Madison fights to preserve the life she worked so hard to build; Morgan tries to do the right thing.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619184200 +0000" stop="20260619193600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">People Like Us</sub-title>
+    <desc lang="en">Morgan tries to help Alicia and the fractured group of survivors as a storm brews.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619193600 +0000" stop="20260619203200 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Close Your Eyes</sub-title>
+    <desc lang="en">Alicia&apos;s forced to reckon with an agonizing past while seeking refuge from a storm.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619203200 +0000" stop="20260619212800 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Code</sub-title>
+    <desc lang="en">Morgan&apos;s journey is derailed.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619212800 +0000" stop="20260619222100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Weak</sub-title>
+    <desc lang="en">June helps when Al&apos;s health deteriorates; Morgan searches for friends lost in the storm.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619222100 +0000" stop="20260619225100 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">Preview Special</sub-title>
+    <desc lang="en">Guests look forward to The Vampire Lestat premiere.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260619225100 +0000" stop="20260620000300 +0000">
+    <title lang="en">The Audacity</title>
+    <sub-title lang="en">Best of All Possible Worlds</sub-title>
+    <desc lang="en">Duncan, almost tech titan, must prove he and his company are F-able; JoAnne provides therapy with benefits; Orson lands from Baltimore; the party for Dr. Green ends in a cat burglary.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620000300 +0000" stop="20260620010700 +0000">
+    <title lang="en">The Audacity</title>
+    <sub-title lang="en">Shine Brightly</sub-title>
+    <desc lang="en">JoAnne squirms in Duncan&apos;s grasp; Lili needs these diagnoses by yesterday; the press is on to a scandal; Bardolph&apos;s triggered; Xander gets the joke; Orson has his heart stolen by someone with practice; Gary&apos;s Pippin is - it&apos;s too awful to say.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620010700 +0000" stop="20260620021200 +0000">
+    <title lang="en">The Audacity</title>
+    <sub-title lang="en">Valley of Heart&apos;s Delight</sub-title>
+    <desc lang="en">Wildfires hit the Valley, poisoning everything: marriages, neuro-psych evals, cheeseburgers, fifth homes; when someone poops in a hat, one A.I. friend to teens might just be the hero we&apos;ve been waiting for; there&apos;s bad news about Linus Po.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620021200 +0000" stop="20260620030700 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Grown-Ups</sub-title>
+    <desc lang="en">Pete finds out that he lost the promotion to Cosgrove; Roger Sterling&apos;s daughter&apos;s wedding goes off as planned; Betty musters up the courage to respond to Don&apos;s confessions.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620030700 +0000" stop="20260620040300 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Shut the Door. Have a Seat</sub-title>
+    <desc lang="en">With another sale on the horizon, Sterling, Cooper, and Draper convince Lane Pryce to fire them and then join them as they start up a new advertising firm; at home, Betty follows through with her plans to divorce Don.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620040300 +0000" stop="20260620045800 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Public Relations</sub-title>
+    <desc lang="en">Roger attempts to find a girlfriend for Don; Don&apos;s secretive demeanor results in an unfavorable interview by a reporter.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620045800 +0000" stop="20260620055400 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">Christmas Comes but Once a Year</sub-title>
+    <desc lang="en">The firm reluctantly throws a Christmas party for its most important client; Don prepares for his first Christmas away from his children and makes an indiscretion.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620055400 +0000" stop="20260620065000 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Good News</sub-title>
+    <desc lang="en">Joan is trying to start a family with Greg, but her work schedule and his impending army commitments make things difficult; Don takes a trip to California to see Anna and meets her niece, who delivers some unsettling news.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620065000 +0000" stop="20260620074600 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Rejected</sub-title>
+    <desc lang="en">Pete gets some bad news and then some good news, which affects Peggy more than she can say; Allison can&apos;t keep her feelings under wraps.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620074600 +0000" stop="20260620084200 +0000">
+    <title lang="en">Mad Men</title>
+    <sub-title lang="en">The Chrysanthemum and the Sword</sub-title>
+    <desc lang="en">Don and Pete try to land a new Japanese client, but Roger&apos;s racist attitude may hand the lucrative account to a rival; Don has to read deeply and think quickly to salvage things.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620084200 +0000" stop="20260620103600 +0000">
+    <title lang="en">Jakob&apos;s Wife</title>
+    <desc lang="en">Bodies start to pile up when a woman discovers a new sense of power and an appetite to live bigger and bolder than ever before.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620103600 +0000" stop="20260620122000 +0000">
+    <title lang="en">Boys from County Hell</title>
+    <desc lang="en">Some hardy road workers, led by a bickering father and son, must survive the night when they accidentally awaken an ancient Irish vampire.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620122000 +0000" stop="20260620140300 +0000">
+    <title lang="en">Blood Relatives</title>
+    <desc lang="en">Francis is a 115-year-old Yiddish vampire who roams the American back roads in his beat-up muscle car, keeping to himself, and liking it that way. One day, he meets a feisty teenager who claims she&apos;s his daughter, and she has the fangs to prove it.&quot;,&quot;large&quot;:&quot;Francis is a 115-year-old Yiddish vampire who still looks 35. He&apos;s been roaming the American back roads in his beat-up muscle car for decades, keeping to himself, and liking it that way. One day, he meets a feisty teenager who claims she&apos;s his daughter, and she has the fangs to prove it. They soon go on the road, deciding whether to sink their teeth into family life.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620140300 +0000" stop="20260620143300 +0000">
+    <title lang="en">The Vampire Lestat: After Dark</title>
+    <sub-title lang="en">Preview Special</sub-title>
+    <desc lang="en">Guests look forward to The Vampire Lestat premiere.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620143300 +0000" stop="20260620152600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Weak</sub-title>
+    <desc lang="en">June helps when Al&apos;s health deteriorates; Morgan searches for friends lost in the storm.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620152600 +0000" stop="20260620162000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Blackjack</sub-title>
+    <desc lang="en">Strand and Dorie are marooned; Luciana aids a man in need; the group&apos;s efforts to help a stranger put everyone in danger.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620162000 +0000" stop="20260620171300 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">MM 54</sub-title>
+    <desc lang="en">Difficult decisions lead the group into uncertainty; Alicia delivers on a promise to Charlie.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620171300 +0000" stop="20260620180700 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">I Lose People..</sub-title>
+    <desc lang="en">The group&apos;s hope falters as they seek a way out; Alicia and Charlie reunite with friends.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620180700 +0000" stop="20260620191100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">... I Lose Myself</sub-title>
+    <desc lang="en">Morgan struggles to find the strength to help friends in dire need before it&apos;s too late.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620191100 +0000" stop="20260620200600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Here to Help</sub-title>
+    <desc lang="en">Led by Morgan and Alicia, the group lands in uncharted territory in search of survivors to help; everything is not as it seems in this foreboding new land.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620200600 +0000" stop="20260620205600 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Hurt That Will Happen</sub-title>
+    <desc lang="en">Morgan and Alicia meet a survivor and learn of a grave new walker threat; the mission is put to the test when one of their own goes missing; Strand makes contact.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620205600 +0000" stop="20260620215000 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Humbug&apos;s Gulch</sub-title>
+    <desc lang="en">June and Dorie take shelter to hide from a threat, but a misunderstanding with a desperate survivor leads to trouble; Alicia and Morgan face a dangerous obstacle.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620215000 +0000" stop="20260620224500 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">Skidmark</sub-title>
+    <desc lang="en">Charlie makes a friend, while Strand, Wendell, and Sarah&apos;s rescue mission hits a snag; Alicia, Luciana and Morgan struggle to fulfill their mission.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620224500 +0000" stop="20260620234100 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The End of Everything</sub-title>
+    <desc lang="en">Althea chases a story with dogged determination, putting the mission, and her life in danger.</desc>
+  </programme>
+  <programme channel="Stories.by.AMC.us2" start="20260620234100 +0000" stop="20260621003400 +0000">
+    <title lang="en">Fear the Walking Dead</title>
+    <sub-title lang="en">The Little Prince</sub-title>
+    <desc lang="en">Facing impossible odds, Luciana and the group work together to tackle an impossible task while Morgan helps prevent disaster; an old friend presents Sarah, Charlie and Strand with a solution.</desc>
+  </programme>
   <programme channel="HBO2.HD.us2" start="20260617045800 +0000" stop="20260617065700 +0000">
     <title lang="en">The Lobster</title>
     <desc lang="en">In a dystopian society, single people must find a mate within 45 days or be transformed into an animal of their choice.</desc>
@@ -224956,6 +225333,122 @@
     <title>Kalahari</title>
     <desc>Watch as the Kalahari swarms with life brought forth by a brief season of sudden storms.</desc>
   </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260616233844 +0000" stop="20260617003140 +0000">
+    <title>Andromeda</title>
+    <desc>A black hole knocks out Dylan and sends him into an alternative reality with a wife and child.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617003140 +0000" stop="20260617012637 +0000">
+    <title>Andromeda</title>
+    <desc>The crew rescues one of the lost founders of the Commonwealth, but she may be more trouble than she is worth.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617012637 +0000" stop="20260617021933 +0000">
+    <title>Andromeda</title>
+    <desc>A mythological space monster tries to eat the Andromeda.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617021933 +0000" stop="20260617031429 +0000">
+    <title>Andromeda</title>
+    <desc>Dylan attempts to liberate a fleet of captured ships who aren't sure they want to be liberated.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617031429 +0000" stop="20260617040725 +0000">
+    <title>Andromeda</title>
+    <desc>Genites attack Tyr's wife and colony and discovers his son may be the genetic reincarnation of Drago Mussevni.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617040725 +0000" stop="20260617045525 +0000">
+    <title>Haven</title>
+    <desc>A bizarre trail of violence is traced back to a man who seems to have spawned an identical copy of himself.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617045525 +0000" stop="20260617054327 +0000">
+    <title>Haven</title>
+    <desc>When a police officer dies from a terrifying infection, the Chief seals the building to contain the outbreak.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617054327 +0000" stop="20260617063132 +0000">
+    <title>Haven</title>
+    <desc>A serial killer is hiding in the woods. Two groups search for a kidnapping victim before the killer gets him.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617063132 +0000" stop="20260617071909 +0000">
+    <title>Haven</title>
+    <desc>Audrey and Nathan investigate a series of murders - where the bodies are mysteriously mummified.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617071909 +0000" stop="20260617080923 +0000">
+    <title>The Dead Zone</title>
+    <desc>When Johnny's prediction of a tragic fire comes true, the incident brings him unwanted media coverage.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617080923 +0000" stop="20260617090404 +0000">
+    <title>The Dead Zone</title>
+    <desc>Johnny is shaken by his Armagedon visions and grows obsessed with Stillson whom he's secretly investigating.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617090404 +0000" stop="20260617100000 +0000">
+    <title>Sanctuary</title>
+    <desc>While Magnus and Tesla experiment with the holographic map, Henry and Will investigate werewolf sightings.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617100000 +0000" stop="20260617105329 +0000">
+    <title>Sanctuary</title>
+    <desc>Another abnormal rendezvous goes awry, this time in a way no one could have ever seen coming.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617105329 +0000" stop="20260617114442 +0000">
+    <title>Sanctuary</title>
+    <desc>With an old foe of Helen's in need of treatment, Will learns more about the Five than he ever imagined.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617114442 +0000" stop="20260617123439 +0000">
+    <title>The Dead Zone</title>
+    <desc>Johnny has a vision of a lost plane, and thieves searching treasure take Johnny, Sara, Walt and J.J. hostage.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617123439 +0000" stop="20260617132403 +0000">
+    <title>The Dead Zone</title>
+    <desc>Johnny has a vision of a heavyweight contender dying, turning the bout into the pay-per-view event of the year</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617132403 +0000" stop="20260617141419 +0000">
+    <title>The Dead Zone</title>
+    <desc>Johnny explores the secret of a man who appears to be stalking him but actually has a life-changing message.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617141419 +0000" stop="20260617150214 +0000">
+    <title>The Dead Zone</title>
+    <desc>Johnny becomes the prime suspect in a case involving a missing woman and is confronted by her sister.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617150214 +0000" stop="20260617155128 +0000">
+    <title>Haven</title>
+    <desc>Mara's true intentions are revealed.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617155128 +0000" stop="20260617164044 +0000">
+    <title>Haven</title>
+    <desc>New Troubles have infected over half the town and that's the good news.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617164044 +0000" stop="20260617172953 +0000">
+    <title>Haven</title>
+    <desc>Nathan returns to the school without Kira and gives her fiancee Tony the sad news that Kira is dead.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617172953 +0000" stop="20260617181844 +0000">
+    <title>Haven</title>
+    <desc>The citizens of Haven put Nathan on trial for his life, and it's up to Dwight and Charlotte to clear his name.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617181844 +0000" stop="20260617190733 +0000">
+    <title>Mutant X</title>
+    <desc>A powerful mutant practices mind control on the members of Mutant X to punish them for the death of his wife.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617190733 +0000" stop="20260617195623 +0000">
+    <title>Mutant X</title>
+    <desc>Seductive mutant Lorna Templeton (Krista Allen) casts a powerful love spell on Brennan (Victor Webster).</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617195623 +0000" stop="20260617204511 +0000">
+    <title>Mutant X</title>
+    <desc>Gabriel Ashlocke, the most powerful of all mutants, threatens to take over the world.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617204511 +0000" stop="20260617213359 +0000">
+    <title>Mutant X</title>
+    <desc>A local journalist (James Gallanders) threatens to expose the existence of mutants to the world.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617213359 +0000" stop="20260617222855 +0000">
+    <title>Andromeda</title>
+    <desc>Dylan attempts to liberate a fleet of captured ships who aren't sure they want to be liberated.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617222855 +0000" stop="20260617232151 +0000">
+    <title>Andromeda</title>
+    <desc>Genites attack Tyr's wife and colony and discovers his son may be the genetic reincarnation of Drago Mussevni.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-641496bf238e21f260e7844a" start="20260617232151 +0000" stop="20260618001446 +0000">
+    <title>Andromeda</title>
+    <desc>Dylan hosts the signing of the New Commonwealth charter, but there are intruders intent on stopping it.</desc>
+  </programme>
   <programme channel="WFLD-DT.us_locals1" start="20260618050000 +0000" stop="20260618060000 +0000">
     <title lang="en">FIFA World Cup On FOX After Hours With James Corden</title>
     <desc lang="en">James Corden is joined by former England national team captain Rio Ferdinand and comedian Ian Karmel to spotlight the tournament&apos;s most talked-about moments and storylines of the day; guest appearances from the biggest names in culture and soccer.</desc>
@@ -233640,240 +234133,6 @@
     <category>Entertainment</category>
     <category>Series</category>
   </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260618160000 +0000" stop="20260618171500 +0000">
-    <title>The Terror</title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="pluto">64643536188649001a28674d</episode-num>
-    <episode-num system="original-air-date">20180521000000 +0000</episode-num>
-    <desc>The expedition's epic journey reaches its climax as men find themselves in a final confrontation with the Inuit mythology they've trespassed into.</desc>
-    <icon src="https://images.pluto.tv/series/64514e47649e97001bd27704/tile_1767292629604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20180521</date>
-    <series-id system="pluto">64514e47649e97001bd27704</series-id>
-    <sub-title>We Are Gone</sub-title>
-    <category>Historical Drama</category>
-    <category>Series</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260618171500 +0000" stop="20260618181500 +0000">
-    <title>The Terror</title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="pluto">64514e48649e97001bd27729</episode-num>
-    <episode-num system="original-air-date">20190812000000 +0000</episode-num>
-    <desc>In 1941, Chester Nakayama is caught between his insular Japanese American neighborhood on Terminal Island and his current all-American life. Extreme circumstances push his community and personal life to the brink, all while someone watches closely.</desc>
-    <icon src="https://images.pluto.tv/series/64514e47649e97001bd27704/tile_1767292629604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20190812</date>
-    <series-id system="pluto">64514e47649e97001bd27704</series-id>
-    <sub-title>Infamy: A Sparrow in a Swallow's Nest</sub-title>
-    <category>Historical Drama</category>
-    <category>Series</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260618181500 +0000" stop="20260618191500 +0000">
-    <title>The Terror</title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <episode-num system="pluto">64514fc817da09001ab8b842</episode-num>
-    <episode-num system="original-air-date">20190826000000 +0000</episode-num>
-    <desc>As the Terminal Islanders adjust to their new surroundings, Chester tries to provide for his family, while fending off the evil that follows him. Henry reels from the trauma of his imprisonment. Asako sees bad omens. Amy takes up a new job.</desc>
-    <icon src="https://images.pluto.tv/series/64514e47649e97001bd27704/tile_1767292629604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20190826</date>
-    <series-id system="pluto">64514e47649e97001bd27704</series-id>
-    <sub-title>Infamy: Gaman</sub-title>
-    <category>Historical Drama</category>
-    <category>Series</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260618191500 +0000" stop="20260618201500 +0000">
-    <title>The Making of the Mob</title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <episode-num system="pluto">5e8e5613012df20007c26f7e</episode-num>
-    <episode-num system="original-air-date">20160718000000 +0000</episode-num>
-    <desc>A new mayor forces Torrio and Capone outside Chicago to nearby Cicero. There, Capone's brother Frank fixes an election, placing himself in jeopardy.</desc>
-    <icon src="https://images.pluto.tv/series/5e8e43f9df534e001a1edc75/tile_1781719201354.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20160718</date>
-    <series-id system="pluto">5e8e43f9df534e001a1edc75</series-id>
-    <sub-title>A Death in the Family</sub-title>
-    <category>Series</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260618201500 +0000" stop="20260618211500 +0000">
-    <title>The Making of the Mob</title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <episode-num system="pluto">5e8e561a6b3df60007ff1e01</episode-num>
-    <episode-num system="original-air-date">20160725000000 +0000</episode-num>
-    <desc>A betrayal destroys peace in Chicago, and Torrio and Capone seek revenge against the Irish gangs. The "Beer Wars" make Capone Chicago's top gangster.</desc>
-    <icon src="https://images.pluto.tv/series/5e8e43f9df534e001a1edc75/tile_1781719201354.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20160725</date>
-    <series-id system="pluto">5e8e43f9df534e001a1edc75</series-id>
-    <sub-title>Blood Filled Streets</sub-title>
-    <category>Series</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260618211500 +0000" stop="20260618221500 +0000">
-    <title>The Making of the Mob</title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="pluto">5e8e5626c6acc0000817a6ee</episode-num>
-    <episode-num system="original-air-date">20160801000000 +0000</episode-num>
-    <desc>Capone uses the St. Valentine's Day Massacre to assert his power over his enemies. President Hoover takes notice, and Eliot Ness takes on Capone.</desc>
-    <icon src="https://images.pluto.tv/series/5e8e43f9df534e001a1edc75/tile_1781719201354.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20160801</date>
-    <series-id system="pluto">5e8e43f9df534e001a1edc75</series-id>
-    <sub-title>St. Valentine's Day Massacre</sub-title>
-    <category>Series</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260618221500 +0000" stop="20260618231500 +0000">
-    <title>The Making of the Mob</title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="pluto">5e8e56496784d10007d8b1a9</episode-num>
-    <episode-num system="original-air-date">20160808000000 +0000</episode-num>
-    <desc>Al Capone outwits Eliot Ness, but Capone's criminal empire remains in jeopardy when the IRS plants an undercover agent in his gang.</desc>
-    <icon src="https://images.pluto.tv/series/5e8e43f9df534e001a1edc75/tile_1781719201354.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20160808</date>
-    <series-id system="pluto">5e8e43f9df534e001a1edc75</series-id>
-    <sub-title>Judgment Day</sub-title>
-    <category>Series</category>
-    <category>Drama</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260618231500 +0000" stop="20260619001500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="pluto">62f51f1620b977001eeb3791</episode-num>
-    <episode-num system="original-air-date">20080217000000 +0000</episode-num>
-    <desc>The DEA suspects there's a new drug kingpin in Albuquerque.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20080217</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>Cancer Man</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260619001500 +0000" stop="20260619011500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="pluto">62eda535ce5c48001b194231</episode-num>
-    <episode-num system="original-air-date">20080224000000 +0000</episode-num>
-    <desc>Walt and Skyler attend the party of a former colleague.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20080224</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>Gray Matter</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260619011500 +0000" stop="20260619021500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="pluto">62ed98876df8ae001a01602b</episode-num>
-    <episode-num system="original-air-date">20080302000000 +0000</episode-num>
-    <desc>Jesse's accomplice makes an important introduction.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20080302</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>Crazy Handful of Nothin'</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260619021500 +0000" stop="20260619031500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="pluto">62ed99ea51b268001a9773b6</episode-num>
-    <episode-num system="original-air-date">20080309000000 +0000</episode-num>
-    <desc>Walt becomes more comfortable with his new criminal identity.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20080309</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>A No-Rough-Stuff-Type Deal</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260619031500 +0000" stop="20260619041500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="pluto">62f16b5dc24630001a5eee4c</episode-num>
-    <episode-num system="original-air-date">20090308000000 +0000</episode-num>
-    <desc>Walt and Jesse devise a plan to sever business ties with Tuco.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20090308</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>Seven Thirty-Seven</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260619041500 +0000" stop="20260619051500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <episode-num system="pluto">62f16b4cc24630001a5eecb2</episode-num>
-    <episode-num system="original-air-date">20090315000000 +0000</episode-num>
-    <desc>Walt and Jesse are trapped with the volatile Tuco.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20090315</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>Grilled</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260619051500 +0000" stop="20260619061500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <episode-num system="pluto">62f16b42c24630001a5eebf4</episode-num>
-    <episode-num system="original-air-date">20090322000000 +0000</episode-num>
-    <desc>Walt and Jesse hatch a plan to conceal their activities.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20090322</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>Bit by a Dead Bee</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260619061500 +0000" stop="20260619071500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="pluto">62f16b50c24630001a5eed27</episode-num>
-    <episode-num system="original-air-date">20090329000000 +0000</episode-num>
-    <desc>Skyler distances herself from Walt.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20090329</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>Down</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260619071500 +0000" stop="20260619081500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="pluto">62f16b54c24630001a5eed9c</episode-num>
-    <episode-num system="original-air-date">20090405000000 +0000</episode-num>
-    <desc>Walt struggles with growing medical bills.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20090405</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>Breakage</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
-  <programme channel="62f2ce24f328e00007e7f55a" start="20260619081500 +0000" stop="20260619091500 +0000">
-    <title>Breaking Bad</title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="pluto">62f16b6bc24630001a5ef04b</episode-num>
-    <episode-num system="original-air-date">20090412000000 +0000</episode-num>
-    <desc>Jesse finds himself in danger; Gretchen visits the Whites.</desc>
-    <icon src="https://images.pluto.tv/series/62ec5d8051b268001a973aab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>20090412</date>
-    <series-id system="pluto">62ec5d8051b268001a973aab</series-id>
-    <sub-title>Peekaboo</sub-title>
-    <category>Drama</category>
-    <category>Series</category>
-    <category>Crime</category>
-  </programme>
   <programme channel="62fa8176b9884200074ef5ae" start="20260618162900 +0000" stop="20260618171600 +0000">
     <title>The Walking Dead</title>
     <live/>
@@ -234577,78 +234836,6 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1239035596_0_20250428T222736788Z_134_imageprocessorclient-tvplus-linear-b76dd9bbb-j5rhb.jpeg"/>
     <rating>
       <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="USBD1200007FE" start="20260618165952 +0000" stop="20260618174820 +0000">
-    <title>Haven</title>
-    <sub-title>Perditus</sub-title>
-    <desc>Nathan tries to track down a terrifying killer  and Duke has a vision of Haven's future.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_543153033_3_20240612T073630534Z_107.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="USBD1200007FE" start="20260618174820 +0000" stop="20260618183726 +0000">
-    <title>Haven</title>
-    <sub-title>Just Passing Through</sub-title>
-    <desc>Nathan and Vince travel back to 1983 to learn the secret of how Croatoan has found a way into Haven.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_543153033_3_20240612T073630534Z_107.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="USBD1200007FE" start="20260618183726 +0000" stop="20260618192623 +0000">
-    <title>Mutant X</title>
-    <sub-title>Past As Prologue</sub-title>
-    <desc>In an attempt to save his own life, Ashlocke revives an ancient Egyptian alchemist who poses a lethal threat.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_543153037_4_20240612T073633788Z_133.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="USBD1200007FE" start="20260618192623 +0000" stop="20260618201519 +0000">
-    <title>Mutant X</title>
-    <sub-title>Power Play</sub-title>
-    <desc>The Mutant X team struggles to take down a military colonel who's threatened a nuclear holocaust.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_543153037_4_20240612T073633788Z_133.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="USBD1200007FE" start="20260618201519 +0000" stop="20260618210415 +0000">
-    <title>Mutant X</title>
-    <sub-title>Time Squared</sub-title>
-    <desc>The team must chase the evil Gabriel Ashlocke back in time in order to stop him from changing the present.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_543153037_4_20240612T073633788Z_133.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="USBD1200007FE" start="20260618210415 +0000" stop="20260618215311 +0000">
-    <title>Mutant X</title>
-    <sub-title>Whose Woods These Are</sub-title>
-    <desc>The Mutant X team heads into the wilderness to stop a beast that has been killing hikers.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_543153037_4_20240612T073633788Z_133.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="USBD1200007FE" start="20260618215311 +0000" stop="20260618224205 +0000">
-    <title>Andromeda</title>
-    <sub-title>Mad to Be Saved</sub-title>
-    <desc>The crew rescues refugees who have been subject to government experiments and are extremely unstable.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_543153041_4_20240612T073632882Z_45.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="USBD1200007FE" start="20260618224205 +0000" stop="20260618233100 +0000">
-    <title>Andromeda</title>
-    <sub-title>Cui Bono</sub-title>
-    <desc>Beka's Uncle Sid runs for office, but an assassination attempt causes the crew to act as his security.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_543153041_4_20240612T073632882Z_45.jpeg"/>
-    <rating>
-      <value>TV-14</value>
     </rating>
   </programme>
 
