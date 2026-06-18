@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/onlyme-creator/myt1/main/shrunk_epg.xml" x-tvg-url="https://raw.githubusercontent.com/onlyme-creator/myt1/main/shrunk_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/onlyme-creator/myt1/refs/heads/main/shrunk_epg.xml" x-tvg-url="https://raw.githubusercontent.com/onlyme-creator/myt1/refs/heads/main/shrunk_epg.xml"
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E East HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="Entertainment",A&E
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network East HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58452_dark_360w_270h.png" group-title="Entertainment",USA Network East HD
