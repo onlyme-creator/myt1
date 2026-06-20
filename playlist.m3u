@@ -11,6 +11,12 @@ http://stream.cammonitorplus.net/1752/tracks-v1a1/mono.m3u8
 http://stream.cammonitorplus.net/1812/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KSNF-DT.us_locals1" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/21231/s28717_ll_h15_ad.png" group-title="Broadcast",NBC 2
 http://stream.cammonitorplus.net/1820/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Beverly Hillbillies.us" tvg-name="Beverly Hillbillies" tvg-logo="" group-title="Classic TV",Beverly Hillbillies
+https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+#EXTINF:-1 tvg-id="The Andy Griffith Show.us" tvg-name="The Andy Griffith Show" tvg-logo="" group-title="Classic TV",The Andy Griffith Show
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+#EXTINF:-1 tvg-id="The Love Boat.us" tvg-name="The Love Boat" tvg-logo="" group-title="Classic TV",The Love Boat
+https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8
 #EXTINF:-1 tvg-id="US1800014CG" tvg-name="Alfred Hitchcock Presents" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png" group-title="Crime & Investigation",Alfred Hitchcock Presents
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b885d021-1d5b-4f28-a251-6f68cfd25321/5.m3u8
 #EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="CHARGE!" tvg-logo="http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=360&h=270" group-title="Crime & Investigation",Charge! TV
@@ -151,6 +157,8 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/363d55d0-34d6-4394-ba93-81df00a2fddd/4.m3u8
 #EXTINF:-1 tvg-id="plex.tv.The.Outer.Limits.plex" tvg-name="The Outer Limits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2373afb-f4c2-4e2d-b61a-5b1abd8e8110/OuterLimits_logo_dark_-_Carl_HoffeldeWHITErRDX.png" group-title="Sci-Fi & Mystery",The Outer Limits
 https://49477bf91d3c44a898b82f099b033948.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1145-THEROUTERLIMITS-TCLTV/4d481029-ca21-4ecf-bcd8-6c16962ff6a7/4.m3u8
+#EXTINF:-1 tvg-id="The Twilight Zone.us" tvg-name="The Twilight Zone" tvg-logo="" group-title="Sci-Fi & Mystery",The Twilight Zone
+https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet HD" tvg-logo="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&h=270" group-title="Science & Nature",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel HD" tvg-logo="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&h=270" group-title="Science & Nature",Discovery Channel

@@ -1,10 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-  <channel id="BET.Her.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="plex.tv.OuterSphere.by.Lionsgate.plex">
+    <display-name lang="en">OuterSphere by Lionsgate</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="plex.tv.The.Outer.Limits.plex">
+    <display-name lang="en">The Outer Limits</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="National.Geographic.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BET Her</display-name>
+    <display-name lang="en">National Geographic HD</display-name>
+  </channel>
+  <channel id="E!.Entertainment.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">E! Entertainment Television HD</display-name>
+  </channel>
+  <channel id="Comet.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comet</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Comedy HD</display-name>
   </channel>
   <channel id="BUZZR.Stream.us2">
     <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
@@ -12,17 +42,268 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">BUZZR Stream</display-name>
   </channel>
-  <channel id="Ebony TV Drama.us"><display-name>Ebony TV Drama.us</display-name></channel>
-  <channel id="Comet.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="ReelzChannel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comet</display-name>
+    <display-name lang="en">ReelzChannel HD</display-name>
+  </channel>
+  <channel id="CHARGE!.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CHARGE!</display-name>
+  </channel>
+  <channel id="Revolt.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Revolt HD</display-name>
+  </channel>
+  <channel id="Game.Show.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Game Show Network HD</display-name>
+  </channel>
+  <channel id="Showtime.Extreme.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Extreme HD</display-name>
+  </channel>
+  <channel id="WNBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WNBC-DT</display-name>
+  </channel>
+  <channel id="get.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">get</display-name>
+  </channel>
+  <channel id="Syfy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Syfy HD</display-name>
+  </channel>
+  <channel id="ESPN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN HD</display-name>
+  </channel>
+  <channel id="TBS.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TBS HD</display-name>
+  </channel>
+  <channel id="Discovery.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Discovery Channel HD</display-name>
+  </channel>
+  <channel id="Ebony TV Drama.us"><display-name>Ebony TV Drama.us</display-name></channel>
+  <channel id="CBS.News.National.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS News National Stream</display-name>
+  </channel>
+  <channel id="Paramount+.with.Showtime.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount+ with Showtime HD</display-name>
+  </channel>
+  <channel id="Hallmark.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Hallmark Channel HD</display-name>
+  </channel>
+  <channel id="WWBT-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WWBT-DT</display-name>
+  </channel>
+  <channel id="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <display-name lang="en">TV One Crime &amp; Justice</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="TNT.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TNT HD</display-name>
+  </channel>
+  <channel id="Vice.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Vice</display-name>
+  </channel>
+  <channel id="Bounce.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Bounce TV</display-name>
+  </channel>
+  <channel id="Paramount.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount Network HD</display-name>
   </channel>
   <channel id="plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex">
     <display-name lang="en">In The Heat Of The Night by MGM</display-name>
     <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
     <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="ESPNU.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPNU HD</display-name>
+  </channel>
+  <channel id="Boomerang.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Boomerang</display-name>
+  </channel>
+  <channel id="plex.tv.AMC.Thrillers.plex">
+    <display-name lang="en">AMC Thrillers</display-name>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9df64368e1fafa63599d98a68801fa97.jpg" />
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9df64368e1fafa63599d98a68801fa97.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="Fuse.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Fuse HD</display-name>
+  </channel>
+  <channel id="AMC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC HD</display-name>
+  </channel>
+  <channel id="truTV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">truTV HD</display-name>
+  </channel>
+  <channel id="The Love Boat.us"><display-name>The Love Boat.us</display-name></channel>
+  <channel id="Bounce XL.us"><display-name>Bounce XL.us</display-name></channel>
+  <channel id="Cinemax.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cinemax HD</display-name>
+  </channel>
+  <channel id="BET.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BET HD</display-name>
+  </channel>
+  <channel id="US1800014CG">
+    <display-name>Alfred Hitchcock Presents</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
+  </channel>
+  <channel id="BET x Tyler Perry Drama.us"><display-name>BET x Tyler Perry Drama.us</display-name></channel>
+  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
+  <channel id="CNN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CNN HD</display-name>
+  </channel>
+  <channel id="TV.Land.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV Land HD</display-name>
+  </channel>
+  <channel id="plex.tv.Ancient.Aliens.plex">
+    <display-name lang="en">Ancient Aliens</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="TV.ONE.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV ONE HD</display-name>
+  </channel>
+  <channel id="Grit.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Grit</display-name>
+  </channel>
+  <channel id="KSNF-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KSNF-DT</display-name>
+  </channel>
+  <channel id="HBO.West.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO West</display-name>
+  </channel>
+  <channel id="A.and.E.HD.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">A and E HD East</display-name>
+  </channel>
+  <channel id="The Andy Griffith Show.us"><display-name>The Andy Griffith Show.us</display-name></channel>
+  <channel id="FS1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS1 HD</display-name>
+  </channel>
+  <channel id="Turner.Classic.Movies.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Turner Classic Movies HD</display-name>
+  </channel>
+  <channel id="Law And Order.us"><display-name>Law And Order.us</display-name></channel>
+  <channel id="The Twilight Zone.us"><display-name>The Twilight Zone.us</display-name></channel>
+  <channel id="Court.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Court TV</display-name>
+  </channel>
+  <channel id="Starz.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz HD</display-name>
+  </channel>
+  <channel id="KTBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KTBC-DT</display-name>
+  </channel>
+  <channel id="plex.tv.PBS.Nature.plex">
+    <display-name lang="en">PBS Nature</display-name>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f8a604303f70bc6f2452515c4d143fe9.jpg" />
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f8a604303f70bc6f2452515c4d143fe9.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
   <channel id="Comedy.Central.HD.us2">
@@ -31,172 +312,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Comedy Central HD</display-name>
   </channel>
-  <channel id="National.Geographic.Wild.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic Wild HD</display-name>
-  </channel>
-  <channel id="USA.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">USA Network HD</display-name>
-  </channel>
-  <channel id="Bounce.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Bounce TV</display-name>
-  </channel>
-  <channel id="CBS.Streaming.SD.East.feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS Streaming SD East feed</display-name>
-  </channel>
-  <channel id="ReelzChannel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ReelzChannel HD</display-name>
-  </channel>
-  <channel id="FX.Movie.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX Movie Channel HD</display-name>
-  </channel>
-  <channel id="NBA.TV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NBA TV HD</display-name>
-  </channel>
   <channel id="NFL.Network.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">NFL Network HD</display-name>
-  </channel>
-  <channel id="CNN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CNN HD</display-name>
-  </channel>
-  <channel id="CBS.News.National.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS News National Stream</display-name>
-  </channel>
-  <channel id="Vice.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Vice</display-name>
-  </channel>
-  <channel id="Boomerang.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Boomerang</display-name>
-  </channel>
-  <channel id="WWBT-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WWBT-DT</display-name>
-  </channel>
-  <channel id="HLN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HLN HD</display-name>
-  </channel>
-  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
-  <channel id="get.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">get</display-name>
-  </channel>
-  <channel id="ESPNU.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPNU HD</display-name>
-  </channel>
-  <channel id="Starz.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz HD</display-name>
-  </channel>
-  <channel id="National.Geographic.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic HD</display-name>
-  </channel>
-  <channel id="CHARGE!.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CHARGE!</display-name>
-  </channel>
-  <channel id="WFLD-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WFLD-DT</display-name>
-  </channel>
-  <channel id="HBO2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO2 HD</display-name>
-  </channel>
-  <channel id="TV.Land.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV Land HD</display-name>
-  </channel>
-  <channel id="ION.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ION Television HD</display-name>
-  </channel>
-  <channel id="History.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">History HD</display-name>
-  </channel>
-  <channel id="LMN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">LMN HD</display-name>
-  </channel>
-  <channel id="Paramount+.with.Showtime.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount+ with Showtime HD</display-name>
-  </channel>
-  <channel id="HBO.Comedy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Comedy HD</display-name>
-  </channel>
-  <channel id="Grit.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Grit</display-name>
   </channel>
   <channel id="Me.TV.Network.us2">
     <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
@@ -204,189 +324,12 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Me TV Network</display-name>
   </channel>
+  <channel id="Beverly Hillbillies.us"><display-name>Beverly Hillbillies.us</display-name></channel>
   <channel id="Disney.XD.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Disney XD HD</display-name>
-  </channel>
-  <channel id="plex.tv.AMC.Thrillers.plex">
-    <display-name lang="en">AMC Thrillers</display-name>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9df64368e1fafa63599d98a68801fa97.jpg" />
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9df64368e1fafa63599d98a68801fa97.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="Showtime.Extreme.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Extreme HD</display-name>
-  </channel>
-  <channel id="TNT.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TNT HD</display-name>
-  </channel>
-  <channel id="plex.tv.TV.One.Crime.&amp;.Justice.plex">
-    <display-name lang="en">TV One Crime &amp; Justice</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="BET.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BET HD</display-name>
-  </channel>
-  <channel id="plex.tv.PBS.Nature.plex">
-    <display-name lang="en">PBS Nature</display-name>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f8a604303f70bc6f2452515c4d143fe9.jpg" />
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f8a604303f70bc6f2452515c4d143fe9.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="plex.tv.Ancient.Aliens.plex">
-    <display-name lang="en">Ancient Aliens</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="WE.tv.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WE tv HD</display-name>
-  </channel>
-  <channel id="The First 48 by AAndE.us"><display-name>The First 48 by AAndE.us</display-name></channel>
-  <channel id="TV.ONE.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV ONE HD</display-name>
-  </channel>
-  <channel id="CBS (WTVR) Richmond, VA HD.us"><display-name>CBS (WTVR) Richmond, VA HD.us</display-name></channel>
-  <channel id="Discovery.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Discovery Channel HD</display-name>
-  </channel>
-  <channel id="Game.Show.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Game Show Network HD</display-name>
-  </channel>
-  <channel id="Stories.by.AMC.us2">
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <url>http://www.xumo.com</url>
-    <display-name lang="en">Stories by AMC</display-name>
-  </channel>
-  <channel id="Law And Order.us"><display-name>Law And Order.us</display-name></channel>
-  <channel id="Bounce XL.us"><display-name>Bounce XL.us</display-name></channel>
-  <channel id="plex.tv.OuterSphere.by.Lionsgate.plex">
-    <display-name lang="en">OuterSphere by Lionsgate</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
-    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="ABC.National.Feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ABC National Feed</display-name>
-  </channel>
-  <channel id="KSNF-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KSNF-DT</display-name>
-  </channel>
-  <channel id="Fuse.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fuse HD</display-name>
-  </channel>
-  <channel id="E!.Entertainment.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">E! Entertainment Television HD</display-name>
-  </channel>
-  <channel id="FX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX HD</display-name>
-  </channel>
-  <channel id="FS2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS2 HD</display-name>
-  </channel>
-  <channel id="KTBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KTBC-DT</display-name>
-  </channel>
-  <channel id="BET x Tyler Perry Drama.us"><display-name>BET x Tyler Perry Drama.us</display-name></channel>
-  <channel id="VH1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">VH1 HD</display-name>
-  </channel>
-  <channel id="A.and.E.HD.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">A and E HD East</display-name>
-  </channel>
-  <channel id="FXX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FXX HD</display-name>
-  </channel>
-  <channel id="WNBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WNBC-DT</display-name>
-  </channel>
-  <channel id="TV Land Sitcoms.us"><display-name>TV Land Sitcoms.us</display-name></channel>
-  <channel id="ESPN2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN2 HD</display-name>
-  </channel>
-  <channel id="Turner.Classic.Movies.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Turner Classic Movies HD</display-name>
-  </channel>
-  <channel id="HBO.West.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO West</display-name>
-  </channel>
-  <channel id="COZI.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">COZI TV</display-name>
-  </channel>
-  <channel id="MSNBC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MSNBC HD</display-name>
   </channel>
   <channel id="Animal.Planet.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
@@ -394,23 +337,35 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Animal Planet HD</display-name>
   </channel>
-  <channel id="Paramount.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="WE.tv.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount Network HD</display-name>
+    <display-name lang="en">WE tv HD</display-name>
   </channel>
-  <channel id="FS1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="NBA.TV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS1 HD</display-name>
+    <display-name lang="en">NBA TV HD</display-name>
   </channel>
-  <channel id="truTV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="MSNBC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">truTV HD</display-name>
+    <display-name lang="en">MSNBC HD</display-name>
+  </channel>
+  <channel id="National.Geographic.Wild.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic Wild HD</display-name>
+  </channel>
+  <channel id="LMN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">LMN HD</display-name>
   </channel>
   <channel id="MTV.-.Music.Television.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
@@ -418,63 +373,112 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">MTV - Music Television HD</display-name>
   </channel>
-  <channel id="AMC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="HLN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC HD</display-name>
+    <display-name lang="en">HLN HD</display-name>
   </channel>
-  <channel id="ESPN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="COZI.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN HD</display-name>
+    <display-name lang="en">COZI TV</display-name>
   </channel>
-  <channel id="Revolt.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="ESPN2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Revolt HD</display-name>
-  </channel>
-  <channel id="TBS.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TBS HD</display-name>
-  </channel>
-  <channel id="US1800014CG">
-    <display-name>Alfred Hitchcock Presents</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
-  </channel>
-  <channel id="Hallmark.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Hallmark Channel HD</display-name>
-  </channel>
-  <channel id="Syfy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Syfy HD</display-name>
-  </channel>
-  <channel id="Court.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Court TV</display-name>
-  </channel>
-  <channel id="plex.tv.The.Outer.Limits.plex">
-    <display-name lang="en">The Outer Limits</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="Cinemax.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax HD</display-name>
+    <display-name lang="en">ESPN2 HD</display-name>
   </channel>
   <channel id="The Walking Dead Universe.us"><display-name>The Walking Dead Universe.us</display-name></channel>
+  <channel id="CBS.Streaming.SD.East.feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS Streaming SD East feed</display-name>
+  </channel>
+  <channel id="ABC.National.Feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ABC National Feed</display-name>
+  </channel>
+  <channel id="Stories.by.AMC.us2">
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <url>http://www.xumo.com</url>
+    <display-name lang="en">Stories by AMC</display-name>
+  </channel>
+  <channel id="The First 48 by AAndE.us"><display-name>The First 48 by AAndE.us</display-name></channel>
+  <channel id="ION.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ION Television HD</display-name>
+  </channel>
+  <channel id="HBO2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO2 HD</display-name>
+  </channel>
+  <channel id="FS2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS2 HD</display-name>
+  </channel>
+  <channel id="TV Land Sitcoms.us"><display-name>TV Land Sitcoms.us</display-name></channel>
+  <channel id="VH1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">VH1 HD</display-name>
+  </channel>
+  <channel id="FX.Movie.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX Movie Channel HD</display-name>
+  </channel>
+  <channel id="BET.Her.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BET Her</display-name>
+  </channel>
+  <channel id="WFLD-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WFLD-DT</display-name>
+  </channel>
+  <channel id="USA.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">USA Network HD</display-name>
+  </channel>
+  <channel id="CBS (WTVR) Richmond, VA HD.us"><display-name>CBS (WTVR) Richmond, VA HD.us</display-name></channel>
+  <channel id="History.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">History HD</display-name>
+  </channel>
+  <channel id="FXX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FXX HD</display-name>
+  </channel>
+  <channel id="FX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX HD</display-name>
+  </channel>
 
   <programme channel="ABC.National.Feed.us2" start="20260619043700 +0000" stop="20260619050600 +0000">
     <title lang="en">Nightline</title>
@@ -242432,6 +242436,68 @@
   <programme start="20260621000000 +0000" stop="20260621040000 +0000" channel="BET x Tyler Perry Drama.us"><title>BET x Tyler Perry Drama</title><desc>no info available</desc></programme>
   <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="BET x Tyler Perry Drama.us"><title>BET x Tyler Perry Drama</title><desc>no info available</desc></programme>
   <programme start="20260621080000 +0000" stop="20260621120000 +0000" channel="BET x Tyler Perry Drama.us"><title>BET x Tyler Perry Drama</title><desc>no info available</desc></programme>
+  <programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
+  <programme start="20260619040000 +0000" stop="20260619053000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
+  <programme start="20260619053000 +0000" stop="20260619060000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Granny invites Shorty Kellems back from the hills to help break up Elly May&apos;s romance with Mark Templeton.</desc><episode-num system="xmltv_ns">8.9.0</episode-num></programme>
+  <programme start="20260619060000 +0000" stop="20260619063000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Granny thinks Shorty Kellems has turned into a seal because he ignored her warnings about swimming in the Clampett pool.</desc><episode-num system="xmltv_ns">8.10.0</episode-num></programme>
+  <programme start="20260619063000 +0000" stop="20260619070000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Granny is finally convinced that Elly May&apos;s boyfriend, Mark Templeton, is a human being -- not half-frog as she first suspected.</desc><episode-num system="xmltv_ns">8.11.0</episode-num></programme>
+  <programme start="20260619070000 +0000" stop="20260619073000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jed, Granny, Elly May, and Jethro man the front lines against an expected invasion of grunion, which they believe to be hostile aliens.</desc><episode-num system="xmltv_ns">8.12.0</episode-num></programme>
+  <programme start="20260619073000 +0000" stop="20260619080000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>The hillbillies, encouraged by Mr. Drysdale, continue to guard the Malibu beach and repel the mythical Grunion invaders.</desc><episode-num system="xmltv_ns">8.13.0</episode-num></programme>
+  <programme start="20260619080000 +0000" stop="20260619083000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Drysdale&apos;s downtrodden bank secretaries organize to fight for better wages and working conditions.</desc><episode-num system="xmltv_ns">8.14.0</episode-num></programme>
+  <programme start="20260619083000 +0000" stop="20260619090000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Granny and Elly May join the Women&apos;s Liberation Movement and leave all the household chores to Jed and Jethro.</desc><episode-num system="xmltv_ns">8.15.0</episode-num></programme>
+  <programme start="20260619090000 +0000" stop="20260619093000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>The hillbilly ladies move out of the Clampett mansion but Jed and Jethro replace them with a trio of Japanese beauties.</desc><episode-num system="xmltv_ns">8.16.0</episode-num></programme>
+  <programme start="20260619093000 +0000" stop="20260619100000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>The hillbilly women, assured of their equal rights, return to the Clampett mansion.</desc><episode-num system="xmltv_ns">8.18.0</episode-num></programme>
+  <programme start="20260619100000 +0000" stop="20260619103000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Elly May gets a job at Mr. Drysdale&apos;s bank and moves into co-worker Jane Hathaway&apos;s apartment.</desc><episode-num system="xmltv_ns">8.19.0</episode-num></programme>
+  <programme start="20260619103000 +0000" stop="20260619110000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jethro leaves home when he learns his ugly childhood sweetheart is coming for a visit, not knowing she has become a beauty contest winner.</desc><episode-num system="xmltv_ns">8.20.0</episode-num></programme>
+  <programme start="20260619110000 +0000" stop="20260619113000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Dick Bremerkamp, a penniless actor, learns the Clampetts are millionaires and begins romancing Elly May.</desc><episode-num system="xmltv_ns">8.21.0</episode-num></programme>
+  <programme start="20260619113000 +0000" stop="20260619120000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>A fortune-hunting young man decides to amrry into the hillbilly family.</desc><episode-num system="xmltv_ns">8.22.0</episode-num></programme>
+  <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jane Hathaway learns her new boyfriend is a fortune-hunter who would like to marry Elly May and her family&apos;s millions.</desc><episode-num system="xmltv_ns">8.23.0</episode-num></programme>
+  <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jed Clampett is told by a representative of an oil company that the swamp behind his shack is full of oil.</desc><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
+  <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>The Clampetts begin to settle in their new home in Beverly Hills, California.</desc><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
+  <programme start="20260619133000 +0000" stop="20260619140000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>While Granny boils pool water for washing due to the lack of a pump and Elly May gets a feminine make-over by Miss Hathaway, cousin Pearl is back at the cabin making eyes with the visiting oil man while he gives her a ride to the nearest phone.</desc><episode-num system="xmltv_ns">0.2.0</episode-num></programme>
+  <programme start="20260619140000 +0000" stop="20260619143000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Mr. Drysdale panics when Mrs. Drysdale comes back from Boston early because she&apos;ll meet the Clampetts.</desc><episode-num system="xmltv_ns">0.3.0</episode-num></programme>
+  <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Granny wants to go home because folks are so unfriendly no one has come to call.</desc><episode-num system="xmltv_ns">0.5.0</episode-num></programme>
+  <programme start="20260619150000 +0000" stop="20260619153000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Mr. Drysdale talks Jed into taking in his butler and upstairs girl in a plan to civilize the Clampetts, but they don&apos;t quite understand the idea of servants.</desc><episode-num system="xmltv_ns">0.6.0</episode-num></programme>
+  <programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Mr. Drysdale convinces his self-absorbed stepson Sonny to date Elly May to Mrs. Drysdale&apos;s consternation, while Granny and Jed make preparations for Thanksgiving</desc><episode-num system="xmltv_ns">0.8.0</episode-num></programme>
+  <programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Sonny Drysdale decides he needs to be Pygmalion to Elly&apos;s Galatea and remake her from a hillbilly into a woman of society, while Granny uses love charms to heat up their relationship.</desc><episode-num system="xmltv_ns">0.9.0</episode-num></programme>
+  <programme start="20260619163000 +0000" stop="20260619170000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Granny and the rest of the Clampetts start a feud with the Drysdales since Sonny courted Elly May and then stood her up when granny suggested marriage.</desc><episode-num system="xmltv_ns">0.11.0</episode-num></programme>
+  <programme start="20260619170000 +0000" stop="20260619173000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jed, Ellie May, Jethro, and Granny take their first plane flight back home for Christmas to visit cousin Pearl, who is busy cooking up a feast to win Mr. Brewster&apos;s unwilling heart.</desc><episode-num system="xmltv_ns">0.12.0</episode-num></programme>
+  <programme start="20260619173000 +0000" stop="20260619180000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Back home for Christmas, Elly May bonds with her old animal friends, while Pearl plays the piano for the new movie in town (the silent version of Ben Hur) to impress Mr. Brewster.</desc><episode-num system="xmltv_ns">0.13.0</episode-num></programme>
+  <programme start="20260619180000 +0000" stop="20260619183000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Since Mr. Brewster doesn&apos;t want to get married, but since the whole county knows that Cousin Pearl had her hat set for him, Jed comes up with a plan for her to save face by having Mr. Brewster proposed in public and then have her turn him down</desc><episode-num system="xmltv_ns">0.14.0</episode-num></programme>
+  <programme start="20260619183000 +0000" stop="20260619190000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>The Clampetts pack up to return to Beverly Hills, so Jethrine tries to pack Jazzbo Depew. Elly says goodbye to her animals</desc><episode-num system="xmltv_ns">0.15.0</episode-num></programme>
+  <programme start="20260619190000 +0000" stop="20260619193000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Grannie and Cousin Pearl are at each other&apos;s throats over who&apos;s going to take care of the cooking and the house, so Jed has to find ways to keep them apart.</desc><episode-num system="xmltv_ns">0.16.0</episode-num></programme>
+  <programme start="20260619193000 +0000" stop="20260619200000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Mrs. Drysdale leaves for a health farm saying Mr. Drysdale is going to have a new wife, while Mr. Drysdale tells Cousin Pearl he&apos;d like her to keep his house.</desc><episode-num system="xmltv_ns">0.17.0</episode-num></programme>
+  <programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>When Pearl starts selling music lessons, Mrs. Drysdale complains about the noise to the police.</desc><episode-num system="xmltv_ns">0.18.0</episode-num></programme>
+  <programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Granny can&apos;t stand Pearl&apos;s yodeling so she reports her to the police</desc><episode-num system="xmltv_ns">0.20.0</episode-num></programme>
+  <programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jed and Duke his dog are both down without a woman in their lives until they see and pursue a French woman and her poodle that she brought to breed with Mrs. Drysdale&apos;s dog.</desc><episode-num system="xmltv_ns">0.21.0</episode-num></programme>
+  <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Mrs. Drysdale wants to get rid of the Clampett&apos;s before the arrival of Mrs. Smith-Standish, the head of a &apos;first family&apos; historical society</desc><episode-num system="xmltv_ns">0.24.0</episode-num></programme>
+  <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Henry Jones shows up at the Clampett&apos;s, pretends to be an old friend and tries to sell the family the Hollywood Bowl, Griffith Park, and the freeway.</desc><episode-num system="xmltv_ns">0.22.0</episode-num></programme>
+  <programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Drysdale hires Jed to be a banker when he needs a crack shot to help beat a rival banker in a skeet shooting competition, but his partner needs to be an employee.</desc><episode-num system="xmltv_ns">0.23.0</episode-num></programme>
+  <programme start="20260619230000 +0000" stop="20260619233000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Mrs. Drysdale continues to be forced into doing practices from the past by Mrs. Smith-Standish</desc><episode-num system="xmltv_ns">0.25.0</episode-num></programme>
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Miss Hathaway&apos;s brilliant-but-frumpy bank protegee Gloria is really a sultry gold-digger with eyes for Jed&apos;s $34 million</desc><episode-num system="xmltv_ns">0.26.0</episode-num></programme>
+  <programme start="20260620000000 +0000" stop="20260620003000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>When an IRS agent gets chased away by Granny, Mr. Drysdale tells him the story of how the Clampetts came to be rich and move to Beverly Hills.</desc><episode-num system="xmltv_ns">0.27.0</episode-num></programme>
+  <programme start="20260620003000 +0000" stop="20260620010000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>When a couple who ran into the Clampett&apos;s car discover that they&apos;re rich, they fake injuries and sue the Clampetts.</desc><episode-num system="xmltv_ns">0.31.0</episode-num></programme>
+  <programme start="20260620010000 +0000" stop="20260620013000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jethro needs a health certificate to graduate from the fifth grade, so he goes to the only doctor the Clampetts know about - Mrs. Drysdale&apos;s psychiatrist</desc><episode-num system="xmltv_ns">0.32.0</episode-num></programme>
+  <programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jethro finally gets his bill of health from Dr. Twombly so he can graduate the fifth grade, but Twombly really wants to talk to Grannie again</desc><episode-num system="xmltv_ns">0.33.0</episode-num></programme>
+  <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>When Miss Hathaway gets sick and Mr. Drysdale has to speak at a conference, Jed helps out by running the bank and having Elly be his secretary</desc><episode-num system="xmltv_ns">0.34.0</episode-num></programme>
+  <programme start="20260620023000 +0000" stop="20260620030000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jethro brings home a friend, Armstrong Dueser McHugh III, who is coddled by a chauffeur who treats him as frail.</desc><episode-num system="xmltv_ns">0.35.0</episode-num></programme>
+  <programme start="20260620030000 +0000" stop="20260620033000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jed cheers up Granny by pretending to be sick so she can doctor him</desc><episode-num system="xmltv_ns">1.0.0</episode-num></programme>
+  <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>After Granny cuts off the top of Drysdale and Clyburn&apos;s (his doctor) hair for some homegrown remedy, Clyburn tries to keep her from ever doctoring again</desc><episode-num system="xmltv_ns">1.1.0</episode-num></programme>
+  <programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Grannie has everyone up at the crack of down to plow the front yard for her garden</desc><episode-num system="xmltv_ns">1.2.0</episode-num></programme>
+  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Mrs. Drysdale recommends Elly for a high-brow finishing school in hopes that humiliating her will drive the Clampetts away</desc><episode-num system="xmltv_ns">1.3.0</episode-num></programme>
+  <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Cynthia Fenwick makes her filthy rich mother dress in the Clampett Look when they visit the Clampetts, since she thinks Elly is a fashion maven.</desc><episode-num system="xmltv_ns">1.4.0</episode-num></programme>
+  <programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jethro decides he wants to go a courtin&apos;, so after Jed gives him a little education he finds a woman, who happens to be a stripper</desc><episode-num system="xmltv_ns">1.5.0</episode-num></programme>
+  <programme start="20260620060000 +0000" stop="20260620063000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>Jethro thinks he&apos;s in love with Chickadee Laverne, a stripper he met at the bank.</desc><episode-num system="xmltv_ns">1.6.0</episode-num></programme>
+  <programme start="20260620063000 +0000" stop="20260620070000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>The Clampetts receive an overdraft from the bank intended for the deadbeat actor J.D. &apos;Jake&apos; Clampett</desc><episode-num system="xmltv_ns">1.7.0</episode-num></programme>
+  <programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="Beverly Hillbillies.us"><title>The Beverly Hillbillies</title><desc>When Jake Clampett tells Jed he&apos;s his cousin, he&apos;s welcomed into the home and soon has everyone but Jed thinking about and dressing for a role in their next movie.</desc><episode-num system="xmltv_ns">1.8.0</episode-num></programme>
+  <programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
+  <programme start="20260620080000 +0000" stop="20260620120000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
+  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
+  <programme start="20260620160000 +0000" stop="20260620200000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
+  <programme start="20260620200000 +0000" stop="20260621000000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
+  <programme start="20260621000000 +0000" stop="20260621040000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
+  <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
+  <programme start="20260621080000 +0000" stop="20260621120000 +0000" channel="Beverly Hillbillies.us"><title>Beverly Hillbillies</title><desc>no info available</desc></programme>
   <programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="Bounce XL.us"><title>Bounce XL</title><desc>no info available</desc></programme>
   <programme start="20260619040000 +0000" stop="20260619053000 +0000" channel="Bounce XL.us"><title>Bounce XL</title><desc>no info available</desc></programme>
   <programme start="20260619053000 +0000" stop="20260619060000 +0000" channel="Bounce XL.us"><title>Mann And Wife</title><desc>Lorraine becomes extra nice when she suspects Daniel and Toni are putting her in a retirement home; Daniel and Michael give the Lieutenant some tips before his big date.</desc><episode-num system="xmltv_ns">1.4.0</episode-num></programme>
@@ -242555,6 +242621,69 @@
   <programme start="20260621000000 +0000" stop="20260621040000 +0000" channel="Law And Order.us"><title>Law And Order</title><desc>no info available</desc></programme>
   <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="Law And Order.us"><title>Law And Order</title><desc>no info available</desc></programme>
   <programme start="20260621080000 +0000" stop="20260621120000 +0000" channel="Law And Order.us"><title>Law And Order</title><desc>no info available</desc></programme>
+  <programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>no info available</desc></programme>
+  <programme start="20260619040000 +0000" stop="20260619053000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>no info available</desc></programme>
+  <programme start="20260619053000 +0000" stop="20260619060000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney tries to set Andy up when he mistakenly perceives that Andy is suffering from a broken heart.</desc><episode-num system="xmltv_ns">2.5.0</episode-num></programme>
+  <programme start="20260619060000 +0000" stop="20260619063000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Deputy Barney Fife loses his self-confidence when two farmers ignore his warning.</desc><episode-num system="xmltv_ns">2.6.0</episode-num></programme>
+  <programme start="20260619063000 +0000" stop="20260619070000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>The Mayberry band, composed of more flats than sharps, gets ready for its annual trip to the state band competition.</desc><episode-num system="xmltv_ns">2.7.0</episode-num></programme>
+  <programme start="20260619070000 +0000" stop="20260619073000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Floyd the barber has misrepresented his worldly goods to a wealthy window, who decides to visit him.</desc><episode-num system="xmltv_ns">2.8.0</episode-num></programme>
+  <programme start="20260619073000 +0000" stop="20260619080000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Opie becomes jealous when his father appears to be paying special attention to a pretty girl -- even taking her fishing with them.</desc><episode-num system="xmltv_ns">2.9.0</episode-num></programme>
+  <programme start="20260619080000 +0000" stop="20260619083000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Three escaped female convicts imprison Barney Fife and Floyd the barber in a remote cabin.</desc><episode-num system="xmltv_ns">2.10.0</episode-num></programme>
+  <programme start="20260619083000 +0000" stop="20260619090000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Aunt Bee longs for a pretty bed jacket for her birthday but seems destined to get more practical gifts from her family.</desc><episode-num system="xmltv_ns">2.11.0</episode-num></programme>
+  <programme start="20260619090000 +0000" stop="20260619093000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney Fife is convinced that Opie&apos;s piggy bank is safer than the Mayberry bank-and sets out to prove his point.</desc><episode-num system="xmltv_ns">2.12.0</episode-num></programme>
+  <programme start="20260619093000 +0000" stop="20260619100000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Opie must either learn how to box or lose prestige among his peers when a new boy moves into town.</desc><episode-num system="xmltv_ns">2.13.0</episode-num></programme>
+  <programme start="20260619100000 +0000" stop="20260619103000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney gives a parking ticket to the Governor&apos;s car, and refuses to tear it up.</desc><episode-num system="xmltv_ns">2.14.0</episode-num></programme>
+  <programme start="20260619103000 +0000" stop="20260619110000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>A car containing a high-powered businessman breaks down in low-powered Mayberry.</desc><episode-num system="xmltv_ns">2.15.0</episode-num></programme>
+  <programme start="20260619110000 +0000" stop="20260619113000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney Fife is sure that a Main Street gun duel is in the offing when an ex-con comes to town.</desc><episode-num system="xmltv_ns">2.16.0</episode-num></programme>
+  <programme start="20260619113000 +0000" stop="20260619120000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Mayberry fears disaster when the sheriff discovers that a farmer&apos;s goat has eaten a good-sized meal of dynamite.</desc><episode-num system="xmltv_ns">2.17.0</episode-num></programme>
+  <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Andy and Barney look forward to seeing their high school sweethearts when the Mayberry Class of &apos;45 holds a reunion.</desc><episode-num system="xmltv_ns">2.18.0</episode-num></programme>
+  <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>A poor farmer successfully auditions to sing at a concert. Barney and Andy take it upon themselves to spruce him up for the event.</desc><episode-num system="xmltv_ns">2.19.0</episode-num></programme>
+  <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Opie meets a spoiled youngster and decides his own allowance should be tripled.</desc><episode-num system="xmltv_ns">2.20.0</episode-num></programme>
+  <programme start="20260619133000 +0000" stop="20260619140000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Andy uses common sense and Barney uses modern criminal detection methods to solve several burglaries at a filling station.</desc><episode-num system="xmltv_ns">2.21.0</episode-num></programme>
+  <programme start="20260619140000 +0000" stop="20260619143000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>The sheriff&apos;s knowledge of American history is put to the test by Opie and an attractive new history teacher.</desc><episode-num system="xmltv_ns">2.22.0</episode-num></programme>
+  <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Aunt Bee falls for the sales pitch of a fast-talking medicine man and his Indian elixir.</desc><episode-num system="xmltv_ns">2.23.0</episode-num></programme>
+  <programme start="20260619150000 +0000" stop="20260619153000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>The sheriff has his hands full as a clan of mountain musicians descend on Mayberry to meet a bus.</desc><episode-num system="xmltv_ns">2.24.0</episode-num></programme>
+  <programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>An English tourist works off his reckless driving fine by being a valet and chauffeur for Andy.</desc><episode-num system="xmltv_ns">2.25.0</episode-num></programme>
+  <programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Deputy Barney Fife invests his life&apos;s savings in a used car that turns out to be a lemon.</desc><episode-num system="xmltv_ns">2.26.0</episode-num></programme>
+  <programme start="20260619163000 +0000" stop="20260619170000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Opie suffers from puppy love so Barney attempts to show him how to handle women.</desc><episode-num system="xmltv_ns">2.27.0</episode-num></programme>
+  <programme start="20260619170000 +0000" stop="20260619173000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney decides that it&apos;s time to push Andy into matrimony, but Barney&apos;s marriage bureau collapses at a frantic dinner party.</desc><episode-num system="xmltv_ns">2.28.0</episode-num></programme>
+  <programme start="20260619173000 +0000" stop="20260619180000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>A pack of hunting dogs overruns the Mayberry Courthouse just as Andy is trying to impress a visiting state official.</desc><episode-num system="xmltv_ns">2.29.0</episode-num></programme>
+  <programme start="20260619180000 +0000" stop="20260619183000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Howard Morris guest stars as Ernest T. Bass as the Darling clan returns to Mayberry with its own kind of mountain trouble.</desc><episode-num system="xmltv_ns">2.30.0</episode-num></programme>
+  <programme start="20260619183000 +0000" stop="20260619190000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney Fife becomes super-efficient in executing his duties as a deputy sheriff after two thieves are jailed in Mayberry until their accomplices are captured.</desc><episode-num system="xmltv_ns">2.31.0</episode-num></programme>
+  <programme start="20260619190000 +0000" stop="20260619193000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Opie accidentally kills a bird with a slingshot and becomes foster-mother to her three young birds.</desc><episode-num system="xmltv_ns">3.0.0</episode-num></programme>
+  <programme start="20260619193000 +0000" stop="20260619200000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Andy, Barney and Gomer are a trio of laughs as they tread the boards of a haunted house.</desc><episode-num system="xmltv_ns">3.1.0</episode-num></programme>
+  <programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Guest star Howard Morris plays the part of a mountain man very disgruntled with being rejected by the army.</desc><episode-num system="xmltv_ns">3.2.0</episode-num></programme>
+  <programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>A visiting preacher urges the residents of Mayberry to relax and enjoy the simple pleasures of life--leading to more work for all.</desc><episode-num system="xmltv_ns">3.3.0</episode-num></programme>
+  <programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Aunt Bee is the unwilling object of matrimony when mountaineer Briscoe Darling comes a&apos;courting.</desc><episode-num system="xmltv_ns">3.4.0</episode-num></programme>
+  <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Gossiping Gomer Pyle moves in with the sheriff when he loses his job and home at the filling station.</desc><episode-num system="xmltv_ns">3.5.0</episode-num></programme>
+  <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Ron Howard&apos;s real-life father and younger brother appear as Mayberry gets involved with a gold shipment en route to Fort Knox.</desc><episode-num system="xmltv_ns">3.6.0</episode-num></programme>
+  <programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Opie seems in line for a new bicycle as he comes home with an all A report card.</desc><episode-num system="xmltv_ns">3.7.0</episode-num></programme>
+  <programme start="20260619230000 +0000" stop="20260619233000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney Fife plays cupid for Gomer when Barney&apos;s girl refuses to go to a dance unless her cousin also has a date.</desc><episode-num system="xmltv_ns">3.8.0</episode-num></programme>
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney is evicted from his rooming house for illegal cooking and moves into the Mayberry sheriff&apos;s office backroom much to Andy&apos;s chagrin.</desc><episode-num system="xmltv_ns">3.9.0</episode-num></programme>
+  <programme start="20260620000000 +0000" stop="20260620003000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney tickets Gomer for a U-turn and is then detained in a citizen&apos;s arrest by Gomer for the same thing.</desc><episode-num system="xmltv_ns">3.10.0</episode-num></programme>
+  <programme start="20260620003000 +0000" stop="20260620010000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Opie and his chums take their roles as Robin Hood and his merry men seriously as they befriend a hobo at the expense of the pantries of Mayberry.</desc><episode-num system="xmltv_ns">3.11.0</episode-num></programme>
+  <programme start="20260620010000 +0000" stop="20260620013000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney organizes a rescue party when Andy and Helen are trapped in a cave by a landslide.</desc><episode-num system="xmltv_ns">3.12.0</episode-num></programme>
+  <programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Opie learns a lesson in friendship when he befriends a newcomer to Mayberry.</desc><episode-num system="xmltv_ns">3.13.0</episode-num></programme>
+  <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Aunt Bee stirs up a crusade for a chicken farmer whose property has been condemned to make way for a new road.</desc><episode-num system="xmltv_ns">3.14.0</episode-num></programme>
+  <programme start="20260620023000 +0000" stop="20260620030000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney adds a vintage motorcycle to the rolling stock of the Mayberry Sheriff&apos;s department, to the Sheriff&apos;s regret.</desc><episode-num system="xmltv_ns">3.15.0</episode-num></programme>
+  <programme start="20260620030000 +0000" stop="20260620033000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Ernest T. Bass is a would-be Romeo, who is brought into the sheriff&apos;s home in an effort to teach him some manners.</desc><episode-num system="xmltv_ns">3.16.0</episode-num></programme>
+  <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>A beautiful prisoner threatens to crumble the security of the Mayberry jail, as both Andy and Barney fall for her charms.</desc><episode-num system="xmltv_ns">3.17.0</episode-num></programme>
+  <programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Otis Campbell acquires a car and threatens life and limb of Mayberry&apos;s pedestrian population.</desc><episode-num system="xmltv_ns">3.18.0</episode-num></programme>
+  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney suffers an ego blow when Gomer out-sings him for a part in the Mayberry Choir. Andy Griffith&apos;s wife, Barbara, appears in this episode as a member of the singing group.</desc><episode-num system="xmltv_ns">3.19.0</episode-num></programme>
+  <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Barney disguises himself as a dummy in an attempt to solve a series of theft at the Mayberry department store.</desc><episode-num system="xmltv_ns">3.20.0</episode-num></programme>
+  <programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Andy takes a week off, leaving Barney and Gomer in charge. A prisoner also takes off in the resultant confusion.</desc><episode-num system="xmltv_ns">3.21.0</episode-num></programme>
+  <programme start="20260620060000 +0000" stop="20260620063000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Gomer falls asleep on the job and Andy douses a fire to save his life. Gomer becomes a menace trying to repay the favor.</desc><episode-num system="xmltv_ns">3.22.0</episode-num></programme>
+  <programme start="20260620063000 +0000" stop="20260620070000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Aunt Bee saves money by buying a side of beef. The beef is tough, the freezer conks out, and Gomer attempts to fix the motor.</desc><episode-num system="xmltv_ns">3.23.0</episode-num></programme>
+  <programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>A strange mountain-style divorce ritual is frustrated by another ritual performed by Barney.</desc><episode-num system="xmltv_ns">3.24.0</episode-num></programme>
+  <programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>When Opie gets caught in a scheme to sell a useless product, Barney and Gomer come to his rescue.</desc><episode-num system="xmltv_ns">3.25.0</episode-num></programme>
+  <programme start="20260620080000 +0000" stop="20260620080000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>Joyce Jameson and Jean Carson appear as two fun-loving blondes who upset the sheriff&apos;s office.</desc><episode-num system="xmltv_ns">3.26.0</episode-num></programme>
+  <programme start="20260620080000 +0000" stop="20260620120000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>no info available</desc></programme>
+  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>no info available</desc></programme>
+  <programme start="20260620160000 +0000" stop="20260620200000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>no info available</desc></programme>
+  <programme start="20260620200000 +0000" stop="20260621000000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>no info available</desc></programme>
+  <programme start="20260621000000 +0000" stop="20260621040000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>no info available</desc></programme>
+  <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>no info available</desc></programme>
+  <programme start="20260621080000 +0000" stop="20260621120000 +0000" channel="The Andy Griffith Show.us"><title>The Andy Griffith Show</title><desc>no info available</desc></programme>
   <programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="The First 48 by AAndE.us"><title>The First 48 by AAndE</title><desc>no info available</desc></programme>
   <programme start="20260619040000 +0000" stop="20260619054800 +0000" channel="The First 48 by AAndE.us"><title>The First 48 by AAndE</title><desc>no info available</desc></programme>
   <programme start="20260619054800 +0000" stop="20260619064100 +0000" channel="The First 48 by AAndE.us"><title>The First 48</title><desc>A 14-year-old Cleveland girl dies at her own birthday party when gunmen fire on a crowd; homicide detectives race to track down multiple shooters in the crime.</desc><episode-num system="xmltv_ns">12.5.0</episode-num></programme>
@@ -242598,6 +242727,103 @@
   <programme start="20260621000000 +0000" stop="20260621040000 +0000" channel="The First 48 by AAndE.us"><title>The First 48 by AAndE</title><desc>no info available</desc></programme>
   <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="The First 48 by AAndE.us"><title>The First 48 by AAndE</title><desc>no info available</desc></programme>
   <programme start="20260621080000 +0000" stop="20260621120000 +0000" channel="The First 48 by AAndE.us"><title>The First 48 by AAndE</title><desc>no info available</desc></programme>
+  <programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260619040000 +0000" stop="20260619054500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260619054500 +0000" stop="20260619064500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Julie&apos;s parents arrive on board the Pacific Princess and announce their plans to divorce.</desc><episode-num system="xmltv_ns">1.2.0</episode-num></programme>
+  <programme start="20260619064500 +0000" stop="20260619074500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>A man makes a move on three women; not knowing that they are traveling companions.</desc><episode-num system="xmltv_ns">1.3.0</episode-num></programme>
+  <programme start="20260619074500 +0000" stop="20260619084500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Captain Stubing&apos;s Uncle Cyrus uses every trick in his devious mind to get Julie alone, until her Aunt Phoebe intervenes; a desperate businessman uses his daughter as bait to close a deal.</desc><episode-num system="xmltv_ns">1.4.0</episode-num></programme>
+  <programme start="20260619084500 +0000" stop="20260619094500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>A shy young man becomes a completely different person at night; a businessman who doesn&apos;t have time for his family learns a valuable lesson.</desc><episode-num system="xmltv_ns">1.5.0</episode-num></programme>
+  <programme start="20260619094500 +0000" stop="20260619104500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>A magician keeps his engagement secret in order to dazzle female audiences, while his neglected fiancee turns to Captain Stubing for comfort.</desc><episode-num system="xmltv_ns">1.6.0</episode-num></programme>
+  <programme start="20260619104500 +0000" stop="20260619121500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>In Accidental Cruise, the executive and his secretary come aboard a bit tipsy, are mistaken for another couple, and assigned the honeymoon suite.</desc><episode-num system="xmltv_ns">1.7.0</episode-num></programme>
+  <programme start="20260619121500 +0000" stop="20260619131500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>A ghost experiences jealousy as his mission to find his wife a new husband appears to be succeeding.</desc><episode-num system="xmltv_ns">1.8.0</episode-num></programme>
+  <programme start="20260619131500 +0000" stop="20260619141500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Crew members make a valiant effort to keep six stowaways a secret from Capt. Stubing; a church member disapproves of her minister&apos;s new romance; a nearly-blind woman refuses to admit her problem until Doc intercedes. (TV-PG)</desc><episode-num system="xmltv_ns">1.9.0</episode-num></programme>
+  <programme start="20260619141500 +0000" stop="20260619151500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Two passengers place a bet on who can win Julie&apos;s affections first. A son who loves his parents is shocked when he discovers his fiance doesn&apos;t.</desc><episode-num system="xmltv_ns">1.10.0</episode-num></programme>
+  <programme start="20260619151500 +0000" stop="20260619161500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Doc must perform a risky operation after an accident; one of the ship&apos;s laborers is recruited to replace a missing dignitary; a bitterly divorced man has it in for his ex-wife&apos;s attorney. (TV-PG)</desc><episode-num system="xmltv_ns">1.11.0</episode-num></programme>
+  <programme start="20260619161500 +0000" stop="20260619171500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>A beauty can&apos;t choose between Captain Stubing and Doc; a man and his wife return to the ship with an orphaned boy; a hospital executive falls for a seemingly successful businessman. (TV-PG)</desc><episode-num system="xmltv_ns">1.12.0</episode-num></programme>
+  <programme start="20260619171500 +0000" stop="20260619181500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Identical twin sisters decide to swap fiances; a separated ventriloquist team uses their dummies to rebuild their relationship; a handsome widower proposes to Julie, who has fallen in love with him and his teenage children. (TV-PG)</desc><episode-num system="xmltv_ns">1.13.0</episode-num></programme>
+  <programme start="20260619181500 +0000" stop="20260619191500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Doc&apos;s ex-wife hires an actor - who takes his role a bit too seriously - as her fiance; a philandering marriage counselor&apos;s wife seeks solace from Captain Stubing; a woman pretends to be her own sister for a reunion with a long-ago sweetheart. (TV-PG)</desc><episode-num system="xmltv_ns">1.14.0</episode-num></programme>
+  <programme start="20260619191500 +0000" stop="20260619201500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Gopher quits his job to manage a new hotel; a wealthy eccentric widow books a five-year passage and begins meddling in the crew members&apos; lives; a magician tries to avoid his assistant by sending his brother to perform in his place. (TV-PG)</desc><episode-num system="xmltv_ns">1.15.0</episode-num></programme>
+  <programme start="20260619201500 +0000" stop="20260619211500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>A father takes too much of a liking to his son&apos;s new girlfriend; a bachelor is terrified at the idea of marrying his gung-ho girlfriend; the crew gives a troubled teen a chance at rehabilitation. (TV-PG)</desc><episode-num system="xmltv_ns">1.16.0</episode-num></programme>
+  <programme start="20260619211500 +0000" stop="20260619231500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Julie and former classmate Joey, a disco dancer, discover that they are still romantically attracted to each other to the consternation of his current girlfriend-partner Sherry.</desc><episode-num system="xmltv_ns">1.17.0</episode-num></programme>
+  <programme start="20260619231500 +0000" stop="20260620001500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Hans Conried offers Captain Stubing the command of a super-luxury liner; Doc meets his former mentor, now a disgruntled amputee, and his wife; old college friends are attracted to the same man. (TV-PG)</desc><episode-num system="xmltv_ns">1.19.0</episode-num></programme>
+  <programme start="20260620001500 +0000" stop="20260620014500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Estelle Castlewood (Celeste Holm) begins to discover what a charming gentleman Bertram McDonald (Sir John Mills) is when she meets him as an equal aboard ship in A Good and Faithful Servant.</desc><episode-num system="xmltv_ns">1.20.0</episode-num></programme>
+  <programme start="20260620014500 +0000" stop="20260620024500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>A former waitress, who inherited a fortune, isn&apos;t sure if her boyfriend loves her or her money; a man is interested in a woman but her dog doesn&apos;t like him; Isaac falls for a woman who&apos;s engaged. (TV-PG)</desc><episode-num system="xmltv_ns">1.21.0</episode-num></programme>
+  <programme start="20260620024500 +0000" stop="20260620034500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Two shy people keep missing each other, due in part to Gopher&apos;s interference; two residents of old folks home take a cruise, only to be followed by their meddling children.</desc><episode-num system="xmltv_ns">1.22.0</episode-num></programme>
+  <programme start="20260620034500 +0000" stop="20260620044500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Julie ends up in the middle of an unusual love triangle when the visiting 13-year-old son of the head of the cruise line develops a crush on her at the same time that she is trying to win over a charming older passenger.</desc><episode-num system="xmltv_ns">1.23.0</episode-num></programme>
+  <programme start="20260620044500 +0000" stop="20260620054500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>A singer tries to persuade his manager to let him abandon the shock tactics that made him famous and let his music speak for itself.</desc><episode-num system="xmltv_ns">1.24.0</episode-num></programme>
+  <programme start="20260620054500 +0000" stop="20260620064500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>One-time stowaway April Lopez returns to the ship as a popular singer. However, she grows tired of the hassles of fame and decides that she would like to become a cruise director.</desc><episode-num system="xmltv_ns">1.25.0</episode-num></programme>
+  <programme start="20260620064500 +0000" stop="20260620074500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Gopher gives his parents a cruise as a Mother&apos;s Day present. Gopher&apos;s father grows jealous of the close relationship between mother and son.</desc><episode-num system="xmltv_ns">1.26.0</episode-num></programme>
+  <programme start="20260620074500 +0000" stop="20260620074500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260620074500 +0000" stop="20260620084500 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>Julie catches love fever on the high seas and is thinking of marriage when the Pacific Princess is chartered for a dazzling star-studded wedding cruise that takes Capt. Stubing, his crew, and their guests on a beautiful scenic journey to Alaska.</desc><episode-num system="xmltv_ns">2.0.0</episode-num></programme>
+  <programme start="20260620084500 +0000" stop="20260620120000 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260620160000 +0000" stop="20260620200000 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260620200000 +0000" stop="20260621000000 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260621000000 +0000" stop="20260621040000 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260621080000 +0000" stop="20260621120000 +0000" channel="The Love Boat.us"><title>The Love Boat</title><desc>no info available</desc></programme>
+  <programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
+  <programme start="20260619040000 +0000" stop="20260619053000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
+  <programme start="20260619053000 +0000" stop="20260619060000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A World War II veteran and a Japanese-American gardener battle each other over a war that ended more than 20 years ago.</desc><episode-num system="xmltv_ns">4.30.0</episode-num></programme>
+  <programme start="20260619060000 +0000" stop="20260619063000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Jared Garrity arrives in the Old West town of Happiness, Arizona, proclaiming he can revive the dead.</desc><episode-num system="xmltv_ns">4.31.0</episode-num></programme>
+  <programme start="20260619063000 +0000" stop="20260619070000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A factory CEO replaces human workers with machines.</desc><episode-num system="xmltv_ns">4.32.0</episode-num></programme>
+  <programme start="20260619070000 +0000" stop="20260619073000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A singer&apos;s song becomes tragically real.</desc><episode-num system="xmltv_ns">4.33.0</episode-num></programme>
+  <programme start="20260619073000 +0000" stop="20260619080000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Two unhappy children find a happy escape in a swimming pool.</desc><episode-num system="xmltv_ns">4.35.0</episode-num></programme>
+  <programme start="20260619080000 +0000" stop="20260619083000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Mike Ferris finds himself in a town strangely devoid of people. But despite the emptiness, he has the odd feeling that he&apos;s being watched...</desc><episode-num system="xmltv_ns">0.0.0</episode-num></programme>
+  <programme start="20260619083000 +0000" stop="20260619090000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A street salesman cleverly eludes Death. But if he lives, a little girl must die in his place.</desc><episode-num system="xmltv_ns">0.1.0</episode-num></programme>
+  <programme start="20260619090000 +0000" stop="20260619093000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A has-been, drunk gunslinger finds his fast-draw abilities magically restored.</desc><episode-num system="xmltv_ns">0.2.0</episode-num></programme>
+  <programme start="20260619093000 +0000" stop="20260619100000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>An aging, former movie star lives and dreams in the past, constantly watching her old movies alone in her room.</desc><episode-num system="xmltv_ns">0.3.0</episode-num></programme>
+  <programme start="20260619100000 +0000" stop="20260619103000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Martin Sloan, driving through the country, leaves his car and starts to walk toward his hometown, Homewood. He finds things exactly as they were when he was a child. He soon realizes he&apos;s gone back in time.</desc><episode-num system="xmltv_ns">0.4.0</episode-num></programme>
+  <programme start="20260619103000 +0000" stop="20260619110000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A hypochondriac exchanges his soul for immortality and indestructibility.</desc><episode-num system="xmltv_ns">0.5.0</episode-num></programme>
+  <programme start="20260619110000 +0000" stop="20260619113000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Corry is stranded on an asteroid after being convicted of a crime. He receives as a present a robot who looks, sounds, and acts like a real woman.</desc><episode-num system="xmltv_ns">0.6.0</episode-num></programme>
+  <programme start="20260619113000 +0000" stop="20260619120000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A bank teller, Henry Bemis, longs for time alone to read books. He gets his wish...</desc><episode-num system="xmltv_ns">0.7.0</episode-num></programme>
+  <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A man is terrified of falling asleep for fear he might die.</desc><episode-num system="xmltv_ns">0.8.0</episode-num></programme>
+  <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>In 1942, a German wonders why he&apos;s on the deck of a British steamship, with no memory of how he got there, and an overwhelming sense of impending doom.</desc><episode-num system="xmltv_ns">0.9.0</episode-num></programme>
+  <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Three astronauts have returned from this first space flight. Major Gart is hospitalized with a broken leg. The other two, Colonels Harrington and Forbes head for a bar. Harrington gets a strange feeling…</desc><episode-num system="xmltv_ns">0.10.0</episode-num></programme>
+  <programme start="20260619133000 +0000" stop="20260619140000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A two-bit thug thinks he&apos;s found the key to a better life in an old sidewalk salesman who has the uncanny ability to tell people what they need the most.</desc><episode-num system="xmltv_ns">0.11.0</episode-num></programme>
+  <programme start="20260619140000 +0000" stop="20260619143000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A man who can change his face to resemble others gets into hot water with gangsters.</desc><episode-num system="xmltv_ns">0.12.0</episode-num></programme>
+  <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>With all-out nuclear war about to ignite, a scientist and his pilot friend plot to escape on an experimental spaceship.</desc><episode-num system="xmltv_ns">0.13.0</episode-num></programme>
+  <programme start="20260619150000 +0000" stop="20260619153000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Three astronauts crash on what they believe to be an asteroid. Unfortunately they have only limited water supplies to sustain them.</desc><episode-num system="xmltv_ns">0.14.0</episode-num></programme>
+  <programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Alone on a cross-country trip, a woman continually sees the same hitch-hiker everywhere she looks.</desc><episode-num system="xmltv_ns">0.15.0</episode-num></programme>
+  <programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Tight fisted Franklin Gibbs is not pleased when his wife wins a trip for two to Las Vegas. But things change when he falls under the spell of a slot machine that calls his name.</desc><episode-num system="xmltv_ns">0.16.0</episode-num></programme>
+  <programme start="20260619163000 +0000" stop="20260619170000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A World War I flying ace flies through a mysterious cloud - and lands at a modern U.S. air base in the year 1959!</desc><episode-num system="xmltv_ns">0.17.0</episode-num></programme>
+  <programme start="20260619170000 +0000" stop="20260619173000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Lt. Fitzgerald has found his own special wartime hell. Looking into the faces of his men prior to battle, he has the disquieting ability to see who is about to die.</desc><episode-num system="xmltv_ns">0.18.0</episode-num></programme>
+  <programme start="20260619173000 +0000" stop="20260619180000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Three astronauts land on what looks like Earth 200 years before they left--only all of the people seem frozen in time.</desc><episode-num system="xmltv_ns">0.19.0</episode-num></programme>
+  <programme start="20260619180000 +0000" stop="20260619183000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Millicent Barnes sees her double at a bus terminal.</desc><episode-num system="xmltv_ns">0.20.0</episode-num></programme>
+  <programme start="20260619183000 +0000" stop="20260619190000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Paranoia strikes the residents of Maple Street when they believe human-looking aliens have invaded the neighborhood.</desc><episode-num system="xmltv_ns">0.21.0</episode-num></programme>
+  <programme start="20260619190000 +0000" stop="20260619193000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Businessman Arthur Curtis discovers that life as he knows it doesn&apos;t really exist.</desc><episode-num system="xmltv_ns">0.22.0</episode-num></programme>
+  <programme start="20260619193000 +0000" stop="20260619200000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Walter Jameson is an excellent history teacher who talks about the past as if he had lived it.</desc><episode-num system="xmltv_ns">0.23.0</episode-num></programme>
+  <programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>When a space exploration crashes on Mars, the surviving passenger is surprised to find that Martians are human-looking, very friendly and apparently just like us...</desc><episode-num system="xmltv_ns">0.24.0</episode-num></programme>
+  <programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Just before being hanged for shooting a man in the back, a man in 1880 is transported into the year 1959 by a professor who soon realizes that he has brought forward a savage killer.</desc><episode-num system="xmltv_ns">0.25.0</episode-num></programme>
+  <programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>An over-the-hill boxer gets a boost from one of his biggest fans - a little boy with an unwavering belief in magic.</desc><episode-num system="xmltv_ns">0.26.0</episode-num></programme>
+  <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>After being shot to death, Rocky Valentine encounters the amiable white-haired Mr. Pip, who gives Rocky everything he wishes for.</desc><episode-num system="xmltv_ns">0.27.0</episode-num></programme>
+  <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Schoolteacher Helen Foley finds a strange and very serious little girl on the stairs outside her apartment. The little girl seems to know her, and tries to jog her memory about a man she saw earlier that day. The man arrives at Helen&apos;s door…</desc><episode-num system="xmltv_ns">0.28.0</episode-num></programme>
+  <programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Riding home on the train one day, a man falls asleep and dreams it is 1880, and he is entering a small town called Willoughby.</desc><episode-num system="xmltv_ns">0.29.0</episode-num></programme>
+  <programme start="20260619230000 +0000" stop="20260619233000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A man, desperate to win the affection of a beautiful woman, slips her a love potion. He is overjoyed that the potion works so well...at first.</desc><episode-num system="xmltv_ns">0.30.0</episode-num></programme>
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A trumpet player who&apos;s convinced he&apos;ll never amount to anything attempts suicide and finds himself in a world where no one can hear or see him.</desc><episode-num system="xmltv_ns">0.31.0</episode-num></programme>
+  <programme start="20260620000000 +0000" stop="20260620003000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>An eccentric loser gets a new life from his guardian angel, but there is a price to keeping it.</desc><episode-num system="xmltv_ns">0.32.0</episode-num></programme>
+  <programme start="20260620003000 +0000" stop="20260620010000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A woman discovers that the floor of a department store, on which she bought a gold thimble, doesn&apos;t exist - and that her &apos;saleslady&apos; is really a mannequin!</desc><episode-num system="xmltv_ns">0.33.0</episode-num></programme>
+  <programme start="20260620010000 +0000" stop="20260620013000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A scientist arranges to have his human-looking robot pitch for the struggling local baseball team.</desc><episode-num system="xmltv_ns">0.34.0</episode-num></programme>
+  <programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A playwright makes characters come to life.</desc><episode-num system="xmltv_ns">0.35.0</episode-num></programme>
+  <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A pilot of a downed WW II bomber comes to in the African desert and desperately tries to find out what happened to the rest of his crew.</desc><episode-num system="xmltv_ns">1.0.0</episode-num></programme>
+  <programme start="20260620023000 +0000" stop="20260620030000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A luckless couple stumbles upon fortune when a genie materializes from a bottle in their antique shop. The genie grants them four wishes but warns them, prophetically, to be careful what you wish for.</desc><episode-num system="xmltv_ns">1.1.0</episode-num></programme>
+  <programme start="20260620030000 +0000" stop="20260620033000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Small time criminal Jackie Rhoades must face both his past and his conscience while waiting for his next assignment.</desc><episode-num system="xmltv_ns">1.2.0</episode-num></programme>
+  <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Bartlett Finchley&apos;s paranoia about the machines around proves true.</desc><episode-num system="xmltv_ns">1.3.0</episode-num></programme>
+  <programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>Seeking refuge from a storm, traveler David Ellington comes upon a bizarre hermitage of monks, who have imprisoned a man who begs for his help. When David confronts the head monk Brother Jerome, he is told that the man is the devil, and David must decide</desc><episode-num system="xmltv_ns">1.4.0</episode-num></programme>
+  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A young woman lying in a hospital bed, her head wrapped in bandages, awaits the outcome of a surgical procedure performed by the State in a last-ditch attempt to make her look &apos;normal&apos;.</desc><episode-num system="xmltv_ns">1.5.0</episode-num></programme>
+  <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A pair of newlyweds stopping in a small town are trapped by their own superstition when playing a fortune-telling machine in a local diner.</desc><episode-num system="xmltv_ns">1.6.0</episode-num></programme>
+  <programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>The daughter of an inventor objects to their &apos;perfect&apos; home where they are waited on by mechanical servants.</desc><episode-num system="xmltv_ns">1.7.0</episode-num></programme>
+  <programme start="20260620060000 +0000" stop="20260620063000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>A nostalgic actor revisits his late wife and friends at their old haunt, only to find that he is now out of place there.</desc><episode-num system="xmltv_ns">1.8.0</episode-num></programme>
+  <programme start="20260620063000 +0000" stop="20260620070000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>When three dum-dum crooks get ahold of a camera that takes pictures of the future, they set out to make a quick fortune with their new toy.</desc><episode-num system="xmltv_ns">1.9.0</episode-num></programme>
+  <programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>After a derelict Santa Claus is fired on Christmas Eve, he finds a mysterious bag that gives out presents. With this bag he sets out to fulfill his one wish - to see the less fortunate inherit the bounties of Christmas.</desc><episode-num system="xmltv_ns">1.10.0</episode-num></programme>
+  <programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
+  <programme start="20260620080000 +0000" stop="20260620120000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
+  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
+  <programme start="20260620160000 +0000" stop="20260620200000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
+  <programme start="20260620200000 +0000" stop="20260621000000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
+  <programme start="20260621000000 +0000" stop="20260621040000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
+  <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
+  <programme start="20260621080000 +0000" stop="20260621120000 +0000" channel="The Twilight Zone.us"><title>The Twilight Zone</title><desc>no info available</desc></programme>
   <programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="The Walking Dead Universe.us"><title>The Walking Dead Universe</title><desc>no info available</desc></programme>
   <programme start="20260619040000 +0000" stop="20260619053100 +0000" channel="The Walking Dead Universe.us"><title>The Walking Dead Universe</title><desc>no info available</desc></programme>
   <programme start="20260619053100 +0000" stop="20260619062400 +0000" channel="The Walking Dead Universe.us"><title>The Walking Dead</title><desc>Maggie and Elijah learn a new survival tactic from Negan; Eugene&apos;s group clears walkers to pay their fines; Yumiko interviews for an upper-class job; Daryl learns more about Leah and the Reapers; Gabriel encounters a man of God.</desc><episode-num system="xmltv_ns">10.6.0</episode-num></programme>
