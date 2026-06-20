@@ -13,6 +13,18 @@ http://stream.cammonitorplus.net/1812/tracks-v1a1/mono.m3u8
 http://stream.cammonitorplus.net/1820/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Beverly Hillbillies.us" tvg-name="Beverly Hillbillies" tvg-logo="" group-title="Classic TV",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+#EXTINF:-1 tvg-id="ChapelleShow.noepg" tvg-name="Chappelle Show" tvg-logo="" group-title="Classic TV",Chappelle Show
+https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
+#EXTINF:-1 tvg-id="Classic TV Crime Drama.us" tvg-name="Classic TV Crime Drama" tvg-logo="" group-title="Classic TV",Classic TV Crime Drama
+https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
+#EXTINF:-1 tvg-id="Little House on the Prairie.us" tvg-name="Little House on the Prairie" tvg-logo="" group-title="Classic TV",Little House on the Prairie
+https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="6549337183595c000815ad05" tvg-name="Murder She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Classic TV",Murder She Wrote
+https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="QuantumLeap.noepg" tvg-name="Quantum Leap" tvg-logo="" group-title="Classic TV",Quantum Leap
+https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
+#EXTINF:-1 tvg-id="Taxi.noepg" tvg-name="Taxi" tvg-logo="" group-title="Classic TV",Taxi
+https://jmp2.uk/plu-62e9186f8b685d000773cf58.m3u8
 #EXTINF:-1 tvg-id="The Andy Griffith Show.us" tvg-name="The Andy Griffith Show" tvg-logo="" group-title="Classic TV",The Andy Griffith Show
 https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
 #EXTINF:-1 tvg-id="The Love Boat.us" tvg-name="The Love Boat" tvg-logo="" group-title="Classic TV",The Love Boat
@@ -37,8 +49,12 @@ http://23.239.31.26:8989/amc/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.m3u8
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",BET Her
 http://41.205.93.154/BETHER/index.m3u8
+#EXTINF:-1 tvg-id="BET x Tyler Perry Comedy.us" tvg-name="BET x Tyler Perry Comedy" tvg-logo="" group-title="Entertainment",BET x Tyler Perry Comedy
+https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BET x Tyler Perry Drama.us" tvg-name="BET x Tyler Perry Drama" tvg-logo="https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG.png" group-title="Entertainment",BET x Tyler Perry Drama
 https://414192d1e2a74ec495a72e78890523b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-866-BETxTYLERPERRYDRAMA-TCL/9bc35396-b13b-48c0-afcf-fa2c34d69e04/0.m3u8
+#EXTINF:-1 tvg-id="Beyond the Gates.us" tvg-name="Beyond the Gates" tvg-logo="" group-title="Entertainment",Beyond the Gates
+https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&h=270" group-title="Entertainment",Comedy Central
@@ -59,6 +75,8 @@ http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_HALLMARK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN HD" tvg-logo="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&h=270" group-title="Entertainment",LMN
 http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Love And Hip Hop.us" tvg-name="Love and Hip Hop" tvg-logo="" group-title="Entertainment",Love and Hip Hop
+https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV - Music Television HD" tvg-logo="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&h=270" group-title="Entertainment",MTV
 http://23.237.104.106:8080/USA_MTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",Paramount Network
@@ -73,6 +91,8 @@ https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 http://23.237.104.106:8080/USA_SYFY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="http://dtil.tmsimg.com/assets/s58515_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="WalkingDeadAMC.noepg" tvg-name="The Walking Dead by AMC" tvg-logo="" group-title="Entertainment",The Walking Dead by AMC
+https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
 #EXTINF:-1 tvg-id="The Walking Dead Universe.us" tvg-name="The Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Entertainment",The Walking Dead Universe
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/9bab9bc1-1efb-4fee-9e03-9cf49be98a98/4.m3u8
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="http://dtil.tmsimg.com/assets/s42642_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",TNT
@@ -117,6 +137,12 @@ https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffb
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD HD" tvg-logo="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&h=270" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DragonballZ.noepg" tvg-name="Dragonball Z" tvg-logo="" group-title="Kids",Dragonball Z
+https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="NickToons" tvg-logo="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&h=270" group-title="Kids",NickToons
+https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.noepg" tvg-name="Tom and Jerry" tvg-logo="" group-title="Kids",Tom and Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="WWBT-DT.us_locals1" tvg-name="WWBT NBC12 Richmond" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NBC_2013_current_logo.svg/320px-NBC_2013_current_logo.svg.png" group-title="Local News",12 On Your Side Richmond
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15905.m3u8
 #EXTINF:-1 tvg-id="CBS (WTVR) Richmond, VA HD.us" tvg-name="CBS 6 Richmond" tvg-logo="http://dtil.tmsimg.com/assets/s28711_h3_ba.png?w=360&h=270" group-title="Local News",CBS 6 Richmond
@@ -159,6 +185,8 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://49477bf91d3c44a898b82f099b033948.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1145-THEROUTERLIMITS-TCLTV/4d481029-ca21-4ecf-bcd8-6c16962ff6a7/4.m3u8
 #EXTINF:-1 tvg-id="The Twilight Zone.us" tvg-name="The Twilight Zone" tvg-logo="" group-title="Sci-Fi & Mystery",The Twilight Zone
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
+#EXTINF:-1 tvg-id="6913e381b6bf26bb6e798c13" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="Sci-Fi & Mystery",The X-Files
+https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet HD" tvg-logo="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&h=270" group-title="Science & Nature",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel HD" tvg-logo="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&h=270" group-title="Science & Nature",Discovery Channel
@@ -185,7 +213,11 @@ http://23.237.104.106:8080/USA_ESPNU/tracks-v1a1/mono.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2501.m3u8
 #EXTINF:-1 tvg-id="FS2.HD.us2" tvg-name="FS2 HD" tvg-logo="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&h=270" group-title="Sports",FS2
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.m3u8
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&h=270" group-title="Sports",MLB Network
+https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV HD" tvg-logo="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&h=270" group-title="Sports",NBA TV
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" group-title="Sports",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&h=270" group-title="Sports",NFL Network
 http://23.237.104.106:8080/USA_NFL_NETWORK/tracks-v1a1/mono.m3u8
