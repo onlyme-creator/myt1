@@ -125,6 +125,8 @@ http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 https://7b058334279b4a5b9b574cd126987c03.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1070-INTHEHEATOFTHENIGHT-TCLTV/b9da658a-19c3-4715-94c7-848350d9860b/0.m3u8
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime HD" tvg-logo="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&h=270" group-title="Movies & Premium",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&h=270" group-title="Movies & Premium",Showtime Extreme
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.m3u8
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz HD" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&h=270" group-title="Movies & Premium",Starz
 http://23.237.104.106:8080/USA_STARZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM US HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64312_dark_360w_270h.png" group-title="Movies & Premium",TCM
