@@ -75,6 +75,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&h=270" group-title="Entertainment",TV Land
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.m3u8
+#EXTINF:-1 tvg-id="TV Land Sitcoms.us" tvg-name="TV Land Sitcoms" tvg-logo="" group-title="Entertainment",TV Land Sitcoms
+https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png" group-title="Entertainment",TV One
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network East HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58452_dark_360w_270h.png" group-title="Entertainment",USA Network East HD
@@ -111,6 +113,8 @@ http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WWBT-DT.us_locals1" tvg-name="WWBT NBC12 Richmond" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/NBC_2013_current_logo.svg/320px-NBC_2013_current_logo.svg.png" group-title="Local News",12 On Your Side Richmond
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15905.m3u8
+#EXTINF:-1 tvg-id="CBS (WTVR) Richmond, VA HD.us" tvg-name="CBS 6 Richmond" tvg-logo="http://dtil.tmsimg.com/assets/s28711_h3_ba.png?w=360&h=270" group-title="Local News",CBS 6 Richmond
+https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.AMC.Thrillers.plex" tvg-name="AMC Thrillers" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="Movies & Premium",AMC Thrillers
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/9f7db183-f741-4707-af23-e4652d750f73/4.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax HD" tvg-logo="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&h=270" group-title="Movies & Premium",Cinemax

@@ -1,342 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-  <channel id="HBO.West.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO West</display-name>
-  </channel>
-  <channel id="Paramount+.with.Showtime.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount+ with Showtime HD</display-name>
-  </channel>
-  <channel id="get.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">get</display-name>
-  </channel>
-  <channel id="CBS.Streaming.SD.East.feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS Streaming SD East feed</display-name>
-  </channel>
-  <channel id="CNN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CNN HD</display-name>
-  </channel>
-  <channel id="Stories.by.AMC.us2">
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <url>http://www.xumo.com</url>
-    <display-name lang="en">Stories by AMC</display-name>
-  </channel>
-  <channel id="Comedy.Central.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comedy Central HD</display-name>
-  </channel>
-  <channel id="ESPNU.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPNU HD</display-name>
-  </channel>
-  <channel id="CHARGE!.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CHARGE!</display-name>
-  </channel>
-  <channel id="NFL.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NFL Network HD</display-name>
-  </channel>
-  <channel id="FS2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS2 HD</display-name>
-  </channel>
-  <channel id="LMN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">LMN HD</display-name>
-  </channel>
-  <channel id="FX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX HD</display-name>
-  </channel>
-  <channel id="Ebony TV Drama.us"><display-name>Ebony TV Drama.us</display-name></channel>
-  <channel id="plex.tv.OuterSphere.by.Lionsgate.plex">
-    <display-name lang="en">OuterSphere by Lionsgate</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
-    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="WWBT-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WWBT-DT</display-name>
-  </channel>
-  <channel id="MSNBC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MSNBC HD</display-name>
-  </channel>
-  <channel id="HBO2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO2 HD</display-name>
-  </channel>
-  <channel id="USA.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">USA Network HD</display-name>
-  </channel>
-  <channel id="ESPN2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN2 HD</display-name>
-  </channel>
-  <channel id="Disney.XD.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Disney XD HD</display-name>
-  </channel>
-  <channel id="Vice.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Vice</display-name>
-  </channel>
-  <channel id="Showtime.Extreme.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Extreme HD</display-name>
-  </channel>
-  <channel id="The Walking Dead Universe.us"><display-name>The Walking Dead Universe.us</display-name></channel>
-  <channel id="plex.tv.AMC.Thrillers.plex">
-    <display-name lang="en">AMC Thrillers</display-name>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9df64368e1fafa63599d98a68801fa97.jpg" />
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9df64368e1fafa63599d98a68801fa97.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="Grit.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Grit</display-name>
-  </channel>
-  <channel id="Syfy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Syfy HD</display-name>
-  </channel>
-  <channel id="BET x Tyler Perry Drama.us"><display-name>BET x Tyler Perry Drama.us</display-name></channel>
-  <channel id="WFLD-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WFLD-DT</display-name>
-  </channel>
-  <channel id="Bounce XL.us"><display-name>Bounce XL.us</display-name></channel>
-  <channel id="Comet.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comet</display-name>
-  </channel>
-  <channel id="A.and.E.HD.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">A and E HD East</display-name>
-  </channel>
-  <channel id="VH1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">VH1 HD</display-name>
-  </channel>
-  <channel id="KSNF-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KSNF-DT</display-name>
-  </channel>
-  <channel id="Bounce.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Bounce TV</display-name>
-  </channel>
-  <channel id="HLN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HLN HD</display-name>
-  </channel>
-  <channel id="plex.tv.Ancient.Aliens.plex">
-    <display-name lang="en">Ancient Aliens</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
   <channel id="BET.Her.us2">
     <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">BET Her</display-name>
-  </channel>
-  <channel id="plex.tv.The.Outer.Limits.plex">
-    <display-name lang="en">The Outer Limits</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="plex.tv.TV.One.Crime.&amp;.Justice.plex">
-    <display-name lang="en">TV One Crime &amp; Justice</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="CBS.News.National.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS News National Stream</display-name>
-  </channel>
-  <channel id="Law And Order.us"><display-name>Law And Order.us</display-name></channel>
-  <channel id="Hallmark.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Hallmark Channel HD</display-name>
-  </channel>
-  <channel id="National.Geographic.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic HD</display-name>
-  </channel>
-  <channel id="ReelzChannel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ReelzChannel HD</display-name>
-  </channel>
-  <channel id="National.Geographic.Wild.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic Wild HD</display-name>
-  </channel>
-  <channel id="Fuse.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fuse HD</display-name>
-  </channel>
-  <channel id="TV.ONE.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV ONE HD</display-name>
-  </channel>
-  <channel id="ION.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ION Television HD</display-name>
-  </channel>
-  <channel id="Game.Show.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Game Show Network HD</display-name>
-  </channel>
-  <channel id="E!.Entertainment.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">E! Entertainment Television HD</display-name>
-  </channel>
-  <channel id="TNT.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TNT HD</display-name>
-  </channel>
-  <channel id="FXX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FXX HD</display-name>
-  </channel>
-  <channel id="Turner.Classic.Movies.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Turner Classic Movies HD</display-name>
-  </channel>
-  <channel id="COZI.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">COZI TV</display-name>
-  </channel>
-  <channel id="BET.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BET HD</display-name>
-  </channel>
-  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
-  <channel id="ABC.National.Feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ABC National Feed</display-name>
-  </channel>
-  <channel id="truTV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">truTV HD</display-name>
-  </channel>
-  <channel id="TV.Land.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV Land HD</display-name>
-  </channel>
-  <channel id="History.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">History HD</display-name>
-  </channel>
-  <channel id="Me.TV.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Me TV Network</display-name>
   </channel>
   <channel id="BUZZR.Stream.us2">
     <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
@@ -344,42 +12,54 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">BUZZR Stream</display-name>
   </channel>
-  <channel id="The First 48 by AAndE.us"><display-name>The First 48 by AAndE.us</display-name></channel>
-  <channel id="MTV.-.Music.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Ebony TV Drama.us"><display-name>Ebony TV Drama.us</display-name></channel>
+  <channel id="Comet.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MTV - Music Television HD</display-name>
+    <display-name lang="en">Comet</display-name>
   </channel>
-  <channel id="Cinemax.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax HD</display-name>
+  <channel id="plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex">
+    <display-name lang="en">In The Heat Of The Night by MGM</display-name>
+    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
+    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
+    <url>http://www.plex.tv</url>
   </channel>
-  <channel id="ESPN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Comedy.Central.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN HD</display-name>
+    <display-name lang="en">Comedy Central HD</display-name>
   </channel>
-  <channel id="KTBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="National.Geographic.Wild.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KTBC-DT</display-name>
+    <display-name lang="en">National Geographic Wild HD</display-name>
   </channel>
-  <channel id="WNBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+  <channel id="USA.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WNBC-DT</display-name>
+    <display-name lang="en">USA Network HD</display-name>
   </channel>
-  <channel id="Paramount.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Bounce.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount Network HD</display-name>
+    <display-name lang="en">Bounce TV</display-name>
+  </channel>
+  <channel id="CBS.Streaming.SD.East.feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS Streaming SD East feed</display-name>
+  </channel>
+  <channel id="ReelzChannel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ReelzChannel HD</display-name>
   </channel>
   <channel id="FX.Movie.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
@@ -387,17 +67,33 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">FX Movie Channel HD</display-name>
   </channel>
-  <channel id="Revolt.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Revolt HD</display-name>
-  </channel>
   <channel id="NBA.TV.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">NBA TV HD</display-name>
+  </channel>
+  <channel id="NFL.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NFL Network HD</display-name>
+  </channel>
+  <channel id="CNN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CNN HD</display-name>
+  </channel>
+  <channel id="CBS.News.National.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS News National Stream</display-name>
+  </channel>
+  <channel id="Vice.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Vice</display-name>
   </channel>
   <channel id="Boomerang.us2">
     <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
@@ -405,17 +101,142 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Boomerang</display-name>
   </channel>
-  <channel id="WE.tv.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="WWBT-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WE tv HD</display-name>
+    <display-name lang="en">WWBT-DT</display-name>
   </channel>
-  <channel id="Discovery.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+  <channel id="HLN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Discovery Channel HD</display-name>
+    <display-name lang="en">HLN HD</display-name>
+  </channel>
+  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
+  <channel id="get.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">get</display-name>
+  </channel>
+  <channel id="ESPNU.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPNU HD</display-name>
+  </channel>
+  <channel id="Starz.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz HD</display-name>
+  </channel>
+  <channel id="National.Geographic.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic HD</display-name>
+  </channel>
+  <channel id="CHARGE!.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CHARGE!</display-name>
+  </channel>
+  <channel id="WFLD-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WFLD-DT</display-name>
+  </channel>
+  <channel id="HBO2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO2 HD</display-name>
+  </channel>
+  <channel id="TV.Land.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV Land HD</display-name>
+  </channel>
+  <channel id="ION.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ION Television HD</display-name>
+  </channel>
+  <channel id="History.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">History HD</display-name>
+  </channel>
+  <channel id="LMN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">LMN HD</display-name>
+  </channel>
+  <channel id="Paramount+.with.Showtime.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount+ with Showtime HD</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Comedy HD</display-name>
+  </channel>
+  <channel id="Grit.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Grit</display-name>
+  </channel>
+  <channel id="Me.TV.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Me TV Network</display-name>
+  </channel>
+  <channel id="Disney.XD.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Disney XD HD</display-name>
+  </channel>
+  <channel id="plex.tv.AMC.Thrillers.plex">
+    <display-name lang="en">AMC Thrillers</display-name>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9df64368e1fafa63599d98a68801fa97.jpg" />
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9df64368e1fafa63599d98a68801fa97.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="Showtime.Extreme.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Extreme HD</display-name>
+  </channel>
+  <channel id="TNT.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TNT HD</display-name>
+  </channel>
+  <channel id="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <display-name lang="en">TV One Crime &amp; Justice</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="BET.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BET HD</display-name>
   </channel>
   <channel id="plex.tv.PBS.Nature.plex">
     <display-name lang="en">PBS Nature</display-name>
@@ -423,11 +244,197 @@
     <icon src="https://metadata-static.plex.tv/f/gracenote/f8a604303f70bc6f2452515c4d143fe9.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <channel id="Court.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="plex.tv.Ancient.Aliens.plex">
+    <display-name lang="en">Ancient Aliens</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="WE.tv.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Court TV</display-name>
+    <display-name lang="en">WE tv HD</display-name>
+  </channel>
+  <channel id="The First 48 by AAndE.us"><display-name>The First 48 by AAndE.us</display-name></channel>
+  <channel id="TV.ONE.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV ONE HD</display-name>
+  </channel>
+  <channel id="CBS (WTVR) Richmond, VA HD.us"><display-name>CBS (WTVR) Richmond, VA HD.us</display-name></channel>
+  <channel id="Discovery.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Discovery Channel HD</display-name>
+  </channel>
+  <channel id="Game.Show.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Game Show Network HD</display-name>
+  </channel>
+  <channel id="Stories.by.AMC.us2">
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <url>http://www.xumo.com</url>
+    <display-name lang="en">Stories by AMC</display-name>
+  </channel>
+  <channel id="Law And Order.us"><display-name>Law And Order.us</display-name></channel>
+  <channel id="Bounce XL.us"><display-name>Bounce XL.us</display-name></channel>
+  <channel id="plex.tv.OuterSphere.by.Lionsgate.plex">
+    <display-name lang="en">OuterSphere by Lionsgate</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="ABC.National.Feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ABC National Feed</display-name>
+  </channel>
+  <channel id="KSNF-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KSNF-DT</display-name>
+  </channel>
+  <channel id="Fuse.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Fuse HD</display-name>
+  </channel>
+  <channel id="E!.Entertainment.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">E! Entertainment Television HD</display-name>
+  </channel>
+  <channel id="FX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX HD</display-name>
+  </channel>
+  <channel id="FS2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS2 HD</display-name>
+  </channel>
+  <channel id="KTBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KTBC-DT</display-name>
+  </channel>
+  <channel id="BET x Tyler Perry Drama.us"><display-name>BET x Tyler Perry Drama.us</display-name></channel>
+  <channel id="VH1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">VH1 HD</display-name>
+  </channel>
+  <channel id="A.and.E.HD.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">A and E HD East</display-name>
+  </channel>
+  <channel id="FXX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FXX HD</display-name>
+  </channel>
+  <channel id="WNBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WNBC-DT</display-name>
+  </channel>
+  <channel id="TV Land Sitcoms.us"><display-name>TV Land Sitcoms.us</display-name></channel>
+  <channel id="ESPN2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN2 HD</display-name>
+  </channel>
+  <channel id="Turner.Classic.Movies.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Turner Classic Movies HD</display-name>
+  </channel>
+  <channel id="HBO.West.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO West</display-name>
+  </channel>
+  <channel id="COZI.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">COZI TV</display-name>
+  </channel>
+  <channel id="MSNBC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MSNBC HD</display-name>
+  </channel>
+  <channel id="Animal.Planet.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Animal Planet HD</display-name>
+  </channel>
+  <channel id="Paramount.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount Network HD</display-name>
+  </channel>
+  <channel id="FS1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS1 HD</display-name>
+  </channel>
+  <channel id="truTV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">truTV HD</display-name>
+  </channel>
+  <channel id="MTV.-.Music.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MTV - Music Television HD</display-name>
+  </channel>
+  <channel id="AMC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC HD</display-name>
+  </channel>
+  <channel id="ESPN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN HD</display-name>
+  </channel>
+  <channel id="Revolt.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Revolt HD</display-name>
   </channel>
   <channel id="TBS.HD.us2">
     <url>http://www.tmsapi.com</url>
@@ -437,42 +444,37 @@
     <display-name>Alfred Hitchcock Presents</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
   </channel>
-  <channel id="AMC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Hallmark.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC HD</display-name>
+    <display-name lang="en">Hallmark Channel HD</display-name>
   </channel>
-  <channel id="Animal.Planet.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+  <channel id="Syfy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Animal Planet HD</display-name>
+    <display-name lang="en">Syfy HD</display-name>
   </channel>
-  <channel id="Starz.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Court.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz HD</display-name>
+    <display-name lang="en">Court TV</display-name>
   </channel>
-  <channel id="HBO.Comedy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Comedy HD</display-name>
-  </channel>
-  <channel id="plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex">
-    <display-name lang="en">In The Heat Of The Night by MGM</display-name>
-    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
-    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
+  <channel id="plex.tv.The.Outer.Limits.plex">
+    <display-name lang="en">The Outer Limits</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <channel id="FS1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Cinemax.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS1 HD</display-name>
+    <display-name lang="en">Cinemax HD</display-name>
   </channel>
+  <channel id="The Walking Dead Universe.us"><display-name>The Walking Dead Universe.us</display-name></channel>
 
   <programme channel="ABC.National.Feed.us2" start="20260619043700 +0000" stop="20260619050600 +0000">
     <title lang="en">Nightline</title>
@@ -242635,6 +242637,68 @@
   <programme start="20260621000000 +0000" stop="20260621040000 +0000" channel="The Walking Dead Universe.us"><title>The Walking Dead Universe</title><desc>no info available</desc></programme>
   <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="The Walking Dead Universe.us"><title>The Walking Dead Universe</title><desc>no info available</desc></programme>
   <programme start="20260621080000 +0000" stop="20260621120000 +0000" channel="The Walking Dead Universe.us"><title>The Walking Dead Universe</title><desc>no info available</desc></programme>
+  <programme start="20260619000000 +0000" stop="20260619040000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
+  <programme start="20260619040000 +0000" stop="20260619053000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
+  <programme start="20260619053000 +0000" stop="20260619060000 +0000" channel="TV Land Sitcoms.us"><title>Kim&apos;s Convenience</title><desc>Only the Mehtas, Janet and Gerald know thus far that Raj cancelled his wedding with only the latter two knowing he did so because he is still in love with Janet.</desc><episode-num system="xmltv_ns">3.0.0</episode-num></programme>
+  <programme start="20260619060000 +0000" stop="20260619063000 +0000" channel="TV Land Sitcoms.us"><title>Kim&apos;s Convenience</title><desc>Appa is reluctant to have a house guest, but Umma is the one who ends up having problems with their visitor. Jung accuses Janet of being coldhearted and Shannon tackles workplace bullying .</desc><episode-num system="xmltv_ns">3.1.0</episode-num></programme>
+  <programme start="20260619063000 +0000" stop="20260619070000 +0000" channel="TV Land Sitcoms.us"><title>Kim&apos;s Convenience</title><desc>Umma is mistaken for a server at a school event for Janet. Appa takes up math tutoring to prove his teaching prowess. Meanwhile, Shannon is finally single but isn&apos;t sure if Jung will make a move.</desc><episode-num system="xmltv_ns">3.2.0</episode-num></programme>
+  <programme start="20260619070000 +0000" stop="20260619073000 +0000" channel="TV Land Sitcoms.us"><title>Moesha</title><desc>Dee finds a joint in the couch while cleaning the house. Frank and Dee assume and accuse Mo, but Moesha is shocked when she catches Myles smoking.</desc><episode-num system="xmltv_ns">3.2.0</episode-num></programme>
+  <programme start="20260619073000 +0000" stop="20260619080000 +0000" channel="TV Land Sitcoms.us"><title>Moesha</title><desc>Based on the family turmoil, the family begins counseling, but Moesha doesn’t want to air the family’s &apos;dirty laundry&apos;.</desc><episode-num system="xmltv_ns">3.3.0</episode-num></programme>
+  <programme start="20260619080000 +0000" stop="20260619083000 +0000" channel="TV Land Sitcoms.us"><title>Moesha</title><desc>Moesha is attracted to a substitute teacher at Crenshaw. After they kiss, he leaves the school for &apos;personal reasons&apos;.</desc><episode-num system="xmltv_ns">3.4.0</episode-num></programme>
+  <programme start="20260619083000 +0000" stop="20260619090000 +0000" channel="TV Land Sitcoms.us"><title>Moesha</title><desc>Moesha and her friends are stalked by a student who was just released from jail who they haven’t seen since the third grade when he got into trouble because of them. Parody of Brandy’s feature &apos;I Still Know What You Did Last Summer…&apos;</desc><episode-num system="xmltv_ns">3.5.0</episode-num></programme>
+  <programme start="20260619090000 +0000" stop="20260619093000 +0000" channel="TV Land Sitcoms.us"><title>The Steve Harvey Show</title><desc>A strange double date results after Steve and Regina (Steve Harvey, Wendy Raquel Robinson) both find new romances with unlikely people.</desc><episode-num system="xmltv_ns">2.8.0</episode-num></programme>
+  <programme start="20260619093000 +0000" stop="20260619100000 +0000" channel="TV Land Sitcoms.us"><title>The Steve Harvey Show</title><desc>Lovita (Terri J. Vaughn) walks out on her mother but doesn&apos;t find a big welcome from Cedric, Steve and Regina (Cedric The Entertainer, Steve Harvey, Wendy Raquel Robinson).</desc><episode-num system="xmltv_ns">2.9.0</episode-num></programme>
+  <programme start="20260619100000 +0000" stop="20260619103000 +0000" channel="TV Land Sitcoms.us"><title>The Steve Harvey Show</title><desc>A snowstorm forces Steve and Lovita (Steve Harvey, Terri J. Vaughn) to spend time together; Regina&apos;s (Wendy Raquel Robinson) getaway is canceled.</desc><episode-num system="xmltv_ns">2.10.0</episode-num></programme>
+  <programme start="20260619103000 +0000" stop="20260619110000 +0000" channel="TV Land Sitcoms.us"><title>The Steve Harvey Show</title><desc>Steve&apos;s (Steve Harvey) shy niece, Allison (guest star Megalyn Echikunwoke), is transformed by a make-over while visiting her uncle.</desc><episode-num system="xmltv_ns">2.11.0</episode-num></programme>
+  <programme start="20260619110000 +0000" stop="20260619113000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>In L.A., Victoria plans revenge on her nemesis Susan Lucci, Joy confronts Michael Knight, Melanie gets sentimental, and Elka talks her way onto Jimmy Kimmel&apos;s show.</desc><episode-num system="xmltv_ns">1.4.0</episode-num></programme>
+  <programme start="20260619113000 +0000" stop="20260619120000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>Still in L.A., Victoria feuds with Susan Lucci, Joy traps Michael Knight in his lie, Elka is determined to meet Robert Redford, and Melanie emotionally parts with her house.</desc><episode-num system="xmltv_ns">1.5.0</episode-num></programme>
+  <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>Elka brings home a rescue dog, Joy starts dating a man she met in her therapist&apos;s waiting room, and Victoria&apos;s agent recommends she make a sex tape to jumpstart her career.</desc><episode-num system="xmltv_ns">1.6.0</episode-num></programme>
+  <programme start="20260619123000 +0000" stop="20260619130000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>Trying again for her green card, Joy gets engaged to a homeless man, Victoria lands a local news correspondent job, and Melanie dates a Cavaliers coach.</desc><episode-num system="xmltv_ns">1.7.0</episode-num></programme>
+  <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>In the season premiere, it&apos;s the first day of fourth grade for Ritchie. No longer dating New Christine, Richard stays with Christine while he builds a new laundry room for her. But problems arise when Ritchie misinterprets the comfortable arrangement.</desc><episode-num system="xmltv_ns">1.0.0</episode-num></programme>
+  <programme start="20260619133000 +0000" stop="20260619140000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>Worried about Richard&apos;s indiscriminate dating habits and reluctantly realizing that she misses New Christine as well, Christine vows to bring the couple back together.</desc><episode-num system="xmltv_ns">1.1.0</episode-num></programme>
+  <programme start="20260619140000 +0000" stop="20260619143000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>When Christine learns that Jeff, the new man in her life, is a grandfather, she is forced to rethink the relationship.</desc><episode-num system="xmltv_ns">1.2.0</episode-num></programme>
+  <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>Ritchie has a newfound interest in religion after going to a church festival with Richard and New Christine. Having once had a bad experience at church, Christine reexamines her beliefs.</desc><episode-num system="xmltv_ns">1.3.0</episode-num></programme>
+  <programme start="20260619150000 +0000" stop="20260619153000 +0000" channel="TV Land Sitcoms.us"><title>Sabrina: The Teenage Witch</title><desc>Sinister plots, tumultuous romance, danger, and intrigue – just another day at Westbridge High, after Sabrina casts a spell wishing for more excitement.</desc><episode-num system="xmltv_ns">0.20.0</episode-num></programme>
+  <programme start="20260619153000 +0000" stop="20260619160000 +0000" channel="TV Land Sitcoms.us"><title>Sabrina: The Teenage Witch</title><desc>Sabrina finds herself in a little trouble when she sneaks out of the house after being grounded.</desc><episode-num system="xmltv_ns">0.21.0</episode-num></programme>
+  <programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="TV Land Sitcoms.us"><title>Sabrina: The Teenage Witch</title><desc>Sabrina is put on trial for witchcraft when her class visits historical Salem, Massachusetts.</desc><episode-num system="xmltv_ns">0.22.0</episode-num></programme>
+  <programme start="20260619163000 +0000" stop="20260619170000 +0000" channel="TV Land Sitcoms.us"><title>Sabrina: The Teenage Witch</title><desc>When Sabrina is tricked into marrying a troll, only a prince – a.k.a. Harvey – can save her.</desc><episode-num system="xmltv_ns">0.23.0</episode-num></programme>
+  <programme start="20260619170000 +0000" stop="20260619173000 +0000" channel="TV Land Sitcoms.us"><title>The Exes</title><desc>Phil (Donald Faison) meets a foreign lingerie model who doesn&apos;t speak English and Stuart (David Alan Basche) has to act as interpreter. Eden helps Holly overcome a bad first impression with a handsome neighbor. Haskell buys a coffin as an investment.</desc><episode-num system="xmltv_ns">0.106.0</episode-num></programme>
+  <programme start="20260619173000 +0000" stop="20260619180000 +0000" channel="TV Land Sitcoms.us"><title>The Exes</title><desc>Phil (Donald Faison), Stuart (David Alan Basche), and Haskell (Wayne Knight) are forced to trade apartments with Holly (Kristen Johnston) when her mother (Judith Light) comes for a visit because Holly never told her mother her engagement ended months ago.</desc><episode-num system="xmltv_ns">0.107.0</episode-num></programme>
+  <programme start="20260619180000 +0000" stop="20260619183000 +0000" channel="TV Land Sitcoms.us"><title>The Exes</title><desc>When Holly (Kristen Johnston) has to face her cheating ex fiancé for the first time since they broke up, she enlists the guys&apos; help to prove to him he lost the best thing he ever had.</desc><episode-num system="xmltv_ns">0.108.0</episode-num></programme>
+  <programme start="20260619183000 +0000" stop="20260619190000 +0000" channel="TV Land Sitcoms.us"><title>The Exes</title><desc>Phil (Donald Faison) is nervous when Holly (Kristen Johnston) starts dating his top client - basketball player Kevin Tyler (Amar&apos;e Stoudemire). Haskell (Wayne Knight) lures Stuart (David Alan Basche) into the world of sports betting.</desc><episode-num system="xmltv_ns">0.109.0</episode-num></programme>
+  <programme start="20260619190000 +0000" stop="20260619193000 +0000" channel="TV Land Sitcoms.us"><title>Everybody Hates Chris</title><desc>With Greg&apos;s father out of town, Chris invites Greg to stay at his house for the week.</desc><episode-num system="xmltv_ns">2.7.0</episode-num></programme>
+  <programme start="20260619193000 +0000" stop="20260619200000 +0000" channel="TV Land Sitcoms.us"><title>Everybody Hates Chris</title><desc>When a new student, Albert, enrolls at Corleone, Chris realizes that he has a lot more in common with Albert than just being the only two African American kids in school.</desc><episode-num system="xmltv_ns">2.8.0</episode-num></programme>
+  <programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="TV Land Sitcoms.us"><title>Everybody Hates Chris</title><desc>With Christmas break right around the corner, Chris&apos; holiday cheer turns to holiday blues when his teacher, Ms. Morello, assigns homework requiring each student to do a good deed over the break.</desc><episode-num system="xmltv_ns">2.9.0</episode-num></programme>
+  <programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="TV Land Sitcoms.us"><title>Everybody Hates Chris</title><desc>Chris and his family decide to take a trip down South to attend the funeral of Julius&apos; distant relative.</desc><episode-num system="xmltv_ns">2.10.0</episode-num></programme>
+  <programme start="20260619210000 +0000" stop="20260619213000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>Victoria tries to win over the difficult kids of a man she likes, Elka is resistant to wintering in Florida with Max, and Melanie and Joy volunteer at a senior center.</desc><episode-num system="xmltv_ns">1.8.0</episode-num></programme>
+  <programme start="20260619213000 +0000" stop="20260619220000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>As Victoria interviews the governor&apos;s candidly opportunistic wife, Elka goes on trial and attempts to sway the verdict by flirting with an elderly juror.</desc><episode-num system="xmltv_ns">1.9.0</episode-num></programme>
+  <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>Elka&apos;s on the lam and the women go looking for her…in Amish country. Meanwhile, Joy&apos;s a source of scandal as the Governor&apos;s alleged mistress and faces deportation while Victoria finds herself a little too at home with the Amish.</desc><episode-num system="xmltv_ns">1.10.0</episode-num></programme>
+  <programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>The women are terrified that an ex-con Victoria deceived will show up at the house, and Joy finally meets her son Owen, who thinks it may be best not to stay in contact.</desc><episode-num system="xmltv_ns">1.11.0</episode-num></programme>
+  <programme start="20260619230000 +0000" stop="20260619233000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>After getting each other dates for another shared fake birthday, the women&apos;s night involves a Jesus look-alike, Siamese twins, an impressionist, and an astute waiter.</desc><episode-num system="xmltv_ns">1.12.0</episode-num></programme>
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="TV Land Sitcoms.us"><title>Hot in Cleveland</title><desc>While rehearsing for a battle of the bands, Rick poaches away talented lead singer Joy, leaving Melanie, Victoria and Elka no choice but to use autotune microphones.</desc><episode-num system="xmltv_ns">1.13.0</episode-num></programme>
+  <programme start="20260620000000 +0000" stop="20260620003000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>New Christine loses all her inhibitions at a spontaneous bachelorette party Christine and Barb throw for her in Las Vegas. Charles Esten guest stars as Joe.</desc><episode-num system="xmltv_ns">3.13.0</episode-num></programme>
+  <programme start="20260620003000 +0000" stop="20260620010000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>Christine searches for the independent woman inside herself after Barb and Matthew move out. Recurring guest star Michaela Watkins appears as Matthew&apos;s girlfriend, Lucy.</desc><episode-num system="xmltv_ns">3.14.0</episode-num></programme>
+  <programme start="20260620010000 +0000" stop="20260620013000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>Christine accuses Richard of bad parenting when Ritchie gets hurt at a skateboarding party, but soon surpasses him as the worse parent when her over-protectiveness backfires.</desc><episode-num system="xmltv_ns">3.15.0</episode-num></programme>
+  <programme start="20260620013000 +0000" stop="20260620020000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>Christine finds herself the solid, dependable one in a new friendship with a fellow mom, Francie, at Ritchie&apos;s school.</desc><episode-num system="xmltv_ns">3.16.0</episode-num></programme>
+  <programme start="20260620020000 +0000" stop="20260620023000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>Christine and Richard help Marly and Lindsay through labor, evoking memories of Ritchie&apos;s birth, and possibly rekindling romantic feelings.</desc><episode-num system="xmltv_ns">3.17.0</episode-num></programme>
+  <programme start="20260620023000 +0000" stop="20260620030000 +0000" channel="TV Land Sitcoms.us"><title>The New Adventures of Old Christine</title><desc>Fed up with the mean moms at Ritchie&apos;s snotty private school, Christine decides to enroll him in public school.</desc><episode-num system="xmltv_ns">3.18.0</episode-num></programme>
+  <programme start="20260620030000 +0000" stop="20260620033000 +0000" channel="TV Land Sitcoms.us"><title>Sabrina: The Teenage Witch</title><desc>Sabrina’s lack of attention with detail causes bad side effects to her magic.</desc><episode-num system="xmltv_ns">1.10.0</episode-num></programme>
+  <programme start="20260620033000 +0000" stop="20260620040000 +0000" channel="TV Land Sitcoms.us"><title>Sabrina: The Teenage Witch</title><desc>A special visitor from the Other Realm helps Sabrina recapture the true spirit of Christmas</desc><episode-num system="xmltv_ns">1.11.0</episode-num></programme>
+  <programme start="20260620040000 +0000" stop="20260620043000 +0000" channel="TV Land Sitcoms.us"><title>Sabrina: The Teenage Witch</title><desc>Tired of Mr. Kraft’s harsh rules, Sabrina concocts a potion to make him act like a teenager.</desc><episode-num system="xmltv_ns">1.12.0</episode-num></programme>
+  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="TV Land Sitcoms.us"><title>Sabrina: The Teenage Witch</title><desc>Libby is even harder to figure out after Sabrina accidentally turns her into a jigsaw puzzle.</desc><episode-num system="xmltv_ns">1.13.0</episode-num></programme>
+  <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="TV Land Sitcoms.us"><title>Kim&apos;s Convenience</title><desc>Janet plans to get the Kim family together for their first family dinner in 15 years, but it almost proves too much for Jung and Appa to handle.</desc><episode-num system="xmltv_ns">3.3.0</episode-num></programme>
+  <programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="TV Land Sitcoms.us"><title>Kim&apos;s Convenience</title><desc>Janet considers a new tattoo. Jung and Shannon exchange five-week-iversary gifts. Umma and Appa discover some juicy gossip about Pastor Nina.</desc><episode-num system="xmltv_ns">3.4.0</episode-num></programme>
+  <programme start="20260620060000 +0000" stop="20260620063000 +0000" channel="TV Land Sitcoms.us"><title>Kim&apos;s Convenience</title><desc>Appa unwittingly becomes Jung&apos;s soccer coach. Umma insists that Janet learn to cook. Shannon forces a birthday party on Stacie.</desc><episode-num system="xmltv_ns">3.5.0</episode-num></programme>
+  <programme start="20260620063000 +0000" stop="20260620070000 +0000" channel="TV Land Sitcoms.us"><title>Kim&apos;s Convenience</title><desc>Appa eavesdrops on Gerald and Chelsea getting together to tell a lie to her parents. Appa says that he knows whenever Janet has told a lie.</desc><episode-num system="xmltv_ns">3.6.0</episode-num></programme>
+  <programme start="20260620070000 +0000" stop="20260620073000 +0000" channel="TV Land Sitcoms.us"><title>The Exes</title><desc>Phil (Donald Faison) is nervous when Holly (Kristen Johnston) starts dating his top client - basketball player Kevin Tyler (Amar&apos;e Stoudemire). Haskell (Wayne Knight) lures Stuart (David Alan Basche) into the world of sports betting.</desc><episode-num system="xmltv_ns">0.109.0</episode-num></programme>
+  <programme start="20260620073000 +0000" stop="20260620080000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
+  <programme start="20260620080000 +0000" stop="20260620120000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
+  <programme start="20260620120000 +0000" stop="20260620160000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
+  <programme start="20260620160000 +0000" stop="20260620200000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
+  <programme start="20260620200000 +0000" stop="20260621000000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
+  <programme start="20260621000000 +0000" stop="20260621040000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
+  <programme start="20260621040000 +0000" stop="20260621080000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
+  <programme start="20260621080000 +0000" stop="20260621120000 +0000" channel="TV Land Sitcoms.us"><title>TV Land Sitcoms</title><desc>no info available</desc></programme>
   <programme start="20260619060000 +0000" stop="20260619063000 +0000" channel="Freeform.us"><title>According to Jim</title><desc>Cheryl and Dana&apos;s mother visits for the holidays.</desc></programme>
   <programme start="20260619063000 +0000" stop="20260619070000 +0000" channel="Freeform.us"><title>According to Jim</title><desc>Jim and Cheryl preview a sex education video to be shown to children at Ruby&apos;s school.</desc></programme>
   <programme start="20260619070000 +0000" stop="20260619073000 +0000" channel="Freeform.us"><title>According to Jim</title><desc>Cheryl lets Gracie and Ruby get their ears pierced.</desc></programme>
@@ -242687,5 +242751,67 @@
   <programme start="20260621090000 +0000" stop="20260621093000 +0000" channel="Freeform.us"><title>Paid Programming</title><desc>Paid Programming</desc></programme>
   <programme start="20260621093000 +0000" stop="20260621100000 +0000" channel="Freeform.us"><title>Paid Programming</title><desc>Paid Programming</desc></programme>
   <programme start="20260621100000 +0000" stop="20260621103000 +0000" channel="Freeform.us"><title>Paid Programming</title><desc>Paid Programming</desc></programme>
+  <programme start="20260619100000 +0000" stop="20260619110000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Virginia This Morning</title><desc>Central Virginia&apos;s only LIVE, local talk and entertainment show with Amy Lacey, Bill Bevins and a team of contributors highlighting what&apos;s new and happening in the region.</desc></programme>
+  <programme start="20260619110000 +0000" stop="20260619120000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Let&apos;s Make a Deal</title><desc>Costumed contestants compete for cash and prizes.</desc></programme>
+  <programme start="20260619120000 +0000" stop="20260619130000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>The Price Is Right</title><desc>Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc></programme>
+  <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 News at Noon</title><desc>Midday news update.</desc></programme>
+  <programme start="20260619133000 +0000" stop="20260619143000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>The Young and the Restless</title><desc>Phyllis stumbles upon valuable intel; Sienna strikes back against Audra; Victoria confides in Claire.</desc></programme>
+  <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>The Bold and the Beautiful</title><desc>A bold proposal from Wyatt and Shauna catches Bill&apos;s attention; Brooke celebrates a bright future with Hope.</desc></programme>
+  <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Beyond the Gates</title><desc>Anita advises her granddaughter; Andre and Bill lock horns; Kat receives life-altering information; Leslie&apos;s good news quickly gets snatched away; the Hawthornes come together for one of their own; Hayley and Naomi find common ground.</desc></programme>
+  <programme start="20260619160000 +0000" stop="20260619170000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>The Jennifer Hudson Show</title><desc>Singer-songwriter Charlie Puth (album Whatever&apos;s Clever); 8-year-old singer Lake Anthony, who has gone viral for his immense talent playing instruments and singing; tune in for Jennifer&apos;s special surprise!</desc></programme>
+  <programme start="20260619170000 +0000" stop="20260619180000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 News at 4:00p</title><desc>Early evening news.</desc></programme>
+  <programme start="20260619180000 +0000" stop="20260619183000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 News at 5:00p</title><desc>Early evening news.</desc></programme>
+  <programme start="20260619183000 +0000" stop="20260619190000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 News at 5:30p</title><desc>Early evening news.</desc></programme>
+  <programme start="20260619190000 +0000" stop="20260619193000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 News at 6:00pm</title><desc>Early evening news.</desc></programme>
+  <programme start="20260619193000 +0000" stop="20260619200000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS Evening News</title><desc>Tony Dokoupil shares the day&apos;s most important stories, delivering context and depth to bring greater understanding to one&apos;s world.</desc></programme>
+  <programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Entertainment Tonight</title><desc>News and features about performers, productions and the milieu.</desc></programme>
+  <programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 News at 7:30pm</title><desc>Stay informed with the latest breaking news and headlines.</desc></programme>
+  <programme start="20260619210000 +0000" stop="20260619220000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Sheriff Country - The Hunting Party</title><desc>Sheriff Mickey Fox investigates a fatal shooting that appears to be a tragic accident during a lavish Fraley family boar hunt, setting off a chain of events with far-reaching consequences for Edgewater.</desc></programme>
+  <programme start="20260619220000 +0000" stop="20260619230000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Fire Country - Best Mom in the World</title><desc>Sharon is blindsided by a visit from her estranged mother, Ruby, whose sudden reappearance stirs up painful family history; Bode and Jake respond to a call from a troubled teen in a condemned building.</desc></programme>
+  <programme start="20260619230000 +0000" stop="20260620000000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Boston Blue - Patrol</title><desc>An investigation collides with pivotal personal and professional decisions; as the D.A. election draws closer, shifting dynamics and an unexpected incident heighten the urgency and raise questions for everyone involved.</desc></programme>
+  <programme start="20260620000000 +0000" stop="20260620003500 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 News at 11:00pm</title><desc>Nighttime news coverage.</desc></programme>
+  <programme start="20260620003500 +0000" stop="20260620010500 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Comics Unleashed With Byron Allen - Sam Grody; Jay Hollingsworth; Al Jackson; Jimmy Della Valle</title><desc>Sam Grody; Jay Hollingsworth; Al Jackson; Jimmy Della Valle.</desc></programme>
+  <programme start="20260620010500 +0000" stop="20260620013700 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Comics Unleashed With Byron Allen - Tim Gaither; Fast Ronald; Katie K.; Suli McCullough</title><desc>Tim Gaither; Fast Ronald; Katie K.; Suli McCullough.</desc></programme>
+  <programme start="20260620013700 +0000" stop="20260620020700 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Funny You Should Ask</title><desc>Jon Lovitz; Sheryl Underwood; Howie Mandel; Byron Allen; Natasha Leggero; Adam Carolla.</desc></programme>
+  <programme start="20260620020700 +0000" stop="20260620023700 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Funny You Should Ask</title><desc>Jon Lovitz; Raven-Symoné; Howie Mandel; Byron Allen; Whitney Cummings; Jeff Ross.</desc></programme>
+  <programme start="20260620023700 +0000" stop="20260620030700 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Inside Edition</title><desc>A syndicated news magazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc></programme>
+  <programme start="20260620030700 +0000" stop="20260620033700 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Whacked Out Sports</title><desc>Nitro fueled action; the BMX back crack; skydiving dilemmas in the big city.</desc></programme>
+  <programme start="20260620033700 +0000" stop="20260620040700 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Court Cam - Episode 39</title><desc>A defendant announces college baseball scores during his murder trial; a man facing drug charges gets caught smoking marijuana in the virtual courtroom; a domestic violence suspect threatens a judge.</desc></programme>
+  <programme start="20260620040700 +0000" stop="20260620043700 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Court Cam - Episode 34</title><desc>A judge lashes out at a defense attorney who refers to his drunk driving client as a hero; a religious leader convicted of sexual abuse hears from his victims.</desc></programme>
+  <programme start="20260620043700 +0000" stop="20260620050000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Just for Laughs Gags - Just Goofin&apos; Around</title><desc>On this hidden-camera prank show, everyday people get caught up in gags with hilarious consequences.</desc></programme>
+  <programme start="20260620050000 +0000" stop="20260620053000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Court Cam - Top Five: Shocking Outbursts</title><desc>Dan Abrams journeys through the top five most dramatic outbursts and moments taken place in U.S. courtrooms.</desc></programme>
+  <programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Court Cam - Episode 38</title><desc>A grieving father attacks his three-year-old son&apos;s killer in court; a judge screams expletives at a disruptive member of the gallery; a wheelchair-ridden defendant runs for it before entering court.</desc></programme>
+  <programme start="20260620060000 +0000" stop="20260620063000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>The World&apos;s Funniest Weather - How to Wind Friends and Influence People</title><desc>A newscast gets interrupted when a construction crew starts hammering and drilling on set; strong winds send a barbecue grill into a swimming pool; a golfer&apos;s buddies tie a rubber snake to his club.</desc></programme>
+  <programme start="20260620063000 +0000" stop="20260620070000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Made in Hollywood</title><desc>New movie releases: on set, on location and behind the screen.</desc></programme>
+  <programme start="20260620070000 +0000" stop="20260620080000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 Saturday Morning at 6:00am</title><desc>News coverage to start the day.</desc></programme>
+  <programme start="20260620080000 +0000" stop="20260620090000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 Saturday Morning at 7:00am</title><desc>News coverage to start the day.</desc></programme>
+  <programme start="20260620090000 +0000" stop="20260620110000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS Saturday Morning</title><desc>Each Saturday morning, Adriana Diaz and Kelly O&apos;Grady report on the week&apos;s top stories; the broadcast, known for its signature segments The Dish and Saturday Sessions, offers insightful conversations with artists, authors, chefs and musicians.</desc></programme>
+  <programme start="20260620110000 +0000" stop="20260620113000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Battle of the Brains</title><desc>Teams of students from Central Virginia High Schools go head-to-head in a weekly academic challenge; hosted by Cheryl Miller.</desc></programme>
+  <programme start="20260620113000 +0000" stop="20260620120000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Lucky Dog: Reunions - Caught in the Act</title><desc>Hidden cameras are used to catch and correct the bad habits of two mischievous shelter dogs.</desc></programme>
+  <programme start="20260620120000 +0000" stop="20260620123000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Lucky Dog: Down Under - Furry Family Members</title><desc>Three families arrive at the Animal Welfare League in search of the perfect furry addition to complete their home.</desc></programme>
+  <programme start="20260620123000 +0000" stop="20260620130000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Mission Unstoppable - Changing Bacteria, Color Theory, and Cute Opossums</title><desc>A woman edits bacteria DNA with CRISPR technology; the chemistry of teeth whitening; North America&apos;s only native marsupial; sports medicine physician Dr. Monica Rho.</desc></programme>
+  <programme start="20260620130000 +0000" stop="20260620133000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>The Visioneers With Zay Harding - Restore, Refill, Reduce</title><desc>Innovative strategies for slashing food and plastic waste.</desc></programme>
+  <programme start="20260620133000 +0000" stop="20260620140000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Hope in the Wild - Fox in a Box</title><desc>Orphaned red foxes need help; an injured saw-whet owl gets an unexpected chance at freedom.</desc></programme>
+  <programme start="20260620140000 +0000" stop="20260620150000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>To Be Announced</title><desc>Programming to be announced.</desc></programme>
+  <programme start="20260620150000 +0000" stop="20260620160000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>The 2026 World&apos;s Strongest Man</title><desc>The 49th edition of the World&apos;s Strongest Man is a competition of stamina, skill, tactics, training, and strategy involving 30 athletes in a course of 12 events designed to push them to their absolute limits, both physically and mentally.</desc></programme>
+  <programme start="20260620160000 +0000" stop="20260620170000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>The 2026 World&apos;s Strongest Man</title><desc>The 49th edition of the World&apos;s Strongest Man is a competition of stamina, skill, tactics, training, and strategy involving 30 athletes in a course of 12 events designed to push them to their absolute limits, both physically and mentally.</desc></programme>
+  <programme start="20260620170000 +0000" stop="20260620190000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>BIG3 Basketball - Week 1: Los Angeles</title><desc>Big3 Basketball opening week action from Los Angeles.</desc></programme>
+  <programme start="20260620190000 +0000" stop="20260620193000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 News at 6:00pm</title><desc>Early evening news.</desc></programme>
+  <programme start="20260620193000 +0000" stop="20260620200000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS Evening News</title><desc>Tony Dokoupil shares the day&apos;s most important stories, delivering context and depth to bring greater understanding to one&apos;s world.</desc></programme>
+  <programme start="20260620200000 +0000" stop="20260620203000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Inside Edition Weekend</title><desc>A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.</desc></programme>
+  <programme start="20260620203000 +0000" stop="20260620210000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Paid Programming</title><desc>Paid programming.</desc></programme>
+  <programme start="20260620210000 +0000" stop="20260620230000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>WNBA Basketball - Chicago Sky at Dallas Wings</title><desc>The Dallas Wings host the Chicago Sky for a regular-season WNBA basketball game. Dallas relies on guard Paige Bueckers for points and assists, while visiting Chicago looks to Skylar Diggins. The Wings seek to dominate with a 1-0 series lead.</desc></programme>
+  <programme start="20260620230000 +0000" stop="20260621000000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>48 Hours - Dead Girls Don&apos;t Talk</title><desc>A Los Angeles man awaits sentencing after he was found guilty last month of murdering two young women and sexually assaulting seven others.</desc></programme>
+  <programme start="20260621000000 +0000" stop="20260621003500 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>CBS6 News at 11:00pm</title><desc>Nighttime news coverage.</desc></programme>
+  <programme start="20260621003500 +0000" stop="20260621010500 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Inside Edition Weekend</title><desc>A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.</desc></programme>
+  <programme start="20260621010500 +0000" stop="20260621013500 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>The World&apos;s Funniest Weather - The World&apos;s Funniest Weather Best of Special</title><desc>Some of the best moments of the series, including newscasters dealing with on-air technical difficulties, as well as unexpected guests interrupting their newscasts; Jodi&apos;s top five favorite moments of all time.</desc></programme>
+  <programme start="20260621013500 +0000" stop="20260621023500 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>9-1-1 - First Responders</title><desc>The members of the 118 rush to the site of a hit-and-run that leaves a familiar face in critical condition; with Buck&apos;s help, Athena investigates the case of a missing woman; Josh recalls an emergency in 2006 that led him to become a first responder.</desc></programme>
+  <programme start="20260621023500 +0000" stop="20260621033500 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Storm of Suspicion - The Murder at Moselle</title><desc>In South Carolina, a mother and son are shot and killed on their family&apos;s hunting estate.</desc></programme>
+  <programme start="20260621033500 +0000" stop="20260621040500 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Just for Laughs Gags - Foodie Fun</title><desc>On this hidden-camera prank show, everyday people get caught up in gags with hilarious consequences.</desc></programme>
+  <programme start="20260621040500 +0000" stop="20260621043500 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Just for Laughs Gags - Pranks in the Park</title><desc>On this hidden-camera prank show, everyday people get caught up in gags with hilarious consequences.</desc></programme>
+  <programme start="20260621043500 +0000" stop="20260621050000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Good to Know</title><desc>Highlighting examples of hope, optimism and a charitable spirit across the country.</desc></programme>
+  <programme start="20260621050000 +0000" stop="20260621053000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Made in Hollywood</title><desc>New movie releases: on set, on location and behind the screen.</desc></programme>
+  <programme start="20260621053000 +0000" stop="20260621060000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>To the Rescue - Man&apos;s Best Friend</title><desc>Rescue dogs work as protectors, helpers and companions; dogs of LK9 work with police; service dogs train to support disabled veterans; a search and rescue dog in a Texas firehouse; singer Aaron Young&apos;s support dog provides lifesaving companionship.</desc></programme>
+  <programme start="20260621060000 +0000" stop="20260621070000 +0000" channel="CBS (WTVR) Richmond, VA HD.us"><title>Entertainment Tonight</title><desc>News and features about performers, productions and the milieu.</desc></programme>
 
 </tv>
