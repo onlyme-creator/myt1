@@ -29,6 +29,8 @@ http://23.239.31.26:8989/aande/index.m3u8
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET HD" tvg-logo="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",BET
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.m3u8
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",BET Her
+http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1 tvg-id="BET x Tyler Perry Drama.us" tvg-name="BET x Tyler Perry Drama" tvg-logo="https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG.png" group-title="Entertainment",BET x Tyler Perry Drama
 https://414192d1e2a74ec495a72e78890523b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-866-BETxTYLERPERRYDRAMA-TCL/9bc35396-b13b-48c0-afcf-fa2c34d69e04/0.m3u8
 #EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
@@ -101,6 +103,8 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/40583.m3u8
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television HD" tvg-logo="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&h=270" group-title="Free & Broadcast",ION Television
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US_6.m3u8
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="MeTV" tvg-logo="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&h=270" group-title="Free & Broadcast",MeTV
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&h=270" group-title="Kids",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD HD" tvg-logo="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&h=270" group-title="Kids",Disney XD
@@ -137,7 +141,7 @@ http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
 http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Ancient.Aliens.plex" tvg-name="Ancient Aliens" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2fe1556a-c271-46cb-927f-935263f2491c/AncientAliensGM_channel_logo_WHite_RDX.png" group-title="Sci-Fi & Mystery",Ancient Aliens
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/84de2ab8-f7af-479d-b1d5-64bedb52f43a/5.m3u8
-#EXTINF:-1 tvg-id="USBD1200007FE" tvg-name="OuterSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="Sci-Fi & Mystery",OuterSphere
+#EXTINF:-1 tvg-id="plex.tv.OuterSphere.by.Lionsgate.plex" tvg-name="OuterSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="Sci-Fi & Mystery",OuterSphere
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/363d55d0-34d6-4394-ba93-81df00a2fddd/4.m3u8
 #EXTINF:-1 tvg-id="plex.tv.The.Outer.Limits.plex" tvg-name="The Outer Limits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2373afb-f4c2-4e2d-b61a-5b1abd8e8110/OuterLimits_logo_dark_-_Carl_HoffeldeWHITErRDX.png" group-title="Sci-Fi & Mystery",The Outer Limits
 https://49477bf91d3c44a898b82f099b033948.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1145-THEROUTERLIMITS-TCLTV/4d481029-ca21-4ecf-bcd8-6c16962ff6a7/4.m3u8
