@@ -21,7 +21,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/c0e93c6e-efe4-46ae-9040-3c11a9ba8636/5.m3u8
 #EXTINF:-1 tvg-id="The First 48 by AAndE.us" tvg-name="The First 48" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20260428T032020SQUARE.png" group-title="Crime & Investigation",The First 48
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8ac8f1d1-8838-4639-99ed-900c795b789b/5.m3u8
-#EXTINF:-1 tvg-id="plex.tv.TV.One.Crime.&.Justice.plex" tvg-name="TV One Crime and Justice" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa702b5c-a659-4ddf-ba0e-a7abf4eda619/TVONE_Logo_TEAL_FULL_1500x1000.png" group-title="Crime & Investigation",TV One Crime and Justice
+#EXTINF:-1 tvg-id="plex.tv.TV.One.Crime.&amp;.Justice.plex" tvg-name="TV One Crime and Justice" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa702b5c-a659-4ddf-ba0e-a7abf4eda619/TVONE_Logo_TEAL_FULL_1500x1000.png" group-title="Crime & Investigation",TV One Crime and Justice
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/d1ad3cb2-ee74-4ce0-b318-b730232b9de8/0.m3u8
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E East HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="Entertainment",A&E
 http://23.239.31.26:8989/aande/index.m3u8

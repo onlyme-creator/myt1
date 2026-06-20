@@ -1,28 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-  <channel id="Stories.by.AMC.us2">
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <url>http://www.xumo.com</url>
-    <display-name lang="en">Stories by AMC</display-name>
-  </channel>
-  <channel id="Comet.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="ESPNU.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comet</display-name>
-  </channel>
-  <channel id="HLN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HLN HD</display-name>
-  </channel>
-  <channel id="CBS.Streaming.SD.East.feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS Streaming SD East feed</display-name>
+    <display-name lang="en">ESPNU HD</display-name>
   </channel>
   <channel id="BET.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
@@ -30,224 +12,17 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">BET HD</display-name>
   </channel>
-  <channel id="plex.tv.AMC.Thrillers.plex">
-    <display-name lang="en">AMC Thrillers</display-name>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/99792ba4bbcbc8d5d2af38f9f75568a6.jpg" />
-    <icon src="https://metadata-static.plex.tv/9/gracenote/99792ba4bbcbc8d5d2af38f9f75568a6.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="The Walking Dead Universe.us"><display-name>The Walking Dead Universe.us</display-name></channel>
-  <channel id="Bounce.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="ReelzChannel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Bounce TV</display-name>
+    <display-name lang="en">ReelzChannel HD</display-name>
   </channel>
-  <channel id="Ebony TV Drama.us"><display-name>Ebony TV Drama.us</display-name></channel>
-  <channel id="get.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">get</display-name>
-  </channel>
-  <channel id="A.and.E.HD.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">A and E HD East</display-name>
-  </channel>
-  <channel id="LMN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">LMN HD</display-name>
-  </channel>
-  <channel id="WWBT-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WWBT-DT</display-name>
-  </channel>
-  <channel id="National.Geographic.Wild.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic Wild HD</display-name>
-  </channel>
-  <channel id="FS1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS1 HD</display-name>
-  </channel>
-  <channel id="CBS.News.National.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS News National Stream</display-name>
-  </channel>
-  <channel id="CHARGE!.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CHARGE!</display-name>
-  </channel>
-  <channel id="ION.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ION Television HD</display-name>
-  </channel>
-  <channel id="truTV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">truTV HD</display-name>
-  </channel>
-  <channel id="TV.ONE.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV ONE HD</display-name>
-  </channel>
-  <channel id="Hallmark.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Hallmark Channel HD</display-name>
-  </channel>
-  <channel id="WNBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WNBC-DT</display-name>
-  </channel>
-  <channel id="FX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX HD</display-name>
-  </channel>
-  <channel id="Vice.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Vice</display-name>
-  </channel>
-  <channel id="TNT.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TNT HD</display-name>
-  </channel>
-  <channel id="Comedy.Central.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comedy Central HD</display-name>
-  </channel>
-  <channel id="HBO2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO2 HD</display-name>
-  </channel>
-  <channel id="MSNBC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MSNBC HD</display-name>
-  </channel>
-  <channel id="KTBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KTBC-DT</display-name>
-  </channel>
-  <channel id="TBS.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TBS HD</display-name>
-  </channel>
-  <channel id="VH1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">VH1 HD</display-name>
-  </channel>
-  <channel id="plex.tv.Ancient.Aliens.plex">
-    <display-name lang="en">Ancient Aliens</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="Boomerang.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Boomerang</display-name>
-  </channel>
-  <channel id="plex.tv.The.Outer.Limits.plex">
-    <display-name lang="en">The Outer Limits</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="COZI.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">COZI TV</display-name>
-  </channel>
-  <channel id="ABC.National.Feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ABC National Feed</display-name>
-  </channel>
-  <channel id="Animal.Planet.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Animal Planet HD</display-name>
-  </channel>
-  <channel id="plex.tv.OuterSphere.by.Lionsgate.plex">
-    <display-name lang="en">OuterSphere by Lionsgate</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
-    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="TV.Land.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV Land HD</display-name>
-  </channel>
-  <channel id="BUZZR.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BUZZR Stream</display-name>
-  </channel>
-  <channel id="ESPN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN HD</display-name>
-  </channel>
-  <channel id="HBO.West.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO West</display-name>
-  </channel>
-  <channel id="The First 48 by AAndE.us"><display-name>The First 48 by AAndE.us</display-name></channel>
-  <channel id="WFLD-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WFLD-DT</display-name>
-  </channel>
-  <channel id="ESPNU.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPNU HD</display-name>
+  <channel id="Stories.by.AMC.us2">
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <url>http://www.xumo.com</url>
+    <display-name lang="en">Stories by AMC</display-name>
   </channel>
   <channel id="National.Geographic.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
@@ -255,122 +30,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">National Geographic HD</display-name>
   </channel>
-  <channel id="CNN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="CBS.News.National.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CNN HD</display-name>
-  </channel>
-  <channel id="Disney.XD.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Disney XD HD</display-name>
-  </channel>
-  <channel id="History.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">History HD</display-name>
-  </channel>
-  <channel id="plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex">
-    <display-name lang="en">In The Heat Of The Night by MGM</display-name>
-    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
-    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="plex.tv.PBS.Nature.plex">
-    <display-name lang="en">PBS Nature</display-name>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7b2e2f38a59083c2591586145e3cf0a2.jpg" />
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7b2e2f38a59083c2591586145e3cf0a2.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="Discovery.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Discovery Channel HD</display-name>
-  </channel>
-  <channel id="Paramount+.with.Showtime.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount+ with Showtime HD</display-name>
-  </channel>
-  <channel id="Revolt.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Revolt HD</display-name>
-  </channel>
-  <channel id="Cinemax.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax HD</display-name>
-  </channel>
-  <channel id="Game.Show.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Game Show Network HD</display-name>
-  </channel>
-  <channel id="Turner.Classic.Movies.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Turner Classic Movies HD</display-name>
-  </channel>
-  <channel id="FXX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FXX HD</display-name>
-  </channel>
-  <channel id="AMC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC HD</display-name>
-  </channel>
-  <channel id="USA.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">USA Network HD</display-name>
-  </channel>
-  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
-  <channel id="Law And Order.us"><display-name>Law And Order.us</display-name></channel>
-  <channel id="KSNF-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KSNF-DT</display-name>
-  </channel>
-  <channel id="Court.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Court TV</display-name>
-  </channel>
-  <channel id="Fuse.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fuse HD</display-name>
-  </channel>
-  <channel id="ESPN2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN2 HD</display-name>
-  </channel>
-  <channel id="BET x Tyler Perry Drama.us"><display-name>BET x Tyler Perry Drama.us</display-name></channel>
-  <channel id="NFL.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NFL Network HD</display-name>
+    <display-name lang="en">CBS News National Stream</display-name>
   </channel>
   <channel id="Syfy.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
@@ -378,51 +42,23 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Syfy HD</display-name>
   </channel>
-  <channel id="E!.Entertainment.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="TV.ONE.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">E! Entertainment Television HD</display-name>
+    <display-name lang="en">TV ONE HD</display-name>
   </channel>
-  <channel id="US1800014CG">
-    <display-name>Alfred Hitchcock Presents</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
-  </channel>
-  <channel id="ReelzChannel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+  <channel id="ABC.National.Feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ReelzChannel HD</display-name>
+    <display-name lang="en">ABC National Feed</display-name>
   </channel>
-  <channel id="FS2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS2 HD</display-name>
-  </channel>
-  <channel id="Paramount.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount Network HD</display-name>
-  </channel>
-  <channel id="Grit.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Grit</display-name>
-  </channel>
-  <channel id="Me.TV.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Me TV Network</display-name>
-  </channel>
-  <channel id="HBO.Comedy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Comedy HD</display-name>
+  <channel id="plex.tv.AMC.Thrillers.plex">
+    <display-name lang="en">AMC Thrillers</display-name>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/99792ba4bbcbc8d5d2af38f9f75568a6.jpg" />
+    <icon src="https://metadata-static.plex.tv/9/gracenote/99792ba4bbcbc8d5d2af38f9f75568a6.jpg" />
+    <url>http://www.plex.tv</url>
   </channel>
   <channel id="MTV.-.Music.Television.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
@@ -436,11 +72,210 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">WE tv HD</display-name>
   </channel>
+  <channel id="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <display-name lang="en">TV One Crime &amp; Justice</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="Grit.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Grit</display-name>
+  </channel>
+  <channel id="Vice.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Vice</display-name>
+  </channel>
+  <channel id="get.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">get</display-name>
+  </channel>
+  <channel id="Hallmark.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Hallmark Channel HD</display-name>
+  </channel>
+  <channel id="Turner.Classic.Movies.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Turner Classic Movies HD</display-name>
+  </channel>
+  <channel id="FS1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS1 HD</display-name>
+  </channel>
+  <channel id="The Walking Dead Universe.us"><display-name>The Walking Dead Universe.us</display-name></channel>
+  <channel id="Court.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Court TV</display-name>
+  </channel>
+  <channel id="FX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX HD</display-name>
+  </channel>
+  <channel id="plex.tv.Ancient.Aliens.plex">
+    <display-name lang="en">Ancient Aliens</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="Starz.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz HD</display-name>
+  </channel>
+  <channel id="Ebony TV Drama.us"><display-name>Ebony TV Drama.us</display-name></channel>
+  <channel id="KTBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KTBC-DT</display-name>
+  </channel>
+  <channel id="Me.TV.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Me TV Network</display-name>
+  </channel>
   <channel id="FX.Movie.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">FX Movie Channel HD</display-name>
+  </channel>
+  <channel id="Comedy.Central.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comedy Central HD</display-name>
+  </channel>
+  <channel id="Bounce XL.us"><display-name>Bounce XL.us</display-name></channel>
+  <channel id="VH1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">VH1 HD</display-name>
+  </channel>
+  <channel id="COZI.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">COZI TV</display-name>
+  </channel>
+  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
+  <channel id="Cinemax.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cinemax HD</display-name>
+  </channel>
+  <channel id="WNBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WNBC-DT</display-name>
+  </channel>
+  <channel id="plex.tv.The.Outer.Limits.plex">
+    <display-name lang="en">The Outer Limits</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="Bounce.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Bounce TV</display-name>
+  </channel>
+  <channel id="CHARGE!.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CHARGE!</display-name>
+  </channel>
+  <channel id="The First 48 by AAndE.us"><display-name>The First 48 by AAndE.us</display-name></channel>
+  <channel id="truTV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">truTV HD</display-name>
+  </channel>
+  <channel id="HBO.West.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO West</display-name>
+  </channel>
+  <channel id="plex.tv.PBS.Nature.plex">
+    <display-name lang="en">PBS Nature</display-name>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7b2e2f38a59083c2591586145e3cf0a2.jpg" />
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7b2e2f38a59083c2591586145e3cf0a2.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="ESPN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN HD</display-name>
+  </channel>
+  <channel id="LMN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">LMN HD</display-name>
+  </channel>
+  <channel id="WWBT-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WWBT-DT</display-name>
+  </channel>
+  <channel id="Game.Show.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Game Show Network HD</display-name>
+  </channel>
+  <channel id="HBO2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO2 HD</display-name>
+  </channel>
+  <channel id="TBS.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TBS HD</display-name>
+  </channel>
+  <channel id="ESPN2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN2 HD</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Comedy HD</display-name>
+  </channel>
+  <channel id="Fuse.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Fuse HD</display-name>
   </channel>
   <channel id="NBA.TV.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
@@ -448,18 +283,189 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">NBA TV HD</display-name>
   </channel>
-  <channel id="Bounce XL.us"><display-name>Bounce XL.us</display-name></channel>
-  <channel id="Starz.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Discovery.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz HD</display-name>
+    <display-name lang="en">Discovery Channel HD</display-name>
+  </channel>
+  <channel id="Revolt.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Revolt HD</display-name>
+  </channel>
+  <channel id="History.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">History HD</display-name>
+  </channel>
+  <channel id="Paramount.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount Network HD</display-name>
+  </channel>
+  <channel id="Disney.XD.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Disney XD HD</display-name>
+  </channel>
+  <channel id="Law And Order.us"><display-name>Law And Order.us</display-name></channel>
+  <channel id="US1800014CG">
+    <display-name>Alfred Hitchcock Presents</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
+  </channel>
+  <channel id="CBS.Streaming.SD.East.feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS Streaming SD East feed</display-name>
+  </channel>
+  <channel id="plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex">
+    <display-name lang="en">In The Heat Of The Night by MGM</display-name>
+    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
+    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="Comet.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comet</display-name>
+  </channel>
+  <channel id="MSNBC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MSNBC HD</display-name>
+  </channel>
+  <channel id="USA.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">USA Network HD</display-name>
+  </channel>
+  <channel id="E!.Entertainment.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">E! Entertainment Television HD</display-name>
+  </channel>
+  <channel id="WFLD-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WFLD-DT</display-name>
+  </channel>
+  <channel id="National.Geographic.Wild.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic Wild HD</display-name>
+  </channel>
+  <channel id="TV.Land.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV Land HD</display-name>
+  </channel>
+  <channel id="BET x Tyler Perry Drama.us"><display-name>BET x Tyler Perry Drama.us</display-name></channel>
+  <channel id="KSNF-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KSNF-DT</display-name>
+  </channel>
+  <channel id="FXX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FXX HD</display-name>
+  </channel>
+  <channel id="A.and.E.HD.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">A and E HD East</display-name>
+  </channel>
+  <channel id="plex.tv.OuterSphere.by.Lionsgate.plex">
+    <display-name lang="en">OuterSphere by Lionsgate</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
+    <url>http://www.plex.tv</url>
   </channel>
   <channel id="BET.Her.us2">
     <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">BET Her</display-name>
+  </channel>
+  <channel id="BUZZR.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BUZZR Stream</display-name>
+  </channel>
+  <channel id="CNN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CNN HD</display-name>
+  </channel>
+  <channel id="HLN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HLN HD</display-name>
+  </channel>
+  <channel id="Animal.Planet.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Animal Planet HD</display-name>
+  </channel>
+  <channel id="TNT.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TNT HD</display-name>
+  </channel>
+  <channel id="FS2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS2 HD</display-name>
+  </channel>
+  <channel id="ION.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ION Television HD</display-name>
+  </channel>
+  <channel id="AMC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC HD</display-name>
+  </channel>
+  <channel id="NFL.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NFL Network HD</display-name>
+  </channel>
+  <channel id="Boomerang.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Boomerang</display-name>
+  </channel>
+  <channel id="Paramount+.with.Showtime.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount+ with Showtime HD</display-name>
   </channel>
 
   <programme channel="ABC.National.Feed.us2" start="20260618043700 +0000" stop="20260618050600 +0000">
@@ -223563,6 +223569,1297 @@
     <icon src="http://dtil.tmsimg.com/assets/p30747974_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E38</episode-num>
     <previously-shown /></programme>
+  <programme start="20260619000200 +0000" stop="20260619005300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Along for the Ride</sub-title>
+    <desc lang="en">A young woman is looking for a fresh start when she falls for a handsome stranger. When her new man asks for her help in a dangerous plot to make some quick cash, she decides to risk it all for love.</desc>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619005300 +0000" stop="20260619014500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Illusion of Love</sub-title>
+    <desc lang="en">After looking for love in all the wrong places, a young mother believes she’s finally found her soulmate. But soon, her happy home becomes a house of horrors.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619014500 +0000" stop="20260619023600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Bullets on Bourbon Street</sub-title>
+    <desc lang="en">A beautiful bartender believes she has found her soulmate when she is charmed by an up-and-coming rapper. But when a fun night out takes a shockingly violent turn, she decides to put her man first, and sacrifice everything in order to protect him.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E18</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619023600 +0000" stop="20260619032800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Rooted in Revenge</sub-title>
+    <desc lang="en">After a loving mother and spiritualist meets her soulmate, they quickly start a happy life together. But when a curse is threatening to destroy their marriage, the devoted wife will do anything to keep her man, but just how far will she go?</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E24</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619032800 +0000" stop="20260619041900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Silent Lies</sub-title>
+    <desc lang="en">When a young mother starts a family with the man of her dreams, she believes nothing will tear them apart. But when her man puts a child�s life at risk, she has to choose between protecting the one she loves and listening to her maternal instincts.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E25</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619041900 +0000" stop="20260619051100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Devilish Deception</sub-title>
+    <desc lang="en">When a young woman disappears, her friends begin to worry. But then a complicated marriage dynamic is revealed, and police must question if she left voluntarily or if it was something more sinister. The answer will redefine the meaning of evil.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E40</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619051100 +0000" stop="20260619060200 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">ATL Homicide</title>
+    <sub-title lang="en">ATL Homicide - Addonis Cunningham: Nacole Smith Part 2</sub-title>
+    <desc lang="en">Quinn and Vince get a lead on Nacole's case and learn about another cold case from 2005. Solving these cases proves to be a test of patience, but as retirement draws near, the detectives begin to wonder: will Nacole's case ever be solved?</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/7316125692418227105/solid/rectangle/w1920_h1080/1dhg5gv77aht1hs3evkd6621b.jpg" />
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619060200 +0000" stop="20260619065400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Dark Secrets</sub-title>
+    <desc lang="en">Quinn and Velazquez uncover the secret life of a young mother when she is found murdered, the victim of a psychopathic killer preying on high class prostiitutes.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619065400 +0000" stop="20260619074500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Payback</title>
+    <sub-title lang="en">Payback - I’m Not Scared</sub-title>
+    <desc lang="en">Two months after a man is acquitted of a murder, he too becomes a victim of gun violence. While police are convinced the shooting was revenge, they and the rest of the community are shocked to learn his own cousin helped lure him to his death.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/2nphJkC0tmRQuIj3FgtcYtkYd8m.jpg" />
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619074500 +0000" stop="20260619083600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Sins of the City</title>
+    <sub-title lang="en">Sins of the City - Fruitvale</sub-title>
+    <desc lang="en">In the early morning of New Year�s Day 2009, Oakland resident Oscar Grant is shot in the back by a BART transit officer at Fruitvale Station. Within days, dramatic cell phone videos of Oscar�s shooting go public, igniting a global fight for justice.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/KW3Pl1MwiABLUsj0IoIrXpWPLM.jpg" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619083600 +0000" stop="20260619092800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - An Envious Execution</sub-title>
+    <desc lang="en">After a hail of gunfire leaves two people dead, police quickly identify a suspect, but they struggle to pin him for the crime until a strange coincidence makes them realize he’s already in their crosshairs for another murder.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619092800 +0000" stop="20260619102000 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Blazing Betrayal</sub-title>
+    <desc lang="en">When a young woman is found dead in a fire just hours after her grandmother’s death, police suspect her grief may have led to suicide. Learning the victim was pregnant shifts focus to her boyfriend, and reveals a love triangle turned deadly.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619102000 +0000" stop="20260619111200 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Downfall Comes in Deceit</sub-title>
+    <desc lang="en">When an aspiring musician and soon-to-be father is stabbed in the street, his girlfriend suspects it was a neighborhood rival. However, Detectives dig into the events of that night and they uncover evidence that leads them straight to their killer.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E35</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619111200 +0000" stop="20260619120300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Internal Battle</sub-title>
+    <desc lang="en">When a beautiful teen with a bright future falls for a bad boy with a shady past, he tries to pull her into his life of crime. She has to decide how far she is willing to go for love and is forced to choose between her man and her moral compass.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619120300 +0000" stop="20260619125500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Deadly Consequences</sub-title>
+    <desc lang="en">A beautiful fashionista is swept off her feet when she meets a man who promises her the world. However, she discovers he has a dark secret. Consumed by love, she must decide how far she will go for him…and who she is willing to sacrifice.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619125500 +0000" stop="20260619134600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Blood is Thicker than Water</sub-title>
+    <desc lang="en">After a painful divorce, a single mother didn’t expect to ever love again. But after a charming stranger wins her heart, she becomes desperate to do anything to keep her new man’s love – including betraying the innocent ones she cares for the most.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619134600 +0000" stop="20260619143800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - The Sting of Betrayal</sub-title>
+    <desc lang="en">When a single mother meets a suave and loving provider, she looks the other way when she learns the source of his income. But the cops are intent on bringing her man down, and she becomes ensnared in a trap meant for him - paying the ultimate price.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E26</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619143800 +0000" stop="20260619152900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Drive of Death</sub-title>
+    <desc lang="en">When a woman with a checkered past meets a man with a similar history, sparks fly. But old habits die hard, and when her man falls back into a life of crime, she must decide to either follow her man into darkness�or to finally do the right thing.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E27</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619152900 +0000" stop="20260619162100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - The Twisted Truth</sub-title>
+    <desc lang="en">A young woman and her family were living the American Dream, but it shatters when the father vanishes, and the daughter goes silent. And when a body is discovered, investigators are led to a dark truth that devastates their once-happy lives.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E42</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619162100 +0000" stop="20260619171200 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Bad Connection</sub-title>
+    <desc lang="en">After embarking on a new romance, a recent divorcee is found strangled at home. Detectives suspect her new boyfriend, but when another woman is murdered under eerily similar circumstances, they uncover the horrific pattern of a deceptive killer.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E43</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619171200 +0000" stop="20260619180400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Sins of the Family</sub-title>
+    <desc lang="en">When the skull of 11-year-old Alan Watson is found in a field, Quinn and Velazquez take the case of a murder that took place almost a decade before.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619180400 +0000" stop="20260619185500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Deadly Affairs</sub-title>
+    <desc lang="en">Mother Shaquilla Weatherspoon is found murdered with her belongings scattered around her. To the trained eye, it looks like the killer staged the crime scene. Knowing that someone wanted it to look like a robbery, the detectives investigate those closest to Shaquilla to find the truth.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619185500 +0000" stop="20260619194600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Payback</title>
+    <sub-title lang="en">Payback - Eye for an Eye</sub-title>
+    <desc lang="en">After a young man with a criminal record is shot and killed in broad daylight, investigators have to figure out if the shooting was random, or if his death may have been the work of a player from his troubled past intent on payback.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/2nphJkC0tmRQuIj3FgtcYtkYd8m.jpg" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619194600 +0000" stop="20260619203800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Sins of the City</title>
+    <sub-title lang="en">Sins of the City - Roanoke</sub-title>
+    <desc lang="en">When two beloved young men are brutally gunned down in the streets of Roanoke, this typically quiet tourist town must face the harsh reality that no city, not even small-town USA, is safe from gang violence.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/KW3Pl1MwiABLUsj0IoIrXpWPLM.jpg" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619203800 +0000" stop="20260619212900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Rival’s Revenge</sub-title>
+    <desc lang="en">When a loving mother is killed in a violent hit and run, police initially suspect this was a tragic accident. But then, shocking evidence surfaces that proves this woman was brutally targeted.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619212900 +0000" stop="20260619222100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Key Witness</sub-title>
+    <desc lang="en">When a young mother is found stabbed to death in her tub, police first suspect her recent ex. But when he produces an airtight alibi, it looks like the case may never be solved, until a frightened witness finally finds the courage to come forward.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619222100 +0000" stop="20260619231200 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Downfall Comes in Deceit</sub-title>
+    <desc lang="en">When an aspiring musician and soon-to-be father is stabbed in the street, his girlfriend suspects it was a neighborhood rival. However, Detectives dig into the events of that night and they uncover evidence that leads them straight to their killer.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E35</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260619231200 +0000" stop="20260620000400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Internal Battle</sub-title>
+    <desc lang="en">When a beautiful teen with a bright future falls for a bad boy with a shady past, he tries to pull her into his life of crime. She has to decide how far she is willing to go for love and is forced to choose between her man and her moral compass.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620000400 +0000" stop="20260620005500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Deadly Consequences</sub-title>
+    <desc lang="en">A beautiful fashionista is swept off her feet when she meets a man who promises her the world. However, she discovers he has a dark secret. Consumed by love, she must decide how far she will go for him…and who she is willing to sacrifice.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620005500 +0000" stop="20260620014700 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Blood is Thicker than Water</sub-title>
+    <desc lang="en">After a painful divorce, a single mother didn’t expect to ever love again. But after a charming stranger wins her heart, she becomes desperate to do anything to keep her new man’s love – including betraying the innocent ones she cares for the most.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620014700 +0000" stop="20260620023800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - The Sting of Betrayal</sub-title>
+    <desc lang="en">When a single mother meets a suave and loving provider, she looks the other way when she learns the source of his income. But the cops are intent on bringing her man down, and she becomes ensnared in a trap meant for him - paying the ultimate price.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E26</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620023800 +0000" stop="20260620033000 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Drive of Death</sub-title>
+    <desc lang="en">When a woman with a checkered past meets a man with a similar history, sparks fly. But old habits die hard, and when her man falls back into a life of crime, she must decide to either follow her man into darkness�or to finally do the right thing.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E27</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620033000 +0000" stop="20260620042100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - The Twisted Truth</sub-title>
+    <desc lang="en">A young woman and her family were living the American Dream, but it shatters when the father vanishes, and the daughter goes silent. And when a body is discovered, investigators are led to a dark truth that devastates their once-happy lives.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E42</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620042100 +0000" stop="20260620051300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Bad Connection</sub-title>
+    <desc lang="en">After embarking on a new romance, a recent divorcee is found strangled at home. Detectives suspect her new boyfriend, but when another woman is murdered under eerily similar circumstances, they uncover the horrific pattern of a deceptive killer.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E43</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620051300 +0000" stop="20260620060400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Sins of the Family</sub-title>
+    <desc lang="en">When the skull of 11-year-old Alan Watson is found in a field, Quinn and Velazquez take the case of a murder that took place almost a decade before.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620060400 +0000" stop="20260620065600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Deadly Affairs</sub-title>
+    <desc lang="en">Mother Shaquilla Weatherspoon is found murdered with her belongings scattered around her. To the trained eye, it looks like the killer staged the crime scene. Knowing that someone wanted it to look like a robbery, the detectives investigate those closest to Shaquilla to find the truth.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620065600 +0000" stop="20260620074700 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Payback</title>
+    <sub-title lang="en">Payback - Eye for an Eye</sub-title>
+    <desc lang="en">After a young man with a criminal record is shot and killed in broad daylight, investigators have to figure out if the shooting was random, or if his death may have been the work of a player from his troubled past intent on payback.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/2nphJkC0tmRQuIj3FgtcYtkYd8m.jpg" />
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620074700 +0000" stop="20260620083900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Sins of the City</title>
+    <sub-title lang="en">Sins of the City - Roanoke</sub-title>
+    <desc lang="en">When two beloved young men are brutally gunned down in the streets of Roanoke, this typically quiet tourist town must face the harsh reality that no city, not even small-town USA, is safe from gang violence.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/KW3Pl1MwiABLUsj0IoIrXpWPLM.jpg" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620083900 +0000" stop="20260620093000 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Rival’s Revenge</sub-title>
+    <desc lang="en">When a loving mother is killed in a violent hit and run, police initially suspect this was a tragic accident. But then, shocking evidence surfaces that proves this woman was brutally targeted.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620093000 +0000" stop="20260620102200 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Key Witness</sub-title>
+    <desc lang="en">When a young mother is found stabbed to death in her tub, police first suspect her recent ex. But when he produces an airtight alibi, it looks like the case may never be solved, until a frightened witness finally finds the courage to come forward.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620102200 +0000" stop="20260620111300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Fatal Facade</sub-title>
+    <desc lang="en">A devoted mother and wife goes missing and her family is quick to report it. Soon after, she�s found stabbed to death, and all signs point to assault and robbery. Will years of waiting and scientific progress ever be enough to catch her killer?</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E36</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620111300 +0000" stop="20260620120500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Walking on the Wild Side</sub-title>
+    <desc lang="en">A savvy salon owner falls hard for a suave bad boy and agrees to help him run an escort service. But when things turn violent, she has to make a choice – let him keep his grip around her heart or take back her power and end it all.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620120500 +0000" stop="20260620125600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - For My Man Season 6</sub-title>
+    <desc lang="en">When an ambitious college student falls for a handsome security guard, she knows it’s true love. But when her man falls into the street life after losing his job, he pulls her down with him. Desperate to prove her devotion to him, she sacrifices not only her education but her freedom in the name of love.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620125600 +0000" stop="20260620134800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - By Any Means Necessary</sub-title>
+    <desc lang="en">When her father passes away, a beautiful young woman finds solace in a new boyfriend. But when he ropes her into one of his criminal schemes, she finds herself in the midst of a brutal blood bath.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E20</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620134800 +0000" stop="20260620143900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Manipulation of Love</sub-title>
+    <desc lang="en">After meeting her Prince Charming on a dating service, a teen mother�s dreams turn into a nightmare when she gets entangled in a twisted web of deceit and manipulation that will leave her to question how much love is truly worth sacrificing for.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620143900 +0000" stop="20260620153100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Three's A Crowd</sub-title>
+    <desc lang="en">A woman becomes part of the family when she falls in love with a widowed father. But when the man's youngest son goes missing, everyone is pointing fingers. Soon, the investigation uncovers a sordid tale of jealousy and betrayal no one saw coming.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620153100 +0000" stop="20260620162200 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Entangled in Jealousy</sub-title>
+    <desc lang="en">In the aftermath of a hurricane, a girl finds her mother beaten to death in her bed. With a tangle of possible suspects, detectives must determine if it was her estranged husband, her new boyfriend, or the girlfriend she�d been keeping secret.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E44</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620162200 +0000" stop="20260620171400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Chilling Demise</sub-title>
+    <desc lang="en">A young military wife and mother with a seemingly picturesque life goes missing, and detectives wonder if mental health issues play a role. As weeks turn to months, it will take a grisly discovery to unearth a horrifying truth that no one saw coming.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E45</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620171400 +0000" stop="20260620180500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Murder on the DL</sub-title>
+    <desc lang="en">When U.S. Air Force veteran John Ray is found beaten and stabbed to death in his apartment, the crime scene looks like a random robbery. But Quinn and Velazquez look further into the secretive life of Ray and find that the murder was anything but random.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620180500 +0000" stop="20260620185700 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Forbidden Love</sub-title>
+    <desc lang="en">21-year-old new mother, Sparkle Rai, is found by her boyfriend strangled in their apartment. He instantly becomes the only suspect, but he swears he didn’t do it. Quinn and Velazquez investigate and uncover a surprising new suspect from Sparkle’s past.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620185700 +0000" stop="20260620194800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Payback</title>
+    <sub-title lang="en">Payback - Dead Ends Part 1</sub-title>
+    <desc lang="en">When young expectant parents are found gunned down outside an apartment complex, Memphis police are shocked when the father-to-be’s family members theorize the couple’s deaths are the result of a dispute over bundles of hair.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/2nphJkC0tmRQuIj3FgtcYtkYd8m.jpg" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620194800 +0000" stop="20260620204000 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Sins of the City</title>
+    <sub-title lang="en">Sins of the City - Oliver</sub-title>
+    <desc lang="en">After a beloved family of seven is firebombed in their sleep in the Baltimore neighborhood of Oliver, the Baltimore City Police fall under intense scrutiny, ultimately bearing as much blame from the community as the killer himself.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/KW3Pl1MwiABLUsj0IoIrXpWPLM.jpg" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620204000 +0000" stop="20260620213200 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - The Devil Within</sub-title>
+    <desc lang="en">Shortly after a large worker’s comp settlement gave one family a chance at a good life, their husband and father is found dead in his truck. As police expose dark secrets, they’re led to a cold-blooded killer nobody expected.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E17</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620213200 +0000" stop="20260620222300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Friendly Fire</sub-title>
+    <desc lang="en">When the body of a young woman is found in a vacant lot, friends she was out with the night she disappeared tell police they saw her leave in a mysterious black car. Was she a victim of a predator – or are her friends concealing a terrible secret?</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E18</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620222300 +0000" stop="20260620231500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Fatal Facade</sub-title>
+    <desc lang="en">A devoted mother and wife goes missing and her family is quick to report it. Soon after, she�s found stabbed to death, and all signs point to assault and robbery. Will years of waiting and scientific progress ever be enough to catch her killer?</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E36</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260620231500 +0000" stop="20260621000600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Walking on the Wild Side</sub-title>
+    <desc lang="en">A savvy salon owner falls hard for a suave bad boy and agrees to help him run an escort service. But when things turn violent, she has to make a choice – let him keep his grip around her heart or take back her power and end it all.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621000600 +0000" stop="20260621005800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - For My Man Season 6</sub-title>
+    <desc lang="en">When an ambitious college student falls for a handsome security guard, she knows it’s true love. But when her man falls into the street life after losing his job, he pulls her down with him. Desperate to prove her devotion to him, she sacrifices not only her education but her freedom in the name of love.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E12</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621005800 +0000" stop="20260621014900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - By Any Means Necessary</sub-title>
+    <desc lang="en">When her father passes away, a beautiful young woman finds solace in a new boyfriend. But when he ropes her into one of his criminal schemes, she finds herself in the midst of a brutal blood bath.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E20</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621014900 +0000" stop="20260621024100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Manipulation of Love</sub-title>
+    <desc lang="en">After meeting her Prince Charming on a dating service, a teen mother�s dreams turn into a nightmare when she gets entangled in a twisted web of deceit and manipulation that will leave her to question how much love is truly worth sacrificing for.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621024100 +0000" stop="20260621033200 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Three's A Crowd</sub-title>
+    <desc lang="en">A woman becomes part of the family when she falls in love with a widowed father. But when the man's youngest son goes missing, everyone is pointing fingers. Soon, the investigation uncovers a sordid tale of jealousy and betrayal no one saw coming.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621033200 +0000" stop="20260621042400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Entangled in Jealousy</sub-title>
+    <desc lang="en">In the aftermath of a hurricane, a girl finds her mother beaten to death in her bed. With a tangle of possible suspects, detectives must determine if it was her estranged husband, her new boyfriend, or the girlfriend she�d been keeping secret.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E44</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621042400 +0000" stop="20260621051500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Chilling Demise</sub-title>
+    <desc lang="en">A young military wife and mother with a seemingly picturesque life goes missing, and detectives wonder if mental health issues play a role. As weeks turn to months, it will take a grisly discovery to unearth a horrifying truth that no one saw coming.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E45</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621051500 +0000" stop="20260621060700 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Murder on the DL</sub-title>
+    <desc lang="en">When U.S. Air Force veteran John Ray is found beaten and stabbed to death in his apartment, the crime scene looks like a random robbery. But Quinn and Velazquez look further into the secretive life of Ray and find that the murder was anything but random.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621060700 +0000" stop="20260621065800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Forbidden Love</sub-title>
+    <desc lang="en">21-year-old new mother, Sparkle Rai, is found by her boyfriend strangled in their apartment. He instantly becomes the only suspect, but he swears he didn’t do it. Quinn and Velazquez investigate and uncover a surprising new suspect from Sparkle’s past.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621065800 +0000" stop="20260621074900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Payback</title>
+    <sub-title lang="en">Payback - Dead Ends Part 1</sub-title>
+    <desc lang="en">When young expectant parents are found gunned down outside an apartment complex, Memphis police are shocked when the father-to-be’s family members theorize the couple’s deaths are the result of a dispute over bundles of hair.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/2nphJkC0tmRQuIj3FgtcYtkYd8m.jpg" />
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621074900 +0000" stop="20260621084100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Sins of the City</title>
+    <sub-title lang="en">Sins of the City - Oliver</sub-title>
+    <desc lang="en">After a beloved family of seven is firebombed in their sleep in the Baltimore neighborhood of Oliver, the Baltimore City Police fall under intense scrutiny, ultimately bearing as much blame from the community as the killer himself.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/KW3Pl1MwiABLUsj0IoIrXpWPLM.jpg" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621084100 +0000" stop="20260621093300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - The Devil Within</sub-title>
+    <desc lang="en">Shortly after a large worker’s comp settlement gave one family a chance at a good life, their husband and father is found dead in his truck. As police expose dark secrets, they’re led to a cold-blooded killer nobody expected.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E17</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621093300 +0000" stop="20260621102400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Friendly Fire</sub-title>
+    <desc lang="en">When the body of a young woman is found in a vacant lot, friends she was out with the night she disappeared tell police they saw her leave in a mysterious black car. Was she a victim of a predator – or are her friends concealing a terrible secret?</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E18</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621102400 +0000" stop="20260621111600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Love That Won't Let Go</sub-title>
+    <desc lang="en">A Houston woman with a heart of gold is found shot to death, and police consider a love triangle may have taken a fatal turn. Detectives delve into her love life, they uncover a possessive suspect who decided if he couldn't have her, no one would.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E37</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621111600 +0000" stop="20260621120700 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Chained by Love</sub-title>
+    <desc lang="en">A young dancer believes she’s found her soulmate when she meets a handsome man who promises to make her a star. Desperate to earn his love, she makes a deal with the devil – and for a shot at the spotlight it will cost her body and her soul.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621120700 +0000" stop="20260621125900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Bloodshed and Betrayal</sub-title>
+    <desc lang="en">A single mom rekindles a relationship with her high school sweetheart after fate brings them together.  But their “happily ever after” is doomed when a risky idea to save their family ends in bloodshed…and their loyalty to each other is tested.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621125900 +0000" stop="20260621135100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Love and Lies</sub-title>
+    <desc lang="en">Sparks fly when a young mother reunites with her childhood crush. But her new man is guarding a deadly secret that will put her, and her son�s, lives in danger. When she gets caught in the crosshairs, she must choose�either save her man or herself.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E21</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621135100 +0000" stop="20260621144200 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Deadly Estrangement</sub-title>
+    <desc lang="en">After back-to-back tragedies have left her estranged from her family, a young woman finds the love and acceptance she�d always wished for, but when her man wants more for them, she�ll be roped into a devilish plot to take back what she left behind.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621144200 +0000" stop="20260621153400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Demented Deception</sub-title>
+    <desc lang="en">When a young woman and the love of her life begin preparing a future together, they�re struck by tragedy with a miscarriage. And as the cracks between them begin to form, one woman will have to decide how far she�ll go to create a perfect family.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621153400 +0000" stop="20260621162600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Fatal Fairytale</sub-title>
+    <desc lang="en">A young mother is killed in a brutal crime of passion, leading police to uncover secrets within her long-term relationship. Evidence points toward multiple people and different stories from a range suspects throws the case into disarray.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E46</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621162600 +0000" stop="20260621171700 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Deadly Allure</sub-title>
+    <desc lang="en">The body of a Nigerian immigrant is found in the most unlikely of places, and her husband and young son are missing. Soon, a shocking lead leaves detectives wondering if her past caught up with her, or if they are facing more malevolent motivations.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E47</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621171700 +0000" stop="20260621180800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Ghosts of the Past</sub-title>
+    <desc lang="en">Quinn and Velazquez are called when Jerry Heard is found dead from gunshot wounds. They learn Heard spends his nights at a local bar, and the night he was killed, he made passes at two different women, one with an armed boyfriend. With at least three potential suspects, the detectives get to work.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621180800 +0000" stop="20260621190000 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - The Naked Man</sub-title>
+    <desc lang="en">Neighborhood character Willie Bell is found naked and dead early in the morning. With nothing else to go on, Quinn and Velazquez discover that Willie was seen with two different women the night before he was found. With two prime suspects, they try to find the truth.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621190000 +0000" stop="20260621195100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Payback</title>
+    <sub-title lang="en">Payback - Dead Ends Part 2</sub-title>
+    <desc lang="en">After young parents-to-be are gunned down in Memphis, police are shocked to learn their deaths resulted from a vengeful dispute over bundles of hair. While certain they have their killer, the road to justice proves trickier than first thought.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/2nphJkC0tmRQuIj3FgtcYtkYd8m.jpg" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621195100 +0000" stop="20260621204300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Sins of the City</title>
+    <sub-title lang="en">Sins of the City - Bensonhurst</sub-title>
+    <desc lang="en">Long standing racial tensions in Brooklyn�s Bensonhurst neighborhood explode into months of protests after an unarmed Black teenager named Yusuf Hawkins is pursued, shot, and killed by a mob determined to send a message to Black communities throughout New York.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/KW3Pl1MwiABLUsj0IoIrXpWPLM.jpg" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621204300 +0000" stop="20260621213500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Caught in the Web</sub-title>
+    <desc lang="en">A young man survives a near fatal shooting, rebuilds his life, and starts looking for love, only to disappear without a trace. His family refuses to give up their search, even as evidence mounts that he was lured into a web of deception and doom.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E19</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621213500 +0000" stop="20260621222600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Blinded by Love</sub-title>
+    <desc lang="en">When a kindhearted janitor is beaten to death in his home, it doesn’t take long to learn he was embroiled in a love triangle with his wife and a close friend. Was this just a random attack, or is there something far more sinister behind the murder?</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E20</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621222600 +0000" stop="20260621231800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Love That Won't Let Go</sub-title>
+    <desc lang="en">A Houston woman with a heart of gold is found shot to death, and police consider a love triangle may have taken a fatal turn. Detectives delve into her love life, they uncover a possessive suspect who decided if he couldn't have her, no one would.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E37</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260621231800 +0000" stop="20260622000900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Chained by Love</sub-title>
+    <desc lang="en">A young dancer believes she’s found her soulmate when she meets a handsome man who promises to make her a star. Desperate to earn his love, she makes a deal with the devil – and for a shot at the spotlight it will cost her body and her soul.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622000900 +0000" stop="20260622010100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Bloodshed and Betrayal</sub-title>
+    <desc lang="en">A single mom rekindles a relationship with her high school sweetheart after fate brings them together.  But their “happily ever after” is doomed when a risky idea to save their family ends in bloodshed…and their loyalty to each other is tested.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622010100 +0000" stop="20260622015300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Love and Lies</sub-title>
+    <desc lang="en">Sparks fly when a young mother reunites with her childhood crush. But her new man is guarding a deadly secret that will put her, and her son�s, lives in danger. When she gets caught in the crosshairs, she must choose�either save her man or herself.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E21</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622015300 +0000" stop="20260622024400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Deadly Estrangement</sub-title>
+    <desc lang="en">After back-to-back tragedies have left her estranged from her family, a young woman finds the love and acceptance she�d always wished for, but when her man wants more for them, she�ll be roped into a devilish plot to take back what she left behind.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622024400 +0000" stop="20260622033600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Demented Deception</sub-title>
+    <desc lang="en">When a young woman and the love of her life begin preparing a future together, they�re struck by tragedy with a miscarriage. And as the cracks between them begin to form, one woman will have to decide how far she�ll go to create a perfect family.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622033600 +0000" stop="20260622042700 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Fatal Fairytale</sub-title>
+    <desc lang="en">A young mother is killed in a brutal crime of passion, leading police to uncover secrets within her long-term relationship. Evidence points toward multiple people and different stories from a range suspects throws the case into disarray.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E46</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622042700 +0000" stop="20260622051900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Deadly Allure</sub-title>
+    <desc lang="en">The body of a Nigerian immigrant is found in the most unlikely of places, and her husband and young son are missing. Soon, a shocking lead leaves detectives wondering if her past caught up with her, or if they are facing more malevolent motivations.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E47</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622051900 +0000" stop="20260622061000 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Atlanta Homicide</title>
+    <sub-title lang="en">Atlanta Homicide - Ghosts of the Past</sub-title>
+    <desc lang="en">Quinn and Velazquez are called when Jerry Heard is found dead from gunshot wounds. They learn Heard spends his nights at a local bar, and the night he was killed, he made passes at two different women, one with an armed boyfriend. With at least three potential suspects, the detectives get to work.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/1fw1fgfps6muhzxr3ifeivat1/w1920_h1080/1fw1fgfps6muhzxr3ifeivat1.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622070200 +0000" stop="20260622075300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Payback</title>
+    <sub-title lang="en">Payback - Dead Ends Part 2</sub-title>
+    <desc lang="en">After young parents-to-be are gunned down in Memphis, police are shocked to learn their deaths resulted from a vengeful dispute over bundles of hair. While certain they have their killer, the road to justice proves trickier than first thought.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/2nphJkC0tmRQuIj3FgtcYtkYd8m.jpg" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622075300 +0000" stop="20260622084500 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Sins of the City</title>
+    <sub-title lang="en">Sins of the City - Bensonhurst</sub-title>
+    <desc lang="en">Long standing racial tensions in Brooklyn�s Bensonhurst neighborhood explode into months of protests after an unarmed Black teenager named Yusuf Hawkins is pursued, shot, and killed by a mob determined to send a message to Black communities throughout New York.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/KW3Pl1MwiABLUsj0IoIrXpWPLM.jpg" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622084500 +0000" stop="20260622093700 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Caught in the Web</sub-title>
+    <desc lang="en">A young man survives a near fatal shooting, rebuilds his life, and starts looking for love, only to disappear without a trace. His family refuses to give up their search, even as evidence mounts that he was lured into a web of deception and doom.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E19</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622093700 +0000" stop="20260622102800 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Blinded by Love</sub-title>
+    <desc lang="en">When a kindhearted janitor is beaten to death in his home, it doesn’t take long to learn he was embroiled in a love triangle with his wife and a close friend. Was this just a random attack, or is there something far more sinister behind the murder?</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E20</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622102800 +0000" stop="20260622112000 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Tangled Web</sub-title>
+    <desc lang="en">A single mom and her three kids are found brutally murdered inside their home. Investigators uncover multiple suspects, including an ex skirting child support and the wife of a former lover, and a secret phone may be the key to nailing their killer.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E31</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622112000 +0000" stop="20260622121100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Ruled by Love</sub-title>
+    <desc lang="en">A young woman is swept off her feet by a flashy, older man who lavishes her with attention and gifts, but soon learns her new man is actually the kingpin of a massive interstate drug operation.</desc>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622121100 +0000" stop="20260622130300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Conflicting Vows</sub-title>
+    <desc lang="en">A young mom joins the police force to provide a better life for her family, but when she discovers her husband has been hanging around with some shady characters, she is desperate to find out more.</desc>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622130300 +0000" stop="20260622135400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Young and Deadly</sub-title>
+    <desc lang="en">A young aspiring actress falls madly in love with her sophisticated, older boss. But his toxic love manipulates her, and she agrees to go down any dark and deadly path he tells her to in order to prove her devotion to him.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622135400 +0000" stop="20260622153900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">When Love Kills: The Falicia Blakely Story</title>
+    <desc lang="en">All Falicia ever wanted was a better life and she found it with Dino.  He promised her the world and all she had to do for it was to kill.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/5eru44562xbz1abp8p69wic4y/w1920_h1080/5eru44562xbz1abp8p69wic4y.jpg" />
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622153900 +0000" stop="20260622172400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Safe Room</title>
+    <desc lang="en">After Ian accidentally witnesses a break-in in the house across the street and records the horrific murder of the homeowner, Lila becomes embroiled in a deadly struggle to protect her son.</desc>
+    <date>2022</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">TV Movie</category>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cff9c46707d20fde539138407c882280.jpg" />
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622172400 +0000" stop="20260622191000 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Deadly Dispatch</title>
+    <desc lang="en">After her best friend IS tragically murdered in an apparent robbery gone wrong, Tiffany Jackson takes justice in her own hands to find his killer.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://images.frequency.com/video/13htvbskxsd5h1jtequzm1b33/w1920_h1080/13htvbskxsd5h1jtequzm1b33.jpg" />
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622191000 +0000" stop="20260622200100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Payback</title>
+    <sub-title lang="en">Payback - Shot for Shot</sub-title>
+    <desc lang="en">When an accomplice to a 2006 murder is gunned down in a neighborhood bar three years later, police suspect the nephew of a world renowned boxer who waited patiently to seize his opportunity for revenge.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/2nphJkC0tmRQuIj3FgtcYtkYd8m.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622200100 +0000" stop="20260622205300 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Sins of the City</title>
+    <sub-title lang="en">Sins of the City - Sanford, Florida</sub-title>
+    <desc lang="en">In 2012, Sanford, Florida would become the epicenter of a nationwide debate when George Zimmerman shoots and kills Trayvon Martin. Trayvon�s death ignites the Black Lives Matter movement and puts Sanford center stage for the trial of the century.</desc>
+    <date>2023</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/KW3Pl1MwiABLUsj0IoIrXpWPLM.jpg" />
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622205300 +0000" stop="20260622214400 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Friends Without Benefits</sub-title>
+    <desc lang="en">When a young woman is found dead with no obvious explanation, detectives suspect something sinister is at play. Evidence points to greed and jealousy, but in the end, her killer's motive turns out to be far more spiteful.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622214400 +0000" stop="20260622223600 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - Silent Witness</sub-title>
+    <desc lang="en">When a mother of three is shot in her home, police have multiple suspects to investigate, including her ex-boyfriend and the new man she was dating. After a long investigation, her daughter may be the only one finally able to put a killer away.</desc>
+    <date>2021</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S11 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622223600 +0000" stop="20260622232700 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">Fatal Attraction</title>
+    <sub-title lang="en">Fatal Attraction - A Tangled Web</sub-title>
+    <desc lang="en">A single mom and her three kids are found brutally murdered inside their home. Investigators uncover multiple suspects, including an ex skirting child support and the wife of a former lover, and a secret phone may be the key to nailing their killer.</desc>
+    <date>2024</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/49608c5af2470c11692fefb3dcc19b3b.jpg" />
+    <episode-num system="onscreen">S14 E31</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622232700 +0000" stop="20260623001900 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <title lang="en">For My Man</title>
+    <sub-title lang="en">For My Man - Ruled by Love</sub-title>
+    <desc lang="en">A young woman is swept off her feet by a flashy, older man who lavishes her with attention and gifts, but soon learns her new man is actually the kingpin of a massive interstate drug operation.</desc>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/original/5p8dywovP65o33SLd30gaxlt1oP.jpg" />
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
   <programme start="20260619003400 +0000" stop="20260619012700 +0000" channel="plex.tv.The.Outer.Limits.plex">
     <title lang="en">Outer Limits - NEW</title>
     <sub-title lang="en">Seeds Of Destruction</sub-title>
