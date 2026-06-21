@@ -11,13 +11,13 @@ http://stream.cammonitorplus.net/1752/tracks-v1a1/mono.m3u8
 http://stream.cammonitorplus.net/1812/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KSNF-DT.us_locals1" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/21231/s28717_ll_h15_ad.png" group-title="Broadcast",NBC 2
 http://stream.cammonitorplus.net/1820/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Beverly Hillbillies.us" tvg-name="Beverly Hillbillies" tvg-logo="" group-title="Classic TV",Beverly Hillbillies
+#EXTINF:-1 tvg-id="5f7796e470510900070d4e3d" tvg-name="Beverly Hillbillies" tvg-logo="" group-title="Classic TV",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 #EXTINF:-1 tvg-id="65e977a618036500082ec972" tvg-name="Chappelle Show" tvg-logo="" group-title="Classic TV",Chappelle Show
 https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
-#EXTINF:-1 tvg-id="Classic TV Crime Drama.us" tvg-name="Classic TV Crime Drama" tvg-logo="" group-title="Classic TV",Classic TV Crime Drama
+#EXTINF:-1 tvg-id="61325c4f982acd000723287e" tvg-name="Classic TV Crime Drama" tvg-logo="" group-title="Classic TV",Classic TV Crime Drama
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
-#EXTINF:-1 tvg-id="Little House on the Prairie.us" tvg-name="Little House on the Prairie" tvg-logo="" group-title="Classic TV",Little House on the Prairie
+#EXTINF:-1 tvg-id="654933ac986ad20008a1f406" tvg-name="Little House on the Prairie" tvg-logo="" group-title="Classic TV",Little House on the Prairie
 https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="6549337183595c000815ad05" tvg-name="Murder She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Classic TV",Murder She Wrote
 https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
@@ -25,9 +25,9 @@ https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
 https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
 #EXTINF:-1 tvg-id="62e9186f8b685d000773cf58" tvg-name="Taxi" tvg-logo="" group-title="Classic TV",Taxi
 https://jmp2.uk/plu-62e9186f8b685d000773cf58.m3u8
-#EXTINF:-1 tvg-id="The Andy Griffith Show.us" tvg-name="The Andy Griffith Show" tvg-logo="" group-title="Classic TV",The Andy Griffith Show
+#EXTINF:-1 tvg-id="62e9145ec07f2a00070e68dc" tvg-name="The Andy Griffith Show" tvg-logo="" group-title="Classic TV",The Andy Griffith Show
 https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
-#EXTINF:-1 tvg-id="The Love Boat.us" tvg-name="The Love Boat" tvg-logo="" group-title="Classic TV",The Love Boat
+#EXTINF:-1 tvg-id="62e91563ce7ce300076f917e" tvg-name="The Love Boat" tvg-logo="" group-title="Classic TV",The Love Boat
 https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8
 #EXTINF:-1 tvg-id="US1800014CG" tvg-name="Alfred Hitchcock Presents" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png" group-title="Crime & Investigation",Alfred Hitchcock Presents
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b885d021-1d5b-4f28-a251-6f68cfd25321/5.m3u8
@@ -49,13 +49,13 @@ http://23.239.31.26:8989/amc/index.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.m3u8
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",BET Her
 http://41.205.93.154/BETHER/index.m3u8
-#EXTINF:-1 tvg-id="BET x Tyler Perry Comedy.us" tvg-name="BET x Tyler Perry Comedy" tvg-logo="" group-title="Entertainment",BET x Tyler Perry Comedy
+#EXTINF:-1 tvg-id="666b265722acab000885c6aa" tvg-name="BET x Tyler Perry Comedy" tvg-logo="" group-title="Entertainment",BET x Tyler Perry Comedy
 https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BET x Tyler Perry Drama.us" tvg-name="BET x Tyler Perry Drama" tvg-logo="https://images.pluto.tv/channels/666b38a5efa2a10008b15b3a/colorLogoPNG.png" group-title="Entertainment",BET x Tyler Perry Drama
 https://414192d1e2a74ec495a72e78890523b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-866-BETxTYLERPERRYDRAMA-TCL/9bc35396-b13b-48c0-afcf-fa2c34d69e04/0.m3u8
-#EXTINF:-1 tvg-id="Beyond the Gates.us" tvg-name="Beyond the Gates" tvg-logo="" group-title="Entertainment",Beyond the Gates
+#EXTINF:-1 tvg-id="687ff00ff6bc08130f16ab81" tvg-name="Beyond the Gates" tvg-logo="" group-title="Entertainment",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
-#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
+#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&h=270" group-title="Entertainment",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
@@ -75,7 +75,7 @@ http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_HALLMARK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN HD" tvg-logo="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&h=270" group-title="Entertainment",LMN
 http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Love And Hip Hop.us" tvg-name="Love and Hip Hop" tvg-logo="" group-title="Entertainment",Love and Hip Hop
+#EXTINF:-1 tvg-id="5d51ddf0369acdb278dfb05e" tvg-name="Love and Hip Hop" tvg-logo="" group-title="Entertainment",Love and Hip Hop
 https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV - Music Television HD" tvg-logo="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&h=270" group-title="Entertainment",MTV
 http://23.237.104.106:8080/USA_MTV/tracks-v1a1/mono.m3u8
@@ -101,7 +101,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&h=270" group-title="Entertainment",TV Land
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.m3u8
-#EXTINF:-1 tvg-id="TV Land Sitcoms.us" tvg-name="TV Land Sitcoms" tvg-logo="" group-title="Entertainment",TV Land Sitcoms
+#EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-name="TV Land Sitcoms" tvg-logo="" group-title="Entertainment",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png" group-title="Entertainment",TV One
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.m3u8
@@ -121,7 +121,7 @@ https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
 https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" tvg-logo="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&h=270" group-title="Free & Broadcast",Cozi TV
 http://173.225.32.123/Cozi-2358/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Ebony TV Drama.us" tvg-name="Ebony TV Drama" tvg-logo="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png" group-title="Free & Broadcast",Ebony TV Drama
+#EXTINF:-1 tvg-id="6675c713fc3a46000863dde7" tvg-name="Ebony TV Drama" tvg-logo="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png" group-title="Free & Broadcast",Ebony TV Drama
 https://amg00353-amg00353c34-lg-us-3767.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-ebonytv-lgus/cb573b1d6573618984cb376fcef44382847d3dd50e2fd63471a9448f1298410ddafbb2d3932fff695c811fc060036d555879cc1bd77d0ad7b923f6573077073c9c9cab6ba8d95266c0814b747ff0390157fa1e738567107bd6e7555ad473e6344d41b9473d1862c4f02ef43258c780088e7e2988acc0303a2c5e5b97095fe3f24cb7ade25e40d039a8e2014e967d44fa83439fd501e9d6805d8316847fa3459a95a48c8515d7e42f52937f8ab5a2c54007fbb54ad1a468b8d38e6c3ddc423c470a50f5d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe5fe28727cac5932692a4b8d74f4e37a0862809972278c2f8990312c70ecdabfbda7a7290f75e1f2dac3f8b70796dc2b4a371f584d57f66a224964964c4935391cc9d8123af7ce900ec04c7c2e6913e43014d0115b964ad8866e1d7bc12a7e51c25550216fcd40684ceee573e664091931efa275be88bc5d3915f629a344e14bf32800a5e2cfb3d622ab176b9826a38c0662b952502d951218e47efab63a3f39bd30329a6d7c84cb03dbefb599fbe50f8236f1752fabf0b5651162f80bc335c602a9208e580cbb5235104bea1cf8c80395230301956039cf1a721cbfcb2072956900368303a414ec65083278852105154a05cb4880c678e122e3decc5660eba0d43234f30e1351096dba82a1a182718dba409ca7c50/93/1920x1080_8048040/index.m3u8
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&h=270" group-title="Free & Broadcast",Game Show Central
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
@@ -189,7 +189,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/363d55d0-34d6-4394-ba93-81df00a2fddd/4.m3u8
 #EXTINF:-1 tvg-id="plex.tv.The.Outer.Limits.plex" tvg-name="The Outer Limits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2373afb-f4c2-4e2d-b61a-5b1abd8e8110/OuterLimits_logo_dark_-_Carl_HoffeldeWHITErRDX.png" group-title="Sci-Fi & Mystery",The Outer Limits
 https://49477bf91d3c44a898b82f099b033948.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1145-THEROUTERLIMITS-TCLTV/4d481029-ca21-4ecf-bcd8-6c16962ff6a7/4.m3u8
-#EXTINF:-1 tvg-id="The Twilight Zone.us" tvg-name="The Twilight Zone" tvg-logo="" group-title="Sci-Fi & Mystery",The Twilight Zone
+#EXTINF:-1 tvg-id="6512ec9f3a0d700008db4f0c" tvg-name="The Twilight Zone" tvg-logo="" group-title="Sci-Fi & Mystery",The Twilight Zone
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 #EXTINF:-1 tvg-id="6913e381b6bf26bb6e798c13" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="Sci-Fi & Mystery",The X-Files
 https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
