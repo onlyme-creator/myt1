@@ -13,7 +13,7 @@ http://stream.cammonitorplus.net/1812/tracks-v1a1/mono.m3u8
 http://stream.cammonitorplus.net/1820/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Beverly Hillbillies.us" tvg-name="Beverly Hillbillies" tvg-logo="" group-title="Classic TV",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
-#EXTINF:-1 tvg-id="ChapelleShow.noepg" tvg-name="Chappelle Show" tvg-logo="" group-title="Classic TV",Chappelle Show
+#EXTINF:-1 tvg-id="65e977a618036500082ec972" tvg-name="Chappelle Show" tvg-logo="" group-title="Classic TV",Chappelle Show
 https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
 #EXTINF:-1 tvg-id="Classic TV Crime Drama.us" tvg-name="Classic TV Crime Drama" tvg-logo="" group-title="Classic TV",Classic TV Crime Drama
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
@@ -21,9 +21,9 @@ https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
 https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="6549337183595c000815ad05" tvg-name="Murder She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Classic TV",Murder She Wrote
 https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="QuantumLeap.noepg" tvg-name="Quantum Leap" tvg-logo="" group-title="Classic TV",Quantum Leap
+#EXTINF:-1 tvg-id="677fafd91da79bfe4fb0b4ec" tvg-name="Quantum Leap" tvg-logo="" group-title="Classic TV",Quantum Leap
 https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
-#EXTINF:-1 tvg-id="Taxi.noepg" tvg-name="Taxi" tvg-logo="" group-title="Classic TV",Taxi
+#EXTINF:-1 tvg-id="62e9186f8b685d000773cf58" tvg-name="Taxi" tvg-logo="" group-title="Classic TV",Taxi
 https://jmp2.uk/plu-62e9186f8b685d000773cf58.m3u8
 #EXTINF:-1 tvg-id="The Andy Griffith Show.us" tvg-name="The Andy Griffith Show" tvg-logo="" group-title="Classic TV",The Andy Griffith Show
 https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
@@ -91,7 +91,7 @@ https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 http://23.237.104.106:8080/USA_SYFY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="http://dtil.tmsimg.com/assets/s58515_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="WalkingDeadAMC.noepg" tvg-name="The Walking Dead by AMC" tvg-logo="" group-title="Entertainment",The Walking Dead by AMC
+#EXTINF:-1 tvg-id="62fa8176b9884200074ef5ae" tvg-name="The Walking Dead by AMC" tvg-logo="" group-title="Entertainment",The Walking Dead by AMC
 https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
 #EXTINF:-1 tvg-id="The Walking Dead Universe.us" tvg-name="The Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Entertainment",The Walking Dead Universe
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/9bab9bc1-1efb-4fee-9e03-9cf49be98a98/4.m3u8
@@ -137,7 +137,7 @@ https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffb
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD HD" tvg-logo="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&h=270" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DragonballZ.noepg" tvg-name="Dragonball Z" tvg-logo="" group-title="Kids",Dragonball Z
+#EXTINF:-1 tvg-id="68e8fd7c3ede4398bc69af93" tvg-name="Dragonball Z" tvg-logo="" group-title="Kids",Dragonball Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
 #EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-logo="https://wikimedia.org" group-title="Kids",MeTV Toons
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvwqUfduWazfqfCQwHrcub5/m3u8
