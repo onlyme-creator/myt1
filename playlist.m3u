@@ -91,7 +91,7 @@ https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 http://23.237.104.106:8080/USA_SYFY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="http://dtil.tmsimg.com/assets/s58515_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="62fa8176b9884200074ef5ae" tvg-name="The Walking Dead by AMC" tvg-logo="" group-title="Entertainment",The Walking Dead by AMC
+#EXTINF:-1 tvg-id="The Walking Dead Universe.us" tvg-name="The Walking Dead by AMC" tvg-logo="" group-title="Entertainment",The Walking Dead by AMC
 https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
 #EXTINF:-1 tvg-id="The Walking Dead Universe.us" tvg-name="The Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Entertainment",The Walking Dead Universe
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/9bab9bc1-1efb-4fee-9e03-9cf49be98a98/4.m3u8
