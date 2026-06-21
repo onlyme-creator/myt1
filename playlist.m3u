@@ -55,7 +55,7 @@ https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
 https://414192d1e2a74ec495a72e78890523b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-866-BETxTYLERPERRYDRAMA-TCL/9bc35396-b13b-48c0-afcf-fa2c34d69e04/0.m3u8
 #EXTINF:-1 tvg-id="687ff00ff6bc08130f16ab81" tvg-name="Beyond the Gates" tvg-logo="" group-title="Entertainment",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
-#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
+#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&h=270" group-title="Entertainment",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
