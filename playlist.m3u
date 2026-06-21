@@ -139,6 +139,8 @@ http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DragonballZ.noepg" tvg-name="Dragonball Z" tvg-logo="" group-title="Kids",Dragonball Z
 https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-logo="https://wikimedia.org" group-title="Kids",MeTV Toons
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvwqUfduWazfqfCQwHrcub5/m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="NickToons" tvg-logo="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&h=270" group-title="Kids",NickToons
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.noepg" tvg-name="Tom and Jerry" tvg-logo="" group-title="Kids",Tom and Jerry
@@ -167,8 +169,10 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.m3u8
 http://23.237.104.106:8080/USA_STARZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM US HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64312_dark_360w_270h.png" group-title="Movies & Premium",TCM
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://wikimedia.org" group-title="News",ABC News Live
+https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 #EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News National Stream" tvg-logo="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&h=270" group-title="News",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN HD" tvg-logo="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&h=270" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN HD" tvg-logo="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&h=270" group-title="News",HLN
@@ -177,6 +181,8 @@ http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
 http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-name="MSNBC HD" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&h=270" group-title="News",MSNBC
 http://41.205.93.154:80/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-logo="https://wikimedia.org" group-title="News",NBC News NOW
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 #EXTINF:-1 tvg-id="plex.tv.Ancient.Aliens.plex" tvg-name="Ancient Aliens" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2fe1556a-c271-46cb-927f-935263f2491c/AncientAliensGM_channel_logo_WHite_RDX.png" group-title="Sci-Fi & Mystery",Ancient Aliens
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/84de2ab8-f7af-479d-b1d5-64bedb52f43a/5.m3u8
 #EXTINF:-1 tvg-id="plex.tv.OuterSphere.by.Lionsgate.plex" tvg-name="OuterSphere" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" group-title="Sci-Fi & Mystery",OuterSphere
