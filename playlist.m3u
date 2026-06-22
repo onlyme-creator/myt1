@@ -57,7 +57,7 @@ https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
 https://414192d1e2a74ec495a72e78890523b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-866-BETxTYLERPERRYDRAMA-TCL/9bc35396-b13b-48c0-afcf-fa2c34d69e04/0.m3u8
 #EXTINF:-1 tvg-id="687ff00ff6bc08130f16ab81" tvg-name="Beyond the Gates" tvg-logo="" group-title="Entertainment",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
-#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
+#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&h=270" group-title="Entertainment",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
@@ -95,7 +95,7 @@ http://23.237.104.106:8080/USA_SYFY/tracks-v1a1/mono.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="678aa104680721c77c506746" tvg-name="The Walking Dead by AMC" tvg-logo="" group-title="Entertainment",The Walking Dead by AMC
 https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
-#EXTINF:-1 tvg-id="678aa104680721c77c506746" tvg-name="The Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png" group-title="Entertainment",The Walking Dead Universe
+#EXTINF:-1 tvg-id="plex.tv.The.Walking.Dead.Universe.plex" tvg-name="The Walking Dead Universe" tvg-logo="https://plex.tv" group-title="Entertainment",The Walking Dead Universe
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/9bab9bc1-1efb-4fee-9e03-9cf49be98a98/4.m3u8
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="http://dtil.tmsimg.com/assets/s42642_ll_h15_ac.png?w=360&h=270" group-title="Entertainment",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
