@@ -37,9 +37,9 @@ http://freedom4all365.top:8080/live/Konner/Konner/175943.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="68758038552299d2b08162e3" tvg-name="Law and Order" tvg-logo="http://dtil.tmsimg.com/assets/s10589_ll_h15_aa.png?w=360&h=270" group-title="Crime & Investigation",Law and Order
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/c0e93c6e-efe4-46ae-9040-3c11a9ba8636/5.m3u8
-#EXTINF:-1 tvg-id="The First 48 by AAndE.us" tvg-name="The First 48" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3300011V9_20260428T032020SQUARE.png" group-title="Crime & Investigation",The First 48
+#EXTINF:-1 tvg-id="plex.tv.The.First.48.by.A&amp;E.plex" tvg-name="The First 48 by A&E" tvg-logo="https://image.tmdb.org/t/p/original/i6bSut4XPepaJ5VC6oG303iGKQU.jpg" group-title="Crime & Investigation",The First 48
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8ac8f1d1-8838-4639-99ed-900c795b789b/5.m3u8
-#EXTINF:-1 tvg-id="plex.tv.TV.One.Crime.&amp;.Justice.plex" tvg-name="TV One Crime and Justice" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa702b5c-a659-4ddf-ba0e-a7abf4eda619/TVONE_Logo_TEAL_FULL_1500x1000.png" group-title="Crime & Investigation",TV One Crime and Justice
+#EXTINF:-1 tvg-id="plex.tv.TV.One.Crime.&amp;.Justice.plex" tvg-name="TV One Crime & Justice" tvg-logo="https://metadata-static.plex.tv/c/gracenote/c86dcd14ce2663642d7f49dfc39e75cc.jpg" group-title="Crime & Investigation",TV One Crime and Justice
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/d1ad3cb2-ee74-4ce0-b318-b730232b9de8/0.m3u8
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E East HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="Entertainment",A&E
 http://23.239.31.26:8989/aande/index.m3u8
@@ -57,7 +57,7 @@ https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8
 https://414192d1e2a74ec495a72e78890523b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-866-BETxTYLERPERRYDRAMA-TCL/9bc35396-b13b-48c0-afcf-fa2c34d69e04/0.m3u8
 #EXTINF:-1 tvg-id="687ff00ff6bc08130f16ab81" tvg-name="Beyond the Gates" tvg-logo="" group-title="Entertainment",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
-#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
+#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&h=270" group-title="Entertainment",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8

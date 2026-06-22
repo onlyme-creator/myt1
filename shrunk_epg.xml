@@ -1,120 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-  <channel id="Fuse.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Hallmark.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fuse HD</display-name>
-  </channel>
-  <channel id="BET.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BET HD</display-name>
-  </channel>
-  <channel id="History.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">History HD</display-name>
-  </channel>
-  <channel id="get.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">get</display-name>
-  </channel>
-  <channel id="Court.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Court TV</display-name>
-  </channel>
-  <channel id="LMN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">LMN HD</display-name>
-  </channel>
-  <channel id="Paramount+.with.Showtime.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount+ with Showtime HD</display-name>
-  </channel>
-  <channel id="5d51ddf0369acdb278dfb05e">
-    <display-name>Love &amp; Hip Hop</display-name>
-    <icon src="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png"/>
-  </channel>
-  <channel id="678aa104680721c77c506746">
-    <display-name>The Walking Dead by AMC</display-name>
-    <icon src="https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png"/>
-  </channel>
-  <channel id="Me.TV.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Me TV Network</display-name>
-  </channel>
-  <channel id="plex.tv.NBC.News.NOW.plex">
-    <display-name lang="en">NBC News NOW</display-name>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg" />
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="MeTV.Toons.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s159817_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s159817_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MeTV Toons</display-name>
-  </channel>
-  <channel id="FX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX HD</display-name>
-  </channel>
-  <channel id="ReelzChannel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ReelzChannel HD</display-name>
-  </channel>
-  <channel id="Comet.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comet</display-name>
-  </channel>
-  <channel id="Syfy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Syfy HD</display-name>
-  </channel>
-  <channel id="plex.tv.PBS.Nature.plex">
-    <display-name lang="en">PBS Nature</display-name>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/32e56388dcced0be43e723f2844962c8.jpg" />
-    <icon src="https://metadata-static.plex.tv/3/gracenote/32e56388dcced0be43e723f2844962c8.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="Turner.Classic.Movies.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Turner Classic Movies HD</display-name>
-  </channel>
-  <channel id="plex.tv.TV.One.Crime.&amp;.Justice.plex">
-    <display-name lang="en">TV One Crime &amp; Justice</display-name>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c86dcd14ce2663642d7f49dfc39e75cc.jpg" />
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c86dcd14ce2663642d7f49dfc39e75cc.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="CNN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CNN HD</display-name>
+    <display-name lang="en">Hallmark Channel HD</display-name>
   </channel>
   <channel id="truTV.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
@@ -122,132 +12,35 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">truTV HD</display-name>
   </channel>
-  <channel id="USA.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">USA Network HD</display-name>
-  </channel>
-  <channel id="ESPN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN HD</display-name>
-  </channel>
-  <channel id="Vice.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Vice</display-name>
-  </channel>
-  <channel id="plex.tv.OuterSphere.by.Lionsgate.plex">
-    <display-name lang="en">OuterSphere by Lionsgate</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
-    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="654933ac986ad20008a1f406">
-    <display-name>Little House on the Prairie</display-name>
-    <icon src="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png"/>
-  </channel>
-  <channel id="US1800014CG">
-    <display-name>Alfred Hitchcock Presents</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
-  </channel>
-  <channel id="MTV.-.Music.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MTV - Music Television HD</display-name>
-  </channel>
-  <channel id="Comedy.Central.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comedy Central HD</display-name>
-  </channel>
-  <channel id="BBC.America.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BBC America HD</display-name>
-  </channel>
-  <channel id="WNBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WNBC-DT</display-name>
-  </channel>
-  <channel id="MLB.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MLB Network HD</display-name>
-  </channel>
-  <channel id="BUZZR.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BUZZR Stream</display-name>
-  </channel>
-  <channel id="TV.ONE.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV ONE HD</display-name>
-  </channel>
-  <channel id="Revolt.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Revolt HD</display-name>
-  </channel>
-  <channel id="TNT.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TNT HD</display-name>
-  </channel>
-  <channel id="Grit.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Grit</display-name>
-  </channel>
-  <channel id="CBS (WTVR) Richmond, VA HD.us"><display-name>CBS (WTVR) Richmond, VA HD.us</display-name></channel>
-  <channel id="ION.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ION Television HD</display-name>
-  </channel>
-  <channel id="WWBT-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WWBT-DT</display-name>
-  </channel>
-  <channel id="62e9145ec07f2a00070e68dc">
-    <display-name>The Andy Griffith Show</display-name>
-    <icon src="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png"/>
-  </channel>
-  <channel id="65e977a618036500082ec972">
-    <display-name>Chappelle's Show</display-name>
-    <icon src="https://images.pluto.tv/channels/65e977a618036500082ec972/colorLogoPNG.png"/>
-  </channel>
-  <channel id="687ff00ff6bc08130f16ab81">
-    <display-name>Beyond the Gates</display-name>
-    <icon src="https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png"/>
-  </channel>
-  <channel id="6675c713fc3a46000863dde7">
-    <display-name>Ebony TV Drama</display-name>
-    <icon src="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png"/>
-  </channel>
   <channel id="COZI.TV.us2">
     <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">COZI TV</display-name>
   </channel>
-  <channel id="68758038552299d2b08162e3">
-    <display-name>Law &amp; Order</display-name>
-    <icon src="https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png"/>
+  <channel id="ESPN2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN2 HD</display-name>
+  </channel>
+  <channel id="Discovery.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Discovery Channel HD</display-name>
+  </channel>
+  <channel id="Nicktoons.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Nicktoons</display-name>
+  </channel>
+  <channel id="Me.TV.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Me TV Network</display-name>
   </channel>
   <channel id="KSNF-DT.us_locals1">
     <icon src="http://dtil.tmsimg.com/assets/s28717_h3_aa.png?w=360&amp;h=270" />
@@ -255,73 +48,52 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">KSNF-DT</display-name>
   </channel>
-  <channel id="HLN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="TBS.HD.us2">
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HLN HD</display-name>
+    <display-name lang="en">TBS HD</display-name>
   </channel>
-  <channel id="WFLD-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WFLD-DT</display-name>
-  </channel>
-  <channel id="5f7796e470510900070d4e3d">
-    <display-name>Beverly Hillbillies</display-name>
-    <icon src="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png"/>
-  </channel>
-  <channel id="Disney.XD.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Disney XD HD</display-name>
-  </channel>
-  <channel id="TV.Land.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV Land HD</display-name>
-  </channel>
-  <channel id="62e9186f8b685d000773cf58">
-    <display-name>Taxi</display-name>
-    <icon src="https://images.pluto.tv/channels/62e9186f8b685d000773cf58/colorLogoPNG.png"/>
-  </channel>
-  <channel id="Game.Show.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Game Show Network HD</display-name>
-  </channel>
-  <channel id="A.and.E.HD.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">A and E HD East</display-name>
-  </channel>
-  <channel id="Cinemax.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax HD</display-name>
-  </channel>
-  <channel id="CHARGE!.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CHARGE!</display-name>
-  </channel>
-  <channel id="plex.tv.The.Outer.Limits.plex">
-    <display-name lang="en">The Outer Limits</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
+  <channel id="CBS (WTVR) Richmond, VA HD.us"><display-name>CBS (WTVR) Richmond, VA HD.us</display-name></channel>
+  <channel id="plex.tv.NBC.News.NOW.plex">
+    <display-name lang="en">NBC News NOW</display-name>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg" />
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <channel id="plex.tv.BET.x.Tyler.Perry.Drama.plex">
-    <display-name lang="en">BET x Tyler Perry Drama</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/b5PTXErp18fzi8e2MQv2HlEiE23.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/b5PTXErp18fzi8e2MQv2HlEiE23.jpg" />
-    <url>http://www.plex.tv</url>
+  <channel id="CBS.News.National.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS News National Stream</display-name>
+  </channel>
+  <channel id="WNBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WNBC-DT</display-name>
+  </channel>
+  <channel id="Comet.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comet</display-name>
+  </channel>
+  <channel id="FXX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FXX HD</display-name>
+  </channel>
+  <channel id="CNN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CNN HD</display-name>
+  </channel>
+  <channel id="National.Geographic.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic HD</display-name>
   </channel>
   <channel id="Bounce.TV.us2">
     <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
@@ -329,32 +101,227 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Bounce TV</display-name>
   </channel>
+  <channel id="Revolt.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Revolt HD</display-name>
+  </channel>
+  <channel id="6913e381b6bf26bb6e798c13">
+    <display-name>The X-Files</display-name>
+    <icon src="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png"/>
+  </channel>
+  <channel id="Court.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Court TV</display-name>
+  </channel>
+  <channel id="plex.tv.BET.x.Tyler.Perry.Drama.plex">
+    <display-name lang="en">BET x Tyler Perry Drama</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/b5PTXErp18fzi8e2MQv2HlEiE23.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/b5PTXErp18fzi8e2MQv2HlEiE23.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="plex.tv.The.Outer.Limits.plex">
+    <display-name lang="en">The Outer Limits</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/90eFJWOQRBdeVVEeH0ro2TxRWkG.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="FS1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS1 HD</display-name>
+  </channel>
   <channel id="6549337183595c000815ad05">
     <display-name>Murder, She Wrote</display-name>
     <icon src="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png"/>
   </channel>
-  <channel id="WE.tv.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Turner.Classic.Movies.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WE tv HD</display-name>
+    <display-name lang="en">Turner Classic Movies HD</display-name>
+  </channel>
+  <channel id="LMN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">LMN HD</display-name>
+  </channel>
+  <channel id="687ff00ff6bc08130f16ab81">
+    <display-name>Beyond the Gates</display-name>
+    <icon src="https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png"/>
+  </channel>
+  <channel id="654933ac986ad20008a1f406">
+    <display-name>Little House on the Prairie</display-name>
+    <icon src="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png"/>
+  </channel>
+  <channel id="plex.tv.TV.One.Crime.&amp;.Justice.plex">
+    <display-name lang="en">TV One Crime &amp; Justice</display-name>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c86dcd14ce2663642d7f49dfc39e75cc.jpg" />
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c86dcd14ce2663642d7f49dfc39e75cc.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="BUZZR.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BUZZR Stream</display-name>
+  </channel>
+  <channel id="6512ec9f3a0d700008db4f0c">
+    <display-name>The Twilight Zone</display-name>
+    <icon src="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png"/>
+  </channel>
+  <channel id="61325c4f982acd000723287e">
+    <display-name>Classic TV Crime Drama</display-name>
+    <icon src="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png"/>
+  </channel>
+  <channel id="677fafd91da79bfe4fb0b4ec">
+    <display-name>Quantum Leap</display-name>
+    <icon src="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/colorLogoPNG_1770397003859.png"/>
+  </channel>
+  <channel id="WFLD-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WFLD-DT</display-name>
+  </channel>
+  <channel id="Syfy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Syfy HD</display-name>
+  </channel>
+  <channel id="Vice.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Vice</display-name>
+  </channel>
+  <channel id="History.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">History HD</display-name>
+  </channel>
+  <channel id="5f7796e470510900070d4e3d">
+    <display-name>Beverly Hillbillies</display-name>
+    <icon src="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png"/>
   </channel>
   <channel id="68e8fd7c3ede4398bc69af93">
     <display-name>Dragon Ball Z</display-name>
     <icon src="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1775550158845.png"/>
   </channel>
-  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
   <channel id="Starz.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Starz HD</display-name>
   </channel>
+  <channel id="Fuse.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Fuse HD</display-name>
+  </channel>
+  <channel id="MSNBC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MSNBC HD</display-name>
+  </channel>
+  <channel id="BET.Her.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BET Her</display-name>
+  </channel>
+  <channel id="FX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX HD</display-name>
+  </channel>
+  <channel id="VH1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">VH1 HD</display-name>
+  </channel>
+  <channel id="AMC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC HD</display-name>
+  </channel>
+  <channel id="Grit.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Grit</display-name>
+  </channel>
+  <channel id="Showtime.Extreme.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Extreme HD</display-name>
+  </channel>
+  <channel id="get.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">get</display-name>
+  </channel>
+  <channel id="CHARGE!.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CHARGE!</display-name>
+  </channel>
+  <channel id="TNT.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TNT HD</display-name>
+  </channel>
+  <channel id="KTBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KTBC-DT</display-name>
+  </channel>
+  <channel id="plex.tv.OuterSphere.by.Lionsgate.plex">
+    <display-name lang="en">OuterSphere by Lionsgate</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
   <channel id="plex.tv.AMC.Thrillers.plex">
     <display-name lang="en">AMC Thrillers</display-name>
     <icon src="https://metadata-static.plex.tv/7/gracenote/76e6403b6d3148f91d5f3b5c2639f6b7.jpg" />
     <icon src="https://metadata-static.plex.tv/7/gracenote/76e6403b6d3148f91d5f3b5c2639f6b7.jpg" />
     <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="Stories.by.AMC.us2">
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <url>http://www.xumo.com</url>
+    <display-name lang="en">Stories by AMC</display-name>
+  </channel>
+  <channel id="68758038552299d2b08162e3">
+    <display-name>Law &amp; Order</display-name>
+    <icon src="https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png"/>
+  </channel>
+  <channel id="TV.ONE.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV ONE HD</display-name>
+  </channel>
+  <channel id="ESPN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN HD</display-name>
   </channel>
   <channel id="5c2d64ffbdf11b71587184b8">
     <display-name>TV Land Sitcoms</display-name>
@@ -366,81 +333,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Paramount Network HD</display-name>
   </channel>
-  <channel id="61325c4f982acd000723287e">
-    <display-name>Classic TV Crime Drama</display-name>
-    <icon src="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png"/>
-  </channel>
-  <channel id="666b265722acab000885c6aa">
-    <display-name>BET x Tyler Perry Comedy</display-name>
-    <icon src="https://images.pluto.tv/channels/666b265722acab000885c6aa/colorLogoPNG.png"/>
-  </channel>
-  <channel id="TBS.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TBS HD</display-name>
-  </channel>
-  <channel id="NBC.Sports.Now.us2">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">NBC Sports Now</display-name>
-  </channel>
-  <channel id="E!.Entertainment.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">E! Entertainment Television HD</display-name>
-  </channel>
-  <channel id="NFL.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NFL Network HD</display-name>
-  </channel>
-  <channel id="HBO2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO2 HD</display-name>
-  </channel>
-  <channel id="plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex">
-    <display-name lang="en">In The Heat Of The Night by MGM</display-name>
-    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
-    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
+  <channel id="plex.tv.The.First.48.by.A&amp;E.plex">
+    <display-name lang="en">The First 48 by A&amp;E</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/i6bSut4XPepaJ5VC6oG303iGKQU.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/i6bSut4XPepaJ5VC6oG303iGKQU.jpg" />
     <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="National.Geographic.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic HD</display-name>
-  </channel>
-  <channel id="CBS.News.National.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS News National Stream</display-name>
-  </channel>
-  <channel id="ABC.News.Live.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s113380_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s113380_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ABC News Live</display-name>
-  </channel>
-  <channel id="MSNBC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MSNBC HD</display-name>
-  </channel>
-  <channel id="CBS.Streaming.SD.East.feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS Streaming SD East feed</display-name>
-  </channel>
-  <channel id="6176fd25e83a5f0007a464c9">
-    <display-name>Bounce XL</display-name>
-    <icon src="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png"/>
   </channel>
   <channel id="HBO.Comedy.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
@@ -448,141 +345,33 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">HBO Comedy HD</display-name>
   </channel>
-  <channel id="ESPNU.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPNU HD</display-name>
-  </channel>
-  <channel id="KTBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KTBC-DT</display-name>
-  </channel>
-  <channel id="6913e381b6bf26bb6e798c13">
-    <display-name>The X-Files</display-name>
-    <icon src="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png"/>
-  </channel>
-  <channel id="Discovery.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Discovery Channel HD</display-name>
-  </channel>
-  <channel id="ABC.National.Feed.us2">
+  <channel id="CBS.Streaming.SD.East.feed.us2">
     <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
     <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ABC National Feed</display-name>
+    <display-name lang="en">CBS Streaming SD East feed</display-name>
   </channel>
-  <channel id="National.Geographic.Wild.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Animal.Planet.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic Wild HD</display-name>
+    <display-name lang="en">Animal Planet HD</display-name>
   </channel>
-  <channel id="ESPN2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="NBC.Sports.Now.us2">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">NBC Sports Now</display-name>
+  </channel>
+  <channel id="678aa104680721c77c506746">
+    <display-name>The Walking Dead by AMC</display-name>
+    <icon src="https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png"/>
+  </channel>
+  <channel id="HLN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN2 HD</display-name>
-  </channel>
-  <channel id="VH1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">VH1 HD</display-name>
-  </channel>
-  <channel id="FXX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FXX HD</display-name>
-  </channel>
-  <channel id="677fafd91da79bfe4fb0b4ec">
-    <display-name>Quantum Leap</display-name>
-    <icon src="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/colorLogoPNG_1770397003859.png"/>
-  </channel>
-  <channel id="62e91563ce7ce300076f917e">
-    <display-name>The Love Boat</display-name>
-    <icon src="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png"/>
-  </channel>
-  <channel id="AMC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC HD</display-name>
-  </channel>
-  <channel id="plex.tv.Ancient.Aliens.plex">
-    <display-name lang="en">Ancient Aliens</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="BET.Her.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BET Her</display-name>
-  </channel>
-  <channel id="NBA.TV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NBA TV HD</display-name>
-  </channel>
-  <channel id="Boomerang.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Boomerang</display-name>
-  </channel>
-  <channel id="FX.Movie.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX Movie Channel HD</display-name>
-  </channel>
-  <channel id="6512ec9f3a0d700008db4f0c">
-    <display-name>The Twilight Zone</display-name>
-    <icon src="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png"/>
-  </channel>
-  <channel id="HBO.West.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO West</display-name>
-  </channel>
-  <channel id="Hallmark.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Hallmark Channel HD</display-name>
-  </channel>
-  <channel id="FS1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS1 HD</display-name>
-  </channel>
-  <channel id="Stories.by.AMC.us2">
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <url>http://www.xumo.com</url>
-    <display-name lang="en">Stories by AMC</display-name>
-  </channel>
-  <channel id="Showtime.Extreme.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Extreme HD</display-name>
-  </channel>
-  <channel id="Nicktoons.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Nicktoons</display-name>
+    <display-name lang="en">HLN HD</display-name>
   </channel>
   <channel id="FS2.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
@@ -590,11 +379,224 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">FS2 HD</display-name>
   </channel>
-  <channel id="Animal.Planet.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+  <channel id="Boomerang.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Animal Planet HD</display-name>
+    <display-name lang="en">Boomerang</display-name>
+  </channel>
+  <channel id="65e977a618036500082ec972">
+    <display-name>Chappelle's Show</display-name>
+    <icon src="https://images.pluto.tv/channels/65e977a618036500082ec972/colorLogoPNG.png"/>
+  </channel>
+  <channel id="ESPNU.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPNU HD</display-name>
+  </channel>
+  <channel id="62e91563ce7ce300076f917e">
+    <display-name>The Love Boat</display-name>
+    <icon src="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png"/>
+  </channel>
+  <channel id="NFL.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NFL Network HD</display-name>
+  </channel>
+  <channel id="BET.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BET HD</display-name>
+  </channel>
+  <channel id="plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex">
+    <display-name lang="en">In The Heat Of The Night by MGM</display-name>
+    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
+    <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="62e9186f8b685d000773cf58">
+    <display-name>Taxi</display-name>
+    <icon src="https://images.pluto.tv/channels/62e9186f8b685d000773cf58/colorLogoPNG.png"/>
+  </channel>
+  <channel id="666b265722acab000885c6aa">
+    <display-name>BET x Tyler Perry Comedy</display-name>
+    <icon src="https://images.pluto.tv/channels/666b265722acab000885c6aa/colorLogoPNG.png"/>
+  </channel>
+  <channel id="ION.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ION Television HD</display-name>
+  </channel>
+  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
+  <channel id="Disney.XD.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Disney XD HD</display-name>
+  </channel>
+  <channel id="MLB.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MLB Network HD</display-name>
+  </channel>
+  <channel id="US1800014CG">
+    <display-name>Alfred Hitchcock Presents</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
+  </channel>
+  <channel id="ABC.National.Feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ABC National Feed</display-name>
+  </channel>
+  <channel id="A.and.E.HD.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">A and E HD East</display-name>
+  </channel>
+  <channel id="NBA.TV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NBA TV HD</display-name>
+  </channel>
+  <channel id="ABC.News.Live.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s113380_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s113380_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ABC News Live</display-name>
+  </channel>
+  <channel id="Paramount+.with.Showtime.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount+ with Showtime HD</display-name>
+  </channel>
+  <channel id="National.Geographic.Wild.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic Wild HD</display-name>
+  </channel>
+  <channel id="5d51ddf0369acdb278dfb05e">
+    <display-name>Love &amp; Hip Hop</display-name>
+    <icon src="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png"/>
+  </channel>
+  <channel id="plex.tv.PBS.Nature.plex">
+    <display-name lang="en">PBS Nature</display-name>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/32e56388dcced0be43e723f2844962c8.jpg" />
+    <icon src="https://metadata-static.plex.tv/3/gracenote/32e56388dcced0be43e723f2844962c8.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="6675c713fc3a46000863dde7">
+    <display-name>Ebony TV Drama</display-name>
+    <icon src="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png"/>
+  </channel>
+  <channel id="Comedy.Central.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comedy Central HD</display-name>
+  </channel>
+  <channel id="MeTV.Toons.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s159817_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s159817_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MeTV Toons</display-name>
+  </channel>
+  <channel id="WWBT-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WWBT-DT</display-name>
+  </channel>
+  <channel id="WE.tv.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WE tv HD</display-name>
+  </channel>
+  <channel id="E!.Entertainment.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">E! Entertainment Television HD</display-name>
+  </channel>
+  <channel id="ReelzChannel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ReelzChannel HD</display-name>
+  </channel>
+  <channel id="Game.Show.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Game Show Network HD</display-name>
+  </channel>
+  <channel id="USA.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">USA Network HD</display-name>
+  </channel>
+  <channel id="HBO2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO2 HD</display-name>
+  </channel>
+  <channel id="plex.tv.Ancient.Aliens.plex">
+    <display-name lang="en">Ancient Aliens</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="FX.Movie.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX Movie Channel HD</display-name>
+  </channel>
+  <channel id="Cinemax.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cinemax HD</display-name>
+  </channel>
+  <channel id="BBC.America.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BBC America HD</display-name>
+  </channel>
+  <channel id="TV.Land.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV Land HD</display-name>
+  </channel>
+  <channel id="62e9145ec07f2a00070e68dc">
+    <display-name>The Andy Griffith Show</display-name>
+    <icon src="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png"/>
+  </channel>
+  <channel id="MTV.-.Music.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MTV - Music Television HD</display-name>
+  </channel>
+  <channel id="HBO.West.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO West</display-name>
   </channel>
 
   <programme channel="ABC.National.Feed.us2" start="20260621050000 +0000" stop="20260621070000 +0000">
@@ -253499,6 +253501,1394 @@
       <value>TV-14</value>
     </rating>
   </programme>
+  <programme start="20260622003100 +0000" stop="20260622012400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">In Harm's Way / Jealous Rage</sub-title>
+    <desc lang="en">Craig Clopton investigate the murder of man killed by a single gunshot.</desc>
+    <date>2010</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622012400 +0000" stop="20260622021700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">In Cold Blood / Red Handed</sub-title>
+    <desc lang="en">In Tucson, a grandfather is shot after answering a knock at his front door.</desc>
+    <date>2008</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622021700 +0000" stop="20260622030700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Heartless</sub-title>
+    <desc lang="en">The murder of a mother and her children sends Doucette on the hunt for a suspect.</desc>
+    <date>2014</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S15 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622030700 +0000" stop="20260622040000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Heart of Gold / Last Breath</sub-title>
+    <desc lang="en">A 33-year-old woman collapses in the street after being stabbed multiple times.</desc>
+    <date>2009</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S8 E23</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622040000 +0000" stop="20260622044900 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Missing</sub-title>
+    <desc lang="en">Deputy Mario Quintanilla's team is investigating a mysterious disappearance.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622044900 +0000" stop="20260622054000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Last Stop: Paradise/Bad Blood</sub-title>
+    <desc lang="en">A migrant worker is robbed and beaten to death.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S14 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622054000 +0000" stop="20260622063100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Into the Graveyard</sub-title>
+    <desc lang="en">Miami family shattered; 2 brothers killed; friends lead detectives to gunmen.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622063100 +0000" stop="20260622072400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">In Harm's Way / Jealous Rage</sub-title>
+    <desc lang="en">Craig Clopton investigate the murder of man killed by a single gunshot.</desc>
+    <date>2010</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622072400 +0000" stop="20260622081700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">In Cold Blood / Red Handed</sub-title>
+    <desc lang="en">In Tucson, a grandfather is shot after answering a knock at his front door.</desc>
+    <date>2008</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622081700 +0000" stop="20260622090700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Heartless</sub-title>
+    <desc lang="en">The murder of a mother and her children sends Doucette on the hunt for a suspect.</desc>
+    <date>2014</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S15 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622090700 +0000" stop="20260622100000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Heart of Gold / Last Breath</sub-title>
+    <desc lang="en">A 33-year-old woman collapses in the street after being stabbed multiple times.</desc>
+    <date>2009</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S8 E23</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622100000 +0000" stop="20260622104900 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Missing</sub-title>
+    <desc lang="en">Deputy Mario Quintanilla's team is investigating a mysterious disappearance.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622104900 +0000" stop="20260622114000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Last Stop: Paradise/Bad Blood</sub-title>
+    <desc lang="en">A migrant worker is robbed and beaten to death.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S14 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622114000 +0000" stop="20260622123100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Into the Graveyard</sub-title>
+    <desc lang="en">Miami family shattered; 2 brothers killed; friends lead detectives to gunmen.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622123100 +0000" stop="20260622132400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">In Harm's Way / Jealous Rage</sub-title>
+    <desc lang="en">Craig Clopton investigate the murder of man killed by a single gunshot.</desc>
+    <date>2010</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622132400 +0000" stop="20260622141700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">In Cold Blood / Red Handed</sub-title>
+    <desc lang="en">In Tucson, a grandfather is shot after answering a knock at his front door.</desc>
+    <date>2008</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622141700 +0000" stop="20260622150700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Heartless</sub-title>
+    <desc lang="en">The murder of a mother and her children sends Doucette on the hunt for a suspect.</desc>
+    <date>2014</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S15 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622150700 +0000" stop="20260622160000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Heart of Gold / Last Breath</sub-title>
+    <desc lang="en">A 33-year-old woman collapses in the street after being stabbed multiple times.</desc>
+    <date>2009</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S8 E23</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622160000 +0000" stop="20260622164900 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Missing</sub-title>
+    <desc lang="en">Deputy Mario Quintanilla's team is investigating a mysterious disappearance.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622164900 +0000" stop="20260622174000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Last Stop: Paradise/Bad Blood</sub-title>
+    <desc lang="en">A migrant worker is robbed and beaten to death.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S14 E3</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622174000 +0000" stop="20260622183100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Into the Graveyard</sub-title>
+    <desc lang="en">Miami family shattered; 2 brothers killed; friends lead detectives to gunmen.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622183100 +0000" stop="20260622192400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">In Harm's Way / Jealous Rage</sub-title>
+    <desc lang="en">Craig Clopton investigate the murder of man killed by a single gunshot.</desc>
+    <date>2010</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622192400 +0000" stop="20260622201700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">In Cold Blood / Red Handed</sub-title>
+    <desc lang="en">In Tucson, a grandfather is shot after answering a knock at his front door.</desc>
+    <date>2008</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622201700 +0000" stop="20260622210700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Heartless</sub-title>
+    <desc lang="en">The murder of a mother and her children sends Doucette on the hunt for a suspect.</desc>
+    <date>2014</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S15 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622210700 +0000" stop="20260622220000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Heart of Gold / Last Breath</sub-title>
+    <desc lang="en">A 33-year-old woman collapses in the street after being stabbed multiple times.</desc>
+    <date>2009</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S8 E23</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622220000 +0000" stop="20260622225100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Final Investment / Writing on the Wall</sub-title>
+    <desc lang="en">Memphis investor killed; child saw. Miami vagrant slain; MS-13 linked.</desc>
+    <date>2007</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622225100 +0000" stop="20260622234300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fighting Words/ Signs of Violence</sub-title>
+    <desc lang="en">Father murdered in Dallas; detectives rely on neighbors for leads.</desc>
+    <date>2014</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S15 E90</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260622234300 +0000" stop="20260623003400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fallen / Texas Burning</sub-title>
+    <desc lang="en">In Miami, a young man's body is found next to a high-rise.</desc>
+    <date>2005</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623003400 +0000" stop="20260623012600 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Endless Love And Out of Time</sub-title>
+    <desc lang="en">In Tulsa, an act of vengeance leaves an elderly woman beaten and stabbed to death.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623012600 +0000" stop="20260623021700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Downstream Drifter / Murder In Room 162</sub-title>
+    <desc lang="en">Det. Tim Angell and his partners find a nameless man floating in a creek.</desc>
+    <date>2005</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623021700 +0000" stop="20260623030900 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Devil In Me And Trail Of Blood</sub-title>
+    <desc lang="en">An escalating argument ends with one man dead and the other in danger.</desc>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623030900 +0000" stop="20260623040000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Deadly Ride/Wrong Place, Wrong Time</sub-title>
+    <desc lang="en">Cleveland man's shooting prompts manhunt; Miami murder witnesses silent.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E17</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623040000 +0000" stop="20260623045100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Final Investment / Writing on the Wall</sub-title>
+    <desc lang="en">Memphis investor killed; child saw. Miami vagrant slain; MS-13 linked.</desc>
+    <date>2007</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623045100 +0000" stop="20260623054300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fighting Words/ Signs of Violence</sub-title>
+    <desc lang="en">Father murdered in Dallas; detectives rely on neighbors for leads.</desc>
+    <date>2014</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S15 E90</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623054300 +0000" stop="20260623063400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fallen / Texas Burning</sub-title>
+    <desc lang="en">In Miami, a young man's body is found next to a high-rise.</desc>
+    <date>2005</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623063400 +0000" stop="20260623072600 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Endless Love And Out of Time</sub-title>
+    <desc lang="en">In Tulsa, an act of vengeance leaves an elderly woman beaten and stabbed to death.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623072600 +0000" stop="20260623081700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Downstream Drifter / Murder In Room 162</sub-title>
+    <desc lang="en">Det. Tim Angell and his partners find a nameless man floating in a creek.</desc>
+    <date>2005</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623081700 +0000" stop="20260623090900 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Devil In Me And Trail Of Blood</sub-title>
+    <desc lang="en">An escalating argument ends with one man dead and the other in danger.</desc>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623090900 +0000" stop="20260623100000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Deadly Ride/Wrong Place, Wrong Time</sub-title>
+    <desc lang="en">Cleveland man's shooting prompts manhunt; Miami murder witnesses silent.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E17</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623100000 +0000" stop="20260623105100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Final Investment / Writing on the Wall</sub-title>
+    <desc lang="en">Memphis investor killed; child saw. Miami vagrant slain; MS-13 linked.</desc>
+    <date>2007</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623105100 +0000" stop="20260623114300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fighting Words/ Signs of Violence</sub-title>
+    <desc lang="en">Father murdered in Dallas; detectives rely on neighbors for leads.</desc>
+    <date>2014</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S15 E90</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623114300 +0000" stop="20260623123400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fallen / Texas Burning</sub-title>
+    <desc lang="en">In Miami, a young man's body is found next to a high-rise.</desc>
+    <date>2005</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623123400 +0000" stop="20260623132600 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Endless Love And Out of Time</sub-title>
+    <desc lang="en">In Tulsa, an act of vengeance leaves an elderly woman beaten and stabbed to death.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623132600 +0000" stop="20260623141700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Downstream Drifter / Murder In Room 162</sub-title>
+    <desc lang="en">Det. Tim Angell and his partners find a nameless man floating in a creek.</desc>
+    <date>2005</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623141700 +0000" stop="20260623150900 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Devil In Me And Trail Of Blood</sub-title>
+    <desc lang="en">An escalating argument ends with one man dead and the other in danger.</desc>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623150900 +0000" stop="20260623160000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Deadly Ride/Wrong Place, Wrong Time</sub-title>
+    <desc lang="en">Cleveland man's shooting prompts manhunt; Miami murder witnesses silent.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E17</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623160000 +0000" stop="20260623165100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Final Investment / Writing on the Wall</sub-title>
+    <desc lang="en">Memphis investor killed; child saw. Miami vagrant slain; MS-13 linked.</desc>
+    <date>2007</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623165100 +0000" stop="20260623174300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fighting Words/ Signs of Violence</sub-title>
+    <desc lang="en">Father murdered in Dallas; detectives rely on neighbors for leads.</desc>
+    <date>2014</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S15 E90</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623174300 +0000" stop="20260623183400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fallen / Texas Burning</sub-title>
+    <desc lang="en">In Miami, a young man's body is found next to a high-rise.</desc>
+    <date>2005</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623183400 +0000" stop="20260623192600 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Endless Love And Out of Time</sub-title>
+    <desc lang="en">In Tulsa, an act of vengeance leaves an elderly woman beaten and stabbed to death.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E5</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623192600 +0000" stop="20260623201700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Downstream Drifter / Murder In Room 162</sub-title>
+    <desc lang="en">Det. Tim Angell and his partners find a nameless man floating in a creek.</desc>
+    <date>2005</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623201700 +0000" stop="20260623210900 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Devil In Me And Trail Of Blood</sub-title>
+    <desc lang="en">An escalating argument ends with one man dead and the other in danger.</desc>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E7</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623210900 +0000" stop="20260623220000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Deadly Ride/Wrong Place, Wrong Time</sub-title>
+    <desc lang="en">Cleveland man's shooting prompts manhunt; Miami murder witnesses silent.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E17</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623220000 +0000" stop="20260623225100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Coma / Disappeared</sub-title>
+    <desc lang="en">In Dallas, two teenaged boys are shot outside a nightclub.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S7 E18</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623225100 +0000" stop="20260623234300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Close Ties / Last Call</sub-title>
+    <desc lang="en">Phoenix Detective probes bloody scene; Memphis Sergeants chase clue.</desc>
+    <date>2006</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260623234300 +0000" stop="20260624003200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Caught in the Middle</sub-title>
+    <desc lang="en">Miami men found beaten, shot behind abandoned house; Det. Cepero investigates.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S11 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624003200 +0000" stop="20260624012400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">In Mobile, a 68-year-old woman goes missing after checking into a casino.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S20 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624012400 +0000" stop="20260624021700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bullets Have No Names</sub-title>
+    <desc lang="en">A retired pre-school teacher is slain by a stray bullet.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S18 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624021700 +0000" stop="20260624031000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Blood Trail / 50G Murder</sub-title>
+    <desc lang="en">Woman stabbed in Memphis; elderly man shot in Dallas.</desc>
+    <date>2007</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624031000 +0000" stop="20260624040000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Best Laid Plans / Burned Alive</sub-title>
+    <desc lang="en">Cleveland teen's murder implicates friends; Harris County woman ablaze.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S13 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624040000 +0000" stop="20260624045100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Coma / Disappeared</sub-title>
+    <desc lang="en">In Dallas, two teenaged boys are shot outside a nightclub.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S7 E18</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624045100 +0000" stop="20260624054300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Close Ties / Last Call</sub-title>
+    <desc lang="en">Phoenix Detective probes bloody scene; Memphis Sergeants chase clue.</desc>
+    <date>2006</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624054300 +0000" stop="20260624063200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Caught in the Middle</sub-title>
+    <desc lang="en">Miami men found beaten, shot behind abandoned house; Det. Cepero investigates.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S11 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624063200 +0000" stop="20260624072400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">In Mobile, a 68-year-old woman goes missing after checking into a casino.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S20 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624072400 +0000" stop="20260624081700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bullets Have No Names</sub-title>
+    <desc lang="en">A retired pre-school teacher is slain by a stray bullet.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S18 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624081700 +0000" stop="20260624091000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Blood Trail / 50G Murder</sub-title>
+    <desc lang="en">Woman stabbed in Memphis; elderly man shot in Dallas.</desc>
+    <date>2007</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624091000 +0000" stop="20260624100000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Best Laid Plans / Burned Alive</sub-title>
+    <desc lang="en">Cleveland teen's murder implicates friends; Harris County woman ablaze.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S13 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624100000 +0000" stop="20260624105100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Coma / Disappeared</sub-title>
+    <desc lang="en">In Dallas, two teenaged boys are shot outside a nightclub.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S7 E18</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624105100 +0000" stop="20260624114300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Close Ties / Last Call</sub-title>
+    <desc lang="en">Phoenix Detective probes bloody scene; Memphis Sergeants chase clue.</desc>
+    <date>2006</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624114300 +0000" stop="20260624123200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Caught in the Middle</sub-title>
+    <desc lang="en">Miami men found beaten, shot behind abandoned house; Det. Cepero investigates.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S11 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624123200 +0000" stop="20260624132400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">In Mobile, a 68-year-old woman goes missing after checking into a casino.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S20 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624132400 +0000" stop="20260624141700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bullets Have No Names</sub-title>
+    <desc lang="en">A retired pre-school teacher is slain by a stray bullet.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S18 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624141700 +0000" stop="20260624151000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Blood Trail / 50G Murder</sub-title>
+    <desc lang="en">Woman stabbed in Memphis; elderly man shot in Dallas.</desc>
+    <date>2007</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624151000 +0000" stop="20260624160000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Best Laid Plans / Burned Alive</sub-title>
+    <desc lang="en">Cleveland teen's murder implicates friends; Harris County woman ablaze.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S13 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624160000 +0000" stop="20260624165100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Coma / Disappeared</sub-title>
+    <desc lang="en">In Dallas, two teenaged boys are shot outside a nightclub.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S7 E18</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624165100 +0000" stop="20260624174300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Close Ties / Last Call</sub-title>
+    <desc lang="en">Phoenix Detective probes bloody scene; Memphis Sergeants chase clue.</desc>
+    <date>2006</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624174300 +0000" stop="20260624183200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Caught in the Middle</sub-title>
+    <desc lang="en">Miami men found beaten, shot behind abandoned house; Det. Cepero investigates.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S11 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624183200 +0000" stop="20260624192400 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Buried Secrets</sub-title>
+    <desc lang="en">In Mobile, a 68-year-old woman goes missing after checking into a casino.</desc>
+    <date>2019</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S20 E6</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624192400 +0000" stop="20260624201700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bullets Have No Names</sub-title>
+    <desc lang="en">A retired pre-school teacher is slain by a stray bullet.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S18 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624201700 +0000" stop="20260624211000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Blood Trail / 50G Murder</sub-title>
+    <desc lang="en">Woman stabbed in Memphis; elderly man shot in Dallas.</desc>
+    <date>2007</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624211000 +0000" stop="20260624220000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Best Laid Plans / Burned Alive</sub-title>
+    <desc lang="en">Cleveland teen's murder implicates friends; Harris County woman ablaze.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S13 E16</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624220000 +0000" stop="20260624225200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Reputation / Deadly Party</sub-title>
+    <desc lang="en">Cleveland mom's murder paralyzes neighborhood; detectives pursue suspect.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S14 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624225200 +0000" stop="20260624234700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Lick And Red Dawn</sub-title>
+    <desc lang="en">Sgt. Dave Walker questions local youths who tried to break into a victim's house.</desc>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E20</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260624234700 +0000" stop="20260625004000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Company</sub-title>
+    <desc lang="en">Detective Jimmy Vaccaro and his team are called out at midnight.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S10 E22</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625004000 +0000" stop="20260625005300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Final Shift</sub-title>
+    <desc lang="en">A young man is found shot in his driveway.</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S17 E2007</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625005300 +0000" stop="20260625010700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">Deadly Games</title>
+    <desc lang="en">In New Orleans, a man is found shot dead in his own bedroom.</desc>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <icon src="https://ingest-assets.wurl.com/426564/132189218-1.jpeg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625012000 +0000" stop="20260625021200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Unarmed / Bad Feeling</sub-title>
+    <desc lang="en">In Miami, an unarmed man is gunned down in the parking lot of a popular bar.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625021200 +0000" stop="20260625030500 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">The Slip / Pure Victim</sub-title>
+    <desc lang="en">In Detroit, Sgt. Ernest Wilson and his team investigate the double-homicide.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S10 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625030500 +0000" stop="20260625040000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fatal Showdown / Deadly Text</sub-title>
+    <desc lang="en">In Tulsa, a man is gunned down in broad daylight.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S18 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625040000 +0000" stop="20260625045200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Reputation / Deadly Party</sub-title>
+    <desc lang="en">Cleveland mom's murder paralyzes neighborhood; detectives pursue suspect.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S14 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625045200 +0000" stop="20260625054700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Lick And Red Dawn</sub-title>
+    <desc lang="en">Sgt. Dave Walker questions local youths who tried to break into a victim's house.</desc>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E20</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625054700 +0000" stop="20260625064000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Company</sub-title>
+    <desc lang="en">Detective Jimmy Vaccaro and his team are called out at midnight.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S10 E22</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625064000 +0000" stop="20260625065300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Final Shift</sub-title>
+    <desc lang="en">A young man is found shot in his driveway.</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S17 E2007</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625065300 +0000" stop="20260625070700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">Deadly Games</title>
+    <desc lang="en">In New Orleans, a man is found shot dead in his own bedroom.</desc>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <icon src="https://ingest-assets.wurl.com/426564/132189218-1.jpeg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625072000 +0000" stop="20260625081200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Unarmed / Bad Feeling</sub-title>
+    <desc lang="en">In Miami, an unarmed man is gunned down in the parking lot of a popular bar.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625081200 +0000" stop="20260625090500 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">The Slip / Pure Victim</sub-title>
+    <desc lang="en">In Detroit, Sgt. Ernest Wilson and his team investigate the double-homicide.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S10 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625090500 +0000" stop="20260625100000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fatal Showdown / Deadly Text</sub-title>
+    <desc lang="en">In Tulsa, a man is gunned down in broad daylight.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S18 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625100000 +0000" stop="20260625105200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Reputation / Deadly Party</sub-title>
+    <desc lang="en">Cleveland mom's murder paralyzes neighborhood; detectives pursue suspect.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S14 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625105200 +0000" stop="20260625114700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Lick And Red Dawn</sub-title>
+    <desc lang="en">Sgt. Dave Walker questions local youths who tried to break into a victim's house.</desc>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E20</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625114700 +0000" stop="20260625124000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Company</sub-title>
+    <desc lang="en">Detective Jimmy Vaccaro and his team are called out at midnight.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S10 E22</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625124000 +0000" stop="20260625125300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Final Shift</sub-title>
+    <desc lang="en">A young man is found shot in his driveway.</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S17 E2007</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625125300 +0000" stop="20260625130700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">Deadly Games</title>
+    <desc lang="en">In New Orleans, a man is found shot dead in his own bedroom.</desc>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <icon src="https://ingest-assets.wurl.com/426564/132189218-1.jpeg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625132000 +0000" stop="20260625141200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Unarmed / Bad Feeling</sub-title>
+    <desc lang="en">In Miami, an unarmed man is gunned down in the parking lot of a popular bar.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625141200 +0000" stop="20260625150500 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">The Slip / Pure Victim</sub-title>
+    <desc lang="en">In Detroit, Sgt. Ernest Wilson and his team investigate the double-homicide.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S10 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625150500 +0000" stop="20260625160000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fatal Showdown / Deadly Text</sub-title>
+    <desc lang="en">In Tulsa, a man is gunned down in broad daylight.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S18 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625160000 +0000" stop="20260625165200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Reputation / Deadly Party</sub-title>
+    <desc lang="en">Cleveland mom's murder paralyzes neighborhood; detectives pursue suspect.</desc>
+    <date>2013</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S14 E2</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625165200 +0000" stop="20260625174700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Lick And Red Dawn</sub-title>
+    <desc lang="en">Sgt. Dave Walker questions local youths who tried to break into a victim's house.</desc>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S19 E20</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625174700 +0000" stop="20260625184000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Bad Company</sub-title>
+    <desc lang="en">Detective Jimmy Vaccaro and his team are called out at midnight.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S10 E22</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625184000 +0000" stop="20260625185300 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Final Shift</sub-title>
+    <desc lang="en">A young man is found shot in his driveway.</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S17 E2007</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625185300 +0000" stop="20260625190700 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">Deadly Games</title>
+    <desc lang="en">In New Orleans, a man is found shot dead in his own bedroom.</desc>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <icon src="https://ingest-assets.wurl.com/426564/132189218-1.jpeg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625192000 +0000" stop="20260625201200 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Unarmed / Bad Feeling</sub-title>
+    <desc lang="en">In Miami, an unarmed man is gunned down in the parking lot of a popular bar.</desc>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S12 E9</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625201200 +0000" stop="20260625210500 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">The Slip / Pure Victim</sub-title>
+    <desc lang="en">In Detroit, Sgt. Ernest Wilson and his team investigate the double-homicide.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S10 E14</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625210500 +0000" stop="20260625220000 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Fatal Showdown / Deadly Text</sub-title>
+    <desc lang="en">In Tulsa, a man is gunned down in broad daylight.</desc>
+    <date>2017</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S18 E15</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625220000 +0000" stop="20260625225100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Sudden Death / Devil at the Door</sub-title>
+    <desc lang="en">In New Orleans, a man is executed in broad daylight.</desc>
+    <date>2016</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S17 E28</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625225100 +0000" stop="20260625234100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Street Law / Standing Up</sub-title>
+    <desc lang="en">Det. Ruggiero probes drive-by shooting; Det. Downs seeks justice for teen victim.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S10 E18</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260625234100 +0000" stop="20260626003100 +0000" channel="plex.tv.The.First.48.by.A&amp;E.plex">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Stolen Lives / Family Bonds</sub-title>
+    <desc lang="en">Miami detective probes street murder, suspects vigilante; shots fired in Georgia.</desc>
+    <date>2011</date>
+    <category lang="en">Crime</category>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/552b55042f094f55d14e9a2dbc9ec4bd.jpg" />
+    <episode-num system="onscreen">S11 E8</episode-num>
+    <rating system="US">
+      <value>TV-14</value>
+    </rating>
+  </programme>
   <programme start="20260622000900 +0000" stop="20260622010100 +0000" channel="plex.tv.TV.One.Crime.&amp;.Justice.plex">
     <title lang="en">For My Man</title>
     <sub-title lang="en">For My Man - Bloodshed and Betrayal</sub-title>
@@ -273091,204 +274481,6 @@
     <category>Drama</category>
     <category>Series</category>
   </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622140000 +0000" stop="20260622143000 +0000">
-    <title>Couples Court With the Cutlers</title>
-    <live/>
-    <episode-num system="original-air-date">20260622140000 +0000</episode-num>
-    <desc>A man suspects his wife is cheating with a mystery man after finding muddy footprints in their home, and the court enlists a polygraph expert to settle the cheating accusations.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c78d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3aff97d01001331c78d</series-id>
-    <sub-title>Coates vs. Coates</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622143000 +0000" stop="20260622150000 +0000">
-    <title>Lauren Lake's Paternity Court</title>
-    <live/>
-    <episode-num system="original-air-date">20260622143000 +0000</episode-num>
-    <desc>A mess hits the courtroom when three men are implicated in the paternity of one child.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
-    <sub-title>Brown vs. Washington</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622150000 +0000" stop="20260622153000 +0000">
-    <title>Lauren Lake's Paternity Court</title>
-    <live/>
-    <episode-num system="original-air-date">20260622150000 +0000</episode-num>
-    <desc>A weekend fling may have produced a love child 36 years ago; a woman from South Carolina confronts the man who abandoned her three decades ago.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
-    <sub-title>Wilson vs. Doughty</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622153000 +0000" stop="20260622160000 +0000">
-    <title>Lauren Lake's Paternity Court</title>
-    <live/>
-    <episode-num system="original-air-date">20260622153000 +0000</episode-num>
-    <desc>A mess hits the courtroom when three men are implicated in the paternity of one child.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
-    <sub-title>Brown vs. Washington</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622160000 +0000" stop="20260622163000 +0000">
-    <title>Family Feud Favorites</title>
-    <live/>
-    <episode-num system="original-air-date">20260622160000 +0000</episode-num>
-    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
-    <icon src="https://images.pluto.tv/series/68c8da358eef10068f9326dc/tile_1764389239396.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">68c8da358eef10068f9326dc</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622163000 +0000" stop="20260622170000 +0000">
-    <title>Family Feud Favorites</title>
-    <live/>
-    <episode-num system="original-air-date">20260622163000 +0000</episode-num>
-    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
-    <icon src="https://images.pluto.tv/series/68c8da358eef10068f9326dc/tile_1764389239396.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">68c8da358eef10068f9326dc</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622170000 +0000" stop="20260622180000 +0000">
-    <title>In the Heat of the Night</title>
-    <live/>
-    <episode-num system="original-air-date">20260622170000 +0000</episode-num>
-    <desc>Chief Gillespie refuses to point out the obvious suspect in the murder of Councilwoman DeLong's sister.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c8b1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c8b1</series-id>
-    <sub-title>Citizen Trundel</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622180000 +0000" stop="20260622190000 +0000">
-    <title>In the Heat of the Night</title>
-    <live/>
-    <episode-num system="original-air-date">20260622180000 +0000</episode-num>
-    <desc>Councilwoman DeLong ventures outside Sparta to find the powerful figure responsible for her sister's murder.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c8b1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c8b1</series-id>
-    <sub-title>Citizen Trundel</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622190000 +0000" stop="20260622200000 +0000">
-    <title>In the Heat of the Night</title>
-    <live/>
-    <episode-num system="original-air-date">20260622190000 +0000</episode-num>
-    <desc>While in Philadelphia to investigate a former partner's death, Virgil (Howard Rollins) is arrested for the murder of a city cop.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c8b1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c8b1</series-id>
-    <sub-title>Brotherly Love</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622200000 +0000" stop="20260622223000 +0000">
-    <title>Nobody's Fool</title>
-    <live/>
-    <episode-num system="original-air-date">20260622200000 +0000</episode-num>
-    <desc>Wild child Tanya looks to her buttoned-up, by-the-book sister Danica to help her get back on her feet. As these polar opposites collide, Tanya soon discovers that Danica's picture-perfect life and boyfriend may not be what they seem.</desc>
-    <icon src="https://images.pluto.tv/series/6a0952794a77e2cd1544e73b/tile_1778995833952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">6a0952794a77e2cd1544e73b</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622223000 +0000" stop="20260622230000 +0000">
-    <title>The Tracy Morgan Show</title>
-    <live/>
-    <episode-num system="original-air-date">20260622223000 +0000</episode-num>
-    <desc>Tracy has second thoughts about asking Spoon to move next door when he becomes too involved with the family; Derek and Jimmy learn the art of pugilism.</desc>
-    <icon src="https://images.pluto.tv/series/64910f80c5ae350013492413/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">64910f80c5ae350013492413</series-id>
-    <sub-title>Spoon Moves In</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622230000 +0000" stop="20260622233000 +0000">
-    <title>The Tracy Morgan Show</title>
-    <live/>
-    <episode-num system="original-air-date">20260622230000 +0000</episode-num>
-    <desc>Alicia takes Derrick to a barber, despite Tracy's tradition of cutting the kids' hair himself; Bernard tries to use the garage's new tow truck to pick up women.</desc>
-    <icon src="https://images.pluto.tv/series/64910f80c5ae350013492413/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">64910f80c5ae350013492413</series-id>
-    <sub-title>Haircut Night</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622233000 +0000" stop="20260623000000 +0000">
-    <title>The Tracy Morgan Show</title>
-    <live/>
-    <episode-num system="original-air-date">20260622233000 +0000</episode-num>
-    <desc>Tracy Mitchell deals with life as a family man and the owner of an auto-repair shop; Derrick's teacher says he lacks social skills at a parent-teacher conference.</desc>
-    <icon src="https://images.pluto.tv/series/64910f80c5ae350013492413/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">64910f80c5ae350013492413</series-id>
-    <sub-title>The Pilot</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260623000000 +0000" stop="20260623003000 +0000">
-    <title>The Tracy Morgan Show</title>
-    <live/>
-    <episode-num system="original-air-date">20260623000000 +0000</episode-num>
-    <desc>Jimmy causes a scene when his mother takes him to the doctor's for a routine physical; Tracy reveals his own fear of going to the doctor.</desc>
-    <icon src="https://images.pluto.tv/series/64910f80c5ae350013492413/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">64910f80c5ae350013492413</series-id>
-    <sub-title>Doctor? No!</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260623003000 +0000" stop="20260623030000 +0000">
-    <title>Big Mommas: Like Father, Like Son</title>
-    <live/>
-    <episode-num system="original-air-date">20260623003000 +0000</episode-num>
-    <desc>Malcolm Turner and his stepson go undercover at a girls' school of the performing arts to flush out a killer.</desc>
-    <icon src="https://images.pluto.tv/series/6a1edb16f667431af646b0f0/tile_1780407062977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">6a1edb16f667431af646b0f0</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260623030000 +0000" stop="20260623050000 +0000">
-    <title>Taxi</title>
-    <live/>
-    <episode-num system="original-air-date">20260623030000 +0000</episode-num>
-    <desc>A bumbling policeman enlists the help of a skillful cab driver to chase Brazilian bank robbers through New York City.</desc>
-    <icon src="https://images.pluto.tv/series/67d4f4745c4a51b28b070207/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">67d4f4745c4a51b28b070207</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260623050000 +0000" stop="20260623073000 +0000">
-    <title>On the Come Up</title>
-    <live/>
-    <episode-num system="original-air-date">20260623050000 +0000</episode-num>
-    <desc>When her first hit song goes viral for all the wrong reasons, a 16-year-old rapper finds herself torn between the authenticity that got her this far and the false persona that the industry wants to impose on her.</desc>
-    <icon src="https://images.pluto.tv/series/6a11268fdee9a631d0a51fc0/tile_1779508880563.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">6a11268fdee9a631d0a51fc0</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6549337183595c000815ad05" start="20260622135300 +0000" stop="20260622144500 +0000">
     <title>Murder, She Wrote</title>
     <live/>
@@ -276510,204 +277702,6 @@
     <sub-title>For The Love Of God</sub-title>
     <category>Crime</category>
     <category>Drama</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622140000 +0000" stop="20260622143000 +0000">
-    <title>Couples Court With the Cutlers</title>
-    <live/>
-    <episode-num system="original-air-date">20260622140000 +0000</episode-num>
-    <desc>A man suspects his wife is cheating with a mystery man after finding muddy footprints in their home, and the court enlists a polygraph expert to settle the cheating accusations.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c78d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3aff97d01001331c78d</series-id>
-    <sub-title>Coates vs. Coates</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622143000 +0000" stop="20260622150000 +0000">
-    <title>Lauren Lake's Paternity Court</title>
-    <live/>
-    <episode-num system="original-air-date">20260622143000 +0000</episode-num>
-    <desc>A mess hits the courtroom when three men are implicated in the paternity of one child.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
-    <sub-title>Brown vs. Washington</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622150000 +0000" stop="20260622153000 +0000">
-    <title>Lauren Lake's Paternity Court</title>
-    <live/>
-    <episode-num system="original-air-date">20260622150000 +0000</episode-num>
-    <desc>A weekend fling may have produced a love child 36 years ago; a woman from South Carolina confronts the man who abandoned her three decades ago.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
-    <sub-title>Wilson vs. Doughty</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622153000 +0000" stop="20260622160000 +0000">
-    <title>Lauren Lake's Paternity Court</title>
-    <live/>
-    <episode-num system="original-air-date">20260622153000 +0000</episode-num>
-    <desc>A mess hits the courtroom when three men are implicated in the paternity of one child.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
-    <sub-title>Brown vs. Washington</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622160000 +0000" stop="20260622163000 +0000">
-    <title>Family Feud Favorites</title>
-    <live/>
-    <episode-num system="original-air-date">20260622160000 +0000</episode-num>
-    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
-    <icon src="https://images.pluto.tv/series/68c8da358eef10068f9326dc/tile_1764389239396.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">68c8da358eef10068f9326dc</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622163000 +0000" stop="20260622170000 +0000">
-    <title>Family Feud Favorites</title>
-    <live/>
-    <episode-num system="original-air-date">20260622163000 +0000</episode-num>
-    <desc>"Family Feud" has seen some crazy moments over the years, so buckle up as we revisit these fan favorites.</desc>
-    <icon src="https://images.pluto.tv/series/68c8da358eef10068f9326dc/tile_1764389239396.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">68c8da358eef10068f9326dc</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622170000 +0000" stop="20260622180000 +0000">
-    <title>In the Heat of the Night</title>
-    <live/>
-    <episode-num system="original-air-date">20260622170000 +0000</episode-num>
-    <desc>Chief Gillespie refuses to point out the obvious suspect in the murder of Councilwoman DeLong's sister.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c8b1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c8b1</series-id>
-    <sub-title>Citizen Trundel</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622180000 +0000" stop="20260622190000 +0000">
-    <title>In the Heat of the Night</title>
-    <live/>
-    <episode-num system="original-air-date">20260622180000 +0000</episode-num>
-    <desc>Councilwoman DeLong ventures outside Sparta to find the powerful figure responsible for her sister's murder.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c8b1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c8b1</series-id>
-    <sub-title>Citizen Trundel</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622190000 +0000" stop="20260622200000 +0000">
-    <title>In the Heat of the Night</title>
-    <live/>
-    <episode-num system="original-air-date">20260622190000 +0000</episode-num>
-    <desc>While in Philadelphia to investigate a former partner's death, Virgil (Howard Rollins) is arrested for the murder of a city cop.</desc>
-    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c8b1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">63d7a3b0f97d01001331c8b1</series-id>
-    <sub-title>Brotherly Love</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622200000 +0000" stop="20260622223000 +0000">
-    <title>Nobody's Fool</title>
-    <live/>
-    <episode-num system="original-air-date">20260622200000 +0000</episode-num>
-    <desc>Wild child Tanya looks to her buttoned-up, by-the-book sister Danica to help her get back on her feet. As these polar opposites collide, Tanya soon discovers that Danica's picture-perfect life and boyfriend may not be what they seem.</desc>
-    <icon src="https://images.pluto.tv/series/6a0952794a77e2cd1544e73b/tile_1778995833952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">6a0952794a77e2cd1544e73b</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622223000 +0000" stop="20260622230000 +0000">
-    <title>The Tracy Morgan Show</title>
-    <live/>
-    <episode-num system="original-air-date">20260622223000 +0000</episode-num>
-    <desc>Tracy has second thoughts about asking Spoon to move next door when he becomes too involved with the family; Derek and Jimmy learn the art of pugilism.</desc>
-    <icon src="https://images.pluto.tv/series/64910f80c5ae350013492413/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">64910f80c5ae350013492413</series-id>
-    <sub-title>Spoon Moves In</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622230000 +0000" stop="20260622233000 +0000">
-    <title>The Tracy Morgan Show</title>
-    <live/>
-    <episode-num system="original-air-date">20260622230000 +0000</episode-num>
-    <desc>Alicia takes Derrick to a barber, despite Tracy's tradition of cutting the kids' hair himself; Bernard tries to use the garage's new tow truck to pick up women.</desc>
-    <icon src="https://images.pluto.tv/series/64910f80c5ae350013492413/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">64910f80c5ae350013492413</series-id>
-    <sub-title>Haircut Night</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260622233000 +0000" stop="20260623000000 +0000">
-    <title>The Tracy Morgan Show</title>
-    <live/>
-    <episode-num system="original-air-date">20260622233000 +0000</episode-num>
-    <desc>Tracy Mitchell deals with life as a family man and the owner of an auto-repair shop; Derrick's teacher says he lacks social skills at a parent-teacher conference.</desc>
-    <icon src="https://images.pluto.tv/series/64910f80c5ae350013492413/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">64910f80c5ae350013492413</series-id>
-    <sub-title>The Pilot</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260623000000 +0000" stop="20260623003000 +0000">
-    <title>The Tracy Morgan Show</title>
-    <live/>
-    <episode-num system="original-air-date">20260623000000 +0000</episode-num>
-    <desc>Jimmy causes a scene when his mother takes him to the doctor's for a routine physical; Tracy reveals his own fear of going to the doctor.</desc>
-    <icon src="https://images.pluto.tv/series/64910f80c5ae350013492413/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">64910f80c5ae350013492413</series-id>
-    <sub-title>Doctor? No!</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260623003000 +0000" stop="20260623030000 +0000">
-    <title>Big Mommas: Like Father, Like Son</title>
-    <live/>
-    <episode-num system="original-air-date">20260623003000 +0000</episode-num>
-    <desc>Malcolm Turner and his stepson go undercover at a girls' school of the performing arts to flush out a killer.</desc>
-    <icon src="https://images.pluto.tv/series/6a1edb16f667431af646b0f0/tile_1780407062977.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">6a1edb16f667431af646b0f0</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260623030000 +0000" stop="20260623050000 +0000">
-    <title>Taxi</title>
-    <live/>
-    <episode-num system="original-air-date">20260623030000 +0000</episode-num>
-    <desc>A bumbling policeman enlists the help of a skillful cab driver to chase Brazilian bank robbers through New York City.</desc>
-    <icon src="https://images.pluto.tv/series/67d4f4745c4a51b28b070207/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">67d4f4745c4a51b28b070207</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6176fd25e83a5f0007a464c9" start="20260623050000 +0000" stop="20260623073000 +0000">
-    <title>On the Come Up</title>
-    <live/>
-    <episode-num system="original-air-date">20260623050000 +0000</episode-num>
-    <desc>When her first hit song goes viral for all the wrong reasons, a 16-year-old rapper finds herself torn between the authenticity that got her this far and the false persona that the industry wants to impose on her.</desc>
-    <icon src="https://images.pluto.tv/series/6a11268fdee9a631d0a51fc0/tile_1779508880563.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-    <date>19700101</date>
-    <series-id system="pluto">6a11268fdee9a631d0a51fc0</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
   </programme>
   <programme channel="6549337183595c000815ad05" start="20260622135300 +0000" stop="20260622144500 +0000">
@@ -281651,24 +282645,6 @@
     <category>Series</category>
     <category>Science fiction</category>
   </programme>
-  <programme channel="US1800014CG" start="20260622151300 +0000" stop="20260622154000 +0000">
-    <title>Alfred Hitchcock Presents</title>
-    <sub-title>Crack of Doom</sub-title>
-    <desc>A man (Robert Horton) stakes his job, home and life savings on the turn of a card. With Robert Middleton.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_542932905_5_20240607T062439210Z_134.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US1800014CG" start="20260622154000 +0000" stop="20260622160800 +0000">
-    <title>Alfred Hitchcock Presents</title>
-    <sub-title>Jonathan</sub-title>
-    <desc>A young man is overcome with grief when he learns of his father's demise and accuses his new mother of the crime.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_542932905_5_20240607T062439210Z_134.jpeg"/>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme channel="US1800014CG" start="20260622160800 +0000" stop="20260622163500 +0000">
     <title>Alfred Hitchcock Presents</title>
     <sub-title>Better Bargain</sub-title>
@@ -281773,6 +282749,23 @@
     <sub-title>End of Indian Summer</sub-title>
     <desc>An insurance investigator (Steve Forrest) goes undercover to check out a widow (Gladys Cooper) suspected of murdering two husbands.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_542932905_5_20240607T062439210Z_134.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US1800014CG" start="20260622214000 +0000" stop="20260622220700 +0000">
+    <title>Alfred Hitchcock Presents</title>
+    <sub-title>One for the Road</sub-title>
+    <desc>A wife (Louise Platt) suspects her husband (John Baragrey) of cheating on her and decides to do something about it. With Georgann Johnson.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_542932905_5_20240607T062439210Z_134.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US1800014CG" start="20260622220700 +0000" stop="20260622230100 +0000">
+    <title>Alfred Hitchcock Hour: Bed of Roses</title>
+    <desc>Everything's coming up roses for newlyweds (Patrick O'Neal, Kathie Brown) using the garden as a graveyard for blackmailers.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1249688923_0_20250430T203620812Z_71_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg"/>
     <rating>
       <value>TV-PG</value>
     </rating>
