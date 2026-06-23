@@ -5,6 +5,8 @@ http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15905.m3u8
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC National Feed" tvg-logo="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" group-title="",ABC
 http://stream.cammonitorplus.net/1809/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC (WABC 7) New York" tvg-logo="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&h=270" group-title="",ABC (WABC 7) New York
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuJIfprpatuIR__akYsM3xA/m3u8
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://wikimedia.org" group-title="",ABC News Live
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 #EXTINF:-1 tvg-id="US1800014CG" tvg-name="Alfred Hitchcock Presents" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png" group-title="",Alfred Hitchcock Presents
@@ -35,7 +37,7 @@ https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&h=270" group-title="",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
+#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&h=270" group-title="",BUZZR
 https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
@@ -149,12 +151,14 @@ http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV HD" tvg-logo="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&h=270" group-title="",NBA TV
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NBC Washington" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/21231/s28717_ll_h15_ad.png" group-title="",NBC 1
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NBC (WNBC 4) New York" tvg-logo="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&h=270" group-title="",NBC (WNBC 4) New York
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIps7B-ZZXKR5Xu9pX4GqQn5W/m3u8
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NBC News Daily" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/21231/s28717_ll_h15_ad.png" group-title="",NBC News Daily
 http://stream.cammonitorplus.net/1812/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KSNF-DT.us_locals1" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/21231/s28717_ll_h15_ad.png" group-title="",NBC 2
-http://stream.cammonitorplus.net/1820/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="plex.tv.NBC.News.NOW.plex" tvg-logo="https://wikimedia.org" group-title="",NBC News NOW
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+#EXTINF:-1 tvg-id="WPXI-DT.us_locals1" tvg-name="WPXI NBC Pittsburgh" tvg-logo="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&h=270" group-title="",NBC Pittsburgh
+http://stream.cammonitorplus.net/1820/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.Now.us2" tvg-name="NBC Sports NOW" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" group-title="",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&h=270" group-title="",NFL Network
