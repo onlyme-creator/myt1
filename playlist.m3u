@@ -35,7 +35,7 @@ https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&h=270" group-title="",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
+#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&h=270" group-title="",BUZZR
 https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
@@ -81,10 +81,10 @@ http://41.223.30.230/ESPN2/tracks-v1a1/mono.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2581.m3u8
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&h=270" group-title="",ESPNU
 http://23.237.104.106:8080/USA_ESPNU/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="US - Fox 32 Chicago" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png" group-title="",Fox 1
-http://stream.cammonitorplus.net/1833/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KTBC-DT.us_locals1" tvg-name="US - Fox 32 Chicago" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png" group-title="",Fox 2
+#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="Fox 32 Chicago" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png" group-title="",Fox 32 Chicago
 http://stream.cammonitorplus.net/1752/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KTBC-DT.us_locals1" tvg-name="Fox 7 Austin" tvg-logo="https://zpmc.tmsimg.com/h3/NowShowing/20361/s28719_ll_h15_ac.png" group-title="",Fox 7 Austin
+http://stream.cammonitorplus.net/1833/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform HD" tvg-logo="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&h=270" group-title="",Freeform
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.m3u8
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 HD" tvg-logo="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&h=270" group-title="",FS1
