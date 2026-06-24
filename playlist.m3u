@@ -37,7 +37,7 @@ https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&h=270" group-title="",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
+#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&h=270" group-title="",BUZZR
 https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
@@ -101,8 +101,12 @@ http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.m3u8
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX HD" tvg-logo="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&h=270" group-title="",FXX
 http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network HD" tvg-logo="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&h=270" group-title="",Game Show Central
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central" tvg-logo="https://image.tmdb.org/t/p/original/4X2GkudfjFM3LbC5ghMZuRHhH87.jpg" group-title="",Game Show Central
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&h=270" group-title="",Game Show Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network 2" tvg-logo="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&h=270" group-title="",Game Show Network 2
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuiD6SB40_qGHJo44Q_qh-5/m3u8
 #EXTINF:-1 tvg-id="get.us2" tvg-name="get" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&h=270" group-title="",getTV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.m3u8
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002FEPTV.png_dark_360w_270h.png" group-title="",Grit TV
@@ -121,6 +125,8 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.m3u8
 http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex" tvg-name="In The Heat of The Night" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5124527a-f21e-4f9a-b43a-6275fbf1aae3/ITHOTN_logo_dark_-_Carl_HoffelderRDX.png" group-title="",In The Heat of The Night
 https://7b058334279b4a5b9b574cd126987c03.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1070-INTHEHEATOFTHENIGHT-TCLTV/b9da658a-19c3-4715-94c7-848350d9860b/0.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="Investigation Discovery" tvg-logo="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&h=270" group-title="",Investigation Discovery
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsir_S5ZU32WyMothKzwEQP/m3u8
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television HD" tvg-logo="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&h=270" group-title="",ION Television
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US_6.m3u8
 #EXTINF:-1 tvg-id="68758038552299d2b08162e3" tvg-name="Law and Order" tvg-logo="http://dtil.tmsimg.com/assets/s10589_ll_h15_aa.png?w=360&h=270" group-title="",Law and Order
@@ -131,6 +137,8 @@ https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
 http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5d51ddf0369acdb278dfb05e" tvg-name="Love and Hip Hop" tvg-logo="" group-title="",Love and Hip Hop
 https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
+#EXTINF:-1 tvg-id="63da365f60bc8f0008a50f44" tvg-name="Matlock" tvg-logo="" group-title="",Matlock
+https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 #EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="MeTV" tvg-logo="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&h=270" group-title="",MeTV
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-logo="https://wikimedia.org" group-title="",MeTV Toons
@@ -181,6 +189,8 @@ http://23.237.104.106:8080/USA_REVOLT/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_SHOWTIME/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&h=270" group-title="",Showtime Extreme
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.m3u8
+#EXTINF:-1 tvg-id="693bf37b75432d022c85ef01" tvg-name="Stargate" tvg-logo="" group-title="",Stargate
+https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz HD" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&h=270" group-title="",Starz
 http://23.237.104.106:8080/USA_STARZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Stories.by.AMC.us2" tvg-name="Stories by AMC" tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png" group-title="",Stories by AMC
@@ -213,6 +223,8 @@ https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.noepg" tvg-name="Tom and Jerry" tvg-logo="" group-title="",Tom and Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="63da36dea995710008727d4d" tvg-name="Transformers TV" tvg-logo="" group-title="",Transformers TV
+https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV HD" tvg-logo="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&h=270" group-title="",truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&h=270" group-title="",TV Land
@@ -227,6 +239,8 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15905.m3u8
 #EXTINF:-1 tvg-id="CBS (WTVR) Richmond, VA HD.us" tvg-name="CBS 6 Richmond" tvg-logo="http://dtil.tmsimg.com/assets/s28711_h3_ba.png?w=360&h=270" group-title="",CBS 6 Richmond
 https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS (WTVR) Richmond, VA HD.us" tvg-name="CBS 6 Richmond" tvg-logo="http://dtil.tmsimg.com/assets/s28711_h3_ba.png?w=360&h=270" group-title="",CBS 6 Richmond
+https://s1host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config1/cafd493a-e585-4929-9943-7475b810c111/2.m3u8
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 HD" tvg-logo="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&h=270" group-title="",VH1
 http://23.237.104.106:8080/USA_VH1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Vice.us2" tvg-name="Vice HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="",Vice TV
