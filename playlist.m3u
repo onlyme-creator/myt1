@@ -19,7 +19,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/84de2ab8-f7af-479d-b1d5-64bedb52f43a/5.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet HD" tvg-logo="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&h=270" group-title="",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Antenna TV.us" tvg-name="Antenna TV" tvg-logo="" group-title="",Antenna TV
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV" tvg-logo="" group-title="",Antenna TV
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvhTLEiLdkh7DWwfqfV4taf/m3u8
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America HD" tvg-logo="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&h=270" group-title="",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
@@ -41,7 +41,7 @@ https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&h=270" group-title="",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
+#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/60451a3c-98d8-4343-aa72-7122ac5eb46d/4.m3u8
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&h=270" group-title="",BUZZR
 https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
