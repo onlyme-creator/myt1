@@ -10,7 +10,7 @@ https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuJIfprpatuIR_
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-logo="https://wikimedia.org" group-title="",ABC News Live
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 #EXTINF:-1 tvg-id="US1800014CG" tvg-name="Alfred Hitchcock Presents" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png" group-title="",Alfred Hitchcock Presents
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b885d021-1d5b-4f28-a251-6f68cfd25321/5.m3u8
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=NBCUAlfredHitchcockPresents&ads.csid=tcl2_us_nbcualfredhitchcockpresents_ssai&ads.genre=Horror%252CSci-Fi&ads.xumo_channelId=88814618&ads.xumo_channelName=NBCUAlfredHitchcockPresents&ads.xumo_contentId=3937&ads.xumo_contentName=NBCUAlfredHitchcockPresents&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3937&ads.xumo_providerName=NBCUAlfredHitchcockPresents&ads.xumo_streamId=88814618&declaredCC1Language=en&includeAssetTags=true
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC HD" tvg-logo="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&h=270" group-title="",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.AMC.Thrillers.plex" tvg-name="AMC Thrillers" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="",AMC Thrillers
@@ -41,7 +41,7 @@ https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&h=270" group-title="",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
+#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
 https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d1427a992c/playlist.m3u8
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&h=270" group-title="",BUZZR
 https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
@@ -184,7 +184,7 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="plex.tv.PBS.Nature.plex" tvg-name="PBS Nature" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0bbdc4ce-bd60-418c-9c1d-7bf29b98ca14/NATURE_White-BlueRDX.png" group-title="",PBS Nature
 https://d2irko5f9gt1c5.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-publica/2b91a450-e8c4-43bc-a359-925072abe289/4.m3u8
 #EXTINF:-1 channel-id="65f83bbbf7a2eb952b798c96300bb329" tvg-id="plex.tv.Pink.Panther.plex" tvg-chno="" tvg-name="" tvg-logo="" group-title="",Pink Panther
-https://aka-live1050.delivery.roku.com/a3ed0622-94e5-44eb-9b2e-a05cab802563/t2-origin/out/v1/live.m3u8
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6876f76054325376973fd314.m3u8?X-Plex-Token=4JSWZ5ZtDqHixEGH4zJM
 #EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-name="Pink Panther" tvg-logo="" group-title="",Pink Panther
 https://aka-live1050.delivery.roku.com/a3ed0622-94e5-44eb-9b2e-a05cab802563/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="677fafd91da79bfe4fb0b4ec" tvg-name="Quantum Leap" tvg-logo="" group-title="",Quantum Leap
@@ -218,7 +218,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-id="62e91563ce7ce300076f917e" tvg-name="The Love Boat" tvg-logo="" group-title="",The Love Boat
 https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8
 #EXTINF:-1 tvg-id="plex.tv.The.Outer.Limits.plex" tvg-name="The Outer Limits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2373afb-f4c2-4e2d-b61a-5b1abd8e8110/OuterLimits_logo_dark_-_Carl_HoffeldeWHITErRDX.png" group-title="",The Outer Limits
-https://49477bf91d3c44a898b82f099b033948.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1145-THEROUTERLIMITS-TCLTV/4d481029-ca21-4ecf-bcd8-6c16962ff6a7/4.m3u8
+https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=CSID&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.us_privacy=1YN-
 #EXTINF:-1 tvg-id="6512ec9f3a0d700008db4f0c" tvg-name="The Twilight Zone" tvg-logo="" group-title="",The Twilight Zone
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 #EXTINF:-1 tvg-id="678aa104680721c77c506746" tvg-name="The Walking Dead by AMC" tvg-logo="" group-title="",The Walking Dead by AMC
@@ -243,6 +243,8 @@ https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.m3u8
 #EXTINF:-1 tvg-id="plex.tv.TV.One.Crime.&amp;.Justice.plex" tvg-name="TV One Crime & Justice" tvg-logo="https://metadata-static.plex.tv/c/gracenote/c86dcd14ce2663642d7f49dfc39e75cc.jpg" group-title="",TV One Crime and Justice
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/d1ad3cb2-ee74-4ce0-b318-b730232b9de8/0.m3u8
+#EXTINF:-1 tvg-id="plex.tv.TVOne.Stars.&amp;.Stories.plex" tvg-name="TVOne Stars and Stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4cf58929-b686-480f-a2d2-f3ae9fee74b1/tvone_Image_PLEX_VERTICAL.jpg" group-title="",TVOne Stars and Stories
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69271fa57faaeed71b910ac2.m3u8?X-Plex-Token=4JSWZ5ZtDqHixEGH4zJM
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network East HD" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58452_dark_360w_270h.png" group-title="",USA Network East HD
 http://kstv.us:8080/live/Kh2fHxR0c8/3333726709/15905.m3u8
 #EXTINF:-1 tvg-id="CBS (WTVR) Richmond, VA HD.us" tvg-name="CBS 6 Richmond" tvg-logo="http://dtil.tmsimg.com/assets/s28711_h3_ba.png?w=360&h=270" group-title="",CBS 6 Richmond
