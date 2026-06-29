@@ -79,7 +79,7 @@ http://23.237.104.106:8080/USA_E/tracks-v1a1/mono.m3u8
 https://jmp2.uk/plu-6675c713fc3a46000863dde7.m3u8
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" group-title="",ESPN
 http://41.205.93.154/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" group-title="",ESPN
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" group-title="",ESPN Alt
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3725.m3u8
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 HD" tvg-logo="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&h=270" group-title="",ESPN2
 http://41.223.30.230/ESPN2/tracks-v1a1/mono.m3u8
