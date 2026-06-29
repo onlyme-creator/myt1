@@ -1,40 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
-  <channel id="63da36dea995710008727d4d">
-    <display-name>Transformers</display-name>
-    <icon src="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png"/>
-  </channel>
-  <channel id="Discovery.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Discovery Channel HD</display-name>
-  </channel>
-  <channel id="History.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">History HD</display-name>
-  </channel>
-  <channel id="TNT.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TNT HD</display-name>
-  </channel>
-  <channel id="US1800014CG">
-    <display-name>Alfred Hitchcock Presents</display-name>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
-  </channel>
-  <channel id="USA.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">USA Network HD</display-name>
-  </channel>
-  <channel id="WFLD-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WFLD-DT</display-name>
+  <channel id="5d51ddf0369acdb278dfb05e">
+    <display-name>Love &amp; Hip Hop</display-name>
+    <icon src="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png"/>
   </channel>
   <channel id="plex.tv.Ancient.Aliens.plex">
     <display-name lang="en">Ancient Aliens</display-name>
@@ -42,84 +10,15 @@
     <icon src="https://image.tmdb.org/t/p/original/6X2hftdC8y78SKMSgfzeUItqaVq.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <channel id="654933ac986ad20008a1f406">
-    <display-name>Little House on the Prairie</display-name>
-    <icon src="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png"/>
-  </channel>
-  <channel id="TBS.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TBS HD</display-name>
-  </channel>
   <channel id="6549337183595c000815ad05">
     <display-name>Murder, She Wrote</display-name>
     <icon src="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png"/>
   </channel>
-  <channel id="get.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+  <channel id="FX.Movie.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">get</display-name>
-  </channel>
-  <channel id="Starz.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz HD</display-name>
-  </channel>
-  <channel id="Stories.by.AMC.us2">
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
-    <url>http://www.xumo.com</url>
-    <display-name lang="en">Stories by AMC</display-name>
-  </channel>
-  <channel id="plex.tv.AMC.Thrillers.plex">
-    <display-name lang="en">AMC Thrillers</display-name>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/abdb9328dd86c95ecba32f1570ed4a75.jpg" />
-    <icon src="https://metadata-static.plex.tv/a/gracenote/abdb9328dd86c95ecba32f1570ed4a75.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="62e9145ec07f2a00070e68dc">
-    <display-name>The Andy Griffith Show</display-name>
-    <icon src="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png"/>
-  </channel>
-  <channel id="5c5c2b9d8002db3c3e0b1c6d">
-    <display-name>Pluto TV Retro Toons</display-name>
-    <icon src="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png"/>
-  </channel>
-  <channel id="Comet.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comet</display-name>
-  </channel>
-  <channel id="MTV.-.Music.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MTV - Music Television HD</display-name>
-  </channel>
-  <channel id="Revolt.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Revolt HD</display-name>
-  </channel>
-  <channel id="Syfy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Syfy HD</display-name>
-  </channel>
-  <channel id="CBS (WTVR) Richmond, VA HD.us"><display-name>CBS (WTVR) Richmond, VA HD.us</display-name></channel>
-  <channel id="666b265722acab000885c6aa">
-    <display-name>BET x Tyler Perry Comedy</display-name>
-    <icon src="https://images.pluto.tv/channels/666b265722acab000885c6aa/colorLogoPNG.png"/>
-  </channel>
-  <channel id="ESPN2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN2 HD</display-name>
+    <display-name lang="en">FX Movie Channel HD</display-name>
   </channel>
   <channel id="HBO.Comedy.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
@@ -127,39 +26,23 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">HBO Comedy HD</display-name>
   </channel>
-  <channel id="ReelzChannel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ReelzChannel HD</display-name>
-  </channel>
-  <channel id="677fafd91da79bfe4fb0b4ec">
-    <display-name>Quantum Leap</display-name>
-    <icon src="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/colorLogoPNG_1770397003859.png"/>
-  </channel>
-  <channel id="HBO2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO2 HD</display-name>
-  </channel>
-  <channel id="plex.tv.NBC.News.NOW.plex">
-    <display-name lang="en">NBC News NOW</display-name>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg" />
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg" />
+  <channel id="plex.tv.Pink.Panther.plex">
+    <display-name lang="en">Pink Panther</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/4B2WKgIY1uNov3zLAgSeNIk5G0W.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/4B2WKgIY1uNov3zLAgSeNIk5G0W.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <channel id="Game.Show.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="MTV.-.Music.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60964_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Game Show Network HD</display-name>
+    <display-name lang="en">MTV - Music Television HD</display-name>
   </channel>
-  <channel id="CNN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="WFLD-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CNN HD</display-name>
+    <display-name lang="en">WFLD-DT</display-name>
   </channel>
   <channel id="plex.tv.In.The.Heat.Of.The.Night.by.MGM.plex">
     <display-name lang="en">In The Heat Of The Night by MGM</display-name>
@@ -167,76 +50,21 @@
     <icon src="https://images.frequency.com/freq-img/0436a52c-7684-489d-abfc-d64cf2996059/InTheHeatOfTheNightByDutyBound2000x3000jpg.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <channel id="plex.tv.The.Outer.Limits.plex">
-    <display-name lang="en">The Outer Limits</display-name>
-    <icon src="https://images.frequency.com/freq-img/e73bf313-c7ff-4fb1-86d8-6a3d82cc9ca4/OuterLimits1963Series2000x3000jpg.jpg" />
-    <icon src="https://images.frequency.com/freq-img/e73bf313-c7ff-4fb1-86d8-6a3d82cc9ca4/OuterLimits1963Series2000x3000jpg.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="693bf37b75432d022c85ef01">
-    <display-name>Stargate</display-name>
-    <icon src="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png"/>
-  </channel>
-  <channel id="Showtime.Extreme.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Investigation.Discovery.HD.(Pacific).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Extreme HD</display-name>
+    <display-name lang="en">Investigation Discovery HD (Pacific)</display-name>
   </channel>
-  <channel id="FX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX HD</display-name>
-  </channel>
-  <channel id="WNBC-DT.us_locals1">
+  <channel id="WWBT-DT.us_locals1">
     <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WNBC-DT</display-name>
+    <display-name lang="en">WWBT-DT</display-name>
   </channel>
-  <channel id="ION.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ION Television HD</display-name>
-  </channel>
-  <channel id="Me.TV.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Me TV Network</display-name>
-  </channel>
-  <channel id="BET.Her.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BET Her</display-name>
-  </channel>
-  <channel id="Animal.Planet.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Animal Planet HD</display-name>
-  </channel>
-  <channel id="CBS.Streaming.SD.East.feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS Streaming SD East feed</display-name>
-  </channel>
-  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
-  <channel id="FS1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS1 HD</display-name>
-  </channel>
-  <channel id="ESPNU.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPNU HD</display-name>
+  <channel id="6675c713fc3a46000863dde7">
+    <display-name>Ebony TV Drama</display-name>
+    <icon src="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png"/>
   </channel>
   <channel id="plex.tv.OuterSphere.by.Lionsgate.plex">
     <display-name lang="en">OuterSphere by Lionsgate</display-name>
@@ -244,133 +72,29 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/22b7145b-08ae-4761-a94a-0baaea731e76/OuterSphere_2000X3000_Vertical_-_Chris_Connors.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <channel id="plex.tv.BET.x.Tyler.Perry.Drama.plex">
-    <display-name lang="en">BET x Tyler Perry Drama</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/9UtwdSXDkDMvqAdMJsbB8JLlBEH.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/9UtwdSXDkDMvqAdMJsbB8JLlBEH.jpg" />
+  <channel id="Boomerang.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Boomerang</display-name>
+  </channel>
+  <channel id="Comet.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comet</display-name>
+  </channel>
+  <channel id="plex.tv.NBC.News.NOW.plex">
+    <display-name lang="en">NBC News NOW</display-name>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg" />
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9d8afa2f4ad1e131fe022f1260171f3b.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <channel id="National.Geographic.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Bounce.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic HD</display-name>
-  </channel>
-  <channel id="6675c713fc3a46000863dde7">
-    <display-name>Ebony TV Drama</display-name>
-    <icon src="https://images.pluto.tv/channels/6675c713fc3a46000863dde7/colorLogoPNG.png"/>
-  </channel>
-  <channel id="BET.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BET HD</display-name>
-  </channel>
-  <channel id="FXX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FXX HD</display-name>
-  </channel>
-  <channel id="63da365f60bc8f0008a50f44">
-    <display-name>Matlock</display-name>
-    <icon src="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png"/>
-  </channel>
-  <channel id="ABC.News.Live.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s113380_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s113380_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ABC News Live</display-name>
-  </channel>
-  <channel id="BUZZR.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BUZZR Stream</display-name>
-  </channel>
-  <channel id="Fuse.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fuse HD</display-name>
-  </channel>
-  <channel id="WABC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WABC-DT</display-name>
-  </channel>
-  <channel id="62e9186f8b685d000773cf58">
-    <display-name>Taxi</display-name>
-    <icon src="https://images.pluto.tv/channels/62e9186f8b685d000773cf58/colorLogoPNG.png"/>
-  </channel>
-  <channel id="LMN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">LMN HD</display-name>
-  </channel>
-  <channel id="Hallmark.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Hallmark Channel HD</display-name>
-  </channel>
-  <channel id="VH1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">VH1 HD</display-name>
-  </channel>
-  <channel id="MSNBC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MSNBC HD</display-name>
-  </channel>
-  <channel id="CBS.News.National.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS News National Stream</display-name>
-  </channel>
-  <channel id="plex.tv.PBS.Nature.plex">
-    <display-name lang="en">PBS Nature</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/qRg5boKJdJhJKoGJdchVqPGQTEl.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/qRg5boKJdJhJKoGJdchVqPGQTEl.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="Grit.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Grit</display-name>
-  </channel>
-  <channel id="plex.tv.The.Walking.Dead.Universe.plex">
-    <display-name lang="en">The Walking Dead Universe</display-name>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b6144aa3e6e9b4ae3b9b32cd856ddfce.jpg" />
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b6144aa3e6e9b4ae3b9b32cd856ddfce.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="68e8fd7c3ede4398bc69af93">
-    <display-name>Dragon Ball Z</display-name>
-    <icon src="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1775550158845.png"/>
-  </channel>
-  <channel id="TV.ONE.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV ONE HD</display-name>
-  </channel>
-  <channel id="62e91563ce7ce300076f917e">
-    <display-name>The Love Boat</display-name>
-    <icon src="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png"/>
-  </channel>
-  <channel id="WPXI-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WPXI-DT</display-name>
+    <display-name lang="en">Bounce TV</display-name>
   </channel>
   <channel id="COZI.TV.us2">
     <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
@@ -378,64 +102,173 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">COZI TV</display-name>
   </channel>
+  <channel id="BET.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BET HD</display-name>
+  </channel>
+  <channel id="654933ac986ad20008a1f406">
+    <display-name>Little House on the Prairie</display-name>
+    <icon src="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png"/>
+  </channel>
+  <channel id="E!.Entertainment.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">E! Entertainment Television HD</display-name>
+  </channel>
   <channel id="MLB.Network.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">MLB Network HD</display-name>
   </channel>
-  <channel id="687ff00ff6bc08130f16ab81">
-    <display-name>Beyond the Gates</display-name>
-    <icon src="https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png"/>
-  </channel>
-  <channel id="68758038552299d2b08162e3">
-    <display-name>Law &amp; Order</display-name>
-    <icon src="https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png"/>
-  </channel>
-  <channel id="BBC.America.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="HLN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BBC America HD</display-name>
+    <display-name lang="en">HLN HD</display-name>
   </channel>
-  <channel id="KTBC-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="CBS.News.National.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">KTBC-DT</display-name>
+    <display-name lang="en">CBS News National Stream</display-name>
   </channel>
-  <channel id="6913e381b6bf26bb6e798c13">
-    <display-name>The X-Files</display-name>
-    <icon src="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png"/>
+  <channel id="plex.tv.AMC.Thrillers.plex">
+    <display-name lang="en">AMC Thrillers</display-name>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/abdb9328dd86c95ecba32f1570ed4a75.jpg" />
+    <icon src="https://metadata-static.plex.tv/a/gracenote/abdb9328dd86c95ecba32f1570ed4a75.jpg" />
+    <url>http://www.plex.tv</url>
   </channel>
-  <channel id="WE.tv.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="5c5c2b9d8002db3c3e0b1c6d">
+    <display-name>Pluto TV Retro Toons</display-name>
+    <icon src="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png"/>
+  </channel>
+  <channel id="Nicktoons.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WE tv HD</display-name>
+    <display-name lang="en">Nicktoons</display-name>
   </channel>
-  <channel id="HBO.West.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+  <channel id="MSNBC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO West</display-name>
+    <display-name lang="en">MSNBC HD</display-name>
   </channel>
-  <channel id="NBA.TV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="62e9145ec07f2a00070e68dc">
+    <display-name>The Andy Griffith Show</display-name>
+    <icon src="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png"/>
+  </channel>
+  <channel id="63da36dea995710008727d4d">
+    <display-name>Transformers</display-name>
+    <icon src="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png"/>
+  </channel>
+  <channel id="CBS (WTVR) Richmond, VA HD.us"><display-name>CBS (WTVR) Richmond, VA HD.us</display-name></channel>
+  <channel id="VH1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NBA TV HD</display-name>
+    <display-name lang="en">VH1 HD</display-name>
   </channel>
-  <channel id="truTV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Animal.Planet.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">truTV HD</display-name>
+    <display-name lang="en">Animal Planet HD</display-name>
   </channel>
-  <channel id="plex.tv.TVOne.Stars.&amp;.Stories.plex">
-    <display-name lang="en">TVOne Stars &amp; Stories</display-name>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/791eed012664001a7f2f5966fb03fcf4.jpg" />
-    <icon src="https://metadata-static.plex.tv/7/gracenote/791eed012664001a7f2f5966fb03fcf4.jpg" />
+  <channel id="WABC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WABC-DT</display-name>
+  </channel>
+  <channel id="FX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FX HD</display-name>
+  </channel>
+  <channel id="6512ec9f3a0d700008db4f0c">
+    <display-name>The Twilight Zone</display-name>
+    <icon src="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png"/>
+  </channel>
+  <channel id="693bf37b75432d022c85ef01">
+    <display-name>Stargate</display-name>
+    <icon src="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png"/>
+  </channel>
+  <channel id="TV.Land.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV Land HD</display-name>
+  </channel>
+  <channel id="get.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">get</display-name>
+  </channel>
+  <channel id="ABC.National.Feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ABC National Feed</display-name>
+  </channel>
+  <channel id="5c2d64ffbdf11b71587184b8">
+    <display-name>TV Land Sitcoms</display-name>
+    <icon src="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png"/>
+  </channel>
+  <channel id="62e91563ce7ce300076f917e">
+    <display-name>The Love Boat</display-name>
+    <icon src="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png"/>
+  </channel>
+  <channel id="Turner.Classic.Movies.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Turner Classic Movies HD</display-name>
+  </channel>
+  <channel id="CHARGE!.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CHARGE!</display-name>
+  </channel>
+  <channel id="CNN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CNN HD</display-name>
+  </channel>
+  <channel id="plex.tv.The.First.48.by.A&amp;E.plex">
+    <display-name lang="en">The First 48 by A&amp;E</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/i6bSut4XPepaJ5VC6oG303iGKQU.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/i6bSut4XPepaJ5VC6oG303iGKQU.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="666b265722acab000885c6aa">
+    <display-name>BET x Tyler Perry Comedy</display-name>
+    <icon src="https://images.pluto.tv/channels/666b265722acab000885c6aa/colorLogoPNG.png"/>
+  </channel>
+  <channel id="ION.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ION Television HD</display-name>
+  </channel>
+  <channel id="Antenna.TV.us2">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/70248-224D0.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/70248-224D0.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Antenna TV</display-name>
+  </channel>
+  <channel id="plex.tv.The.Walking.Dead.Universe.plex">
+    <display-name lang="en">The Walking Dead Universe</display-name>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b6144aa3e6e9b4ae3b9b32cd856ddfce.jpg" />
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b6144aa3e6e9b4ae3b9b32cd856ddfce.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
   <channel id="FS2.HD.us2">
@@ -444,17 +277,21 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">FS2 HD</display-name>
   </channel>
-  <channel id="Turner.Classic.Movies.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64312_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Turner Classic Movies HD</display-name>
+  <channel id="61325c4f982acd000723287e">
+    <display-name>Classic TV Crime Drama</display-name>
+    <icon src="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png"/>
   </channel>
-  <channel id="plex.tv.Game.Show.Central.plex">
-    <display-name lang="en">Game Show Central</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/sqrMP8JCjuGh8oxuwtGR0Yd3UVo.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/sqrMP8JCjuGh8oxuwtGR0Yd3UVo.jpg" />
-    <url>http://www.plex.tv</url>
+  <channel id="Game.Show.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Game Show Network HD</display-name>
+  </channel>
+  <channel id="KTBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">KTBC-DT</display-name>
   </channel>
   <channel id="Paramount+.with.Showtime.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" />
@@ -462,133 +299,39 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Paramount+ with Showtime HD</display-name>
   </channel>
-  <channel id="MeTV.Toons.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s159817_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s159817_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="National.Geographic.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MeTV Toons</display-name>
+    <display-name lang="en">National Geographic HD</display-name>
   </channel>
-  <channel id="Nicktoons.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="ESPN2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45507_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Nicktoons</display-name>
+    <display-name lang="en">ESPN2 HD</display-name>
   </channel>
-  <channel id="NBC.Sports.Now.us2">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">NBC Sports Now</display-name>
-  </channel>
-  <channel id="Court.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="HBO.West.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_h3_ba.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Court TV</display-name>
+    <display-name lang="en">HBO West</display-name>
   </channel>
-  <channel id="ESPN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="6913e381b6bf26bb6e798c13">
+    <display-name>The X-Files</display-name>
+    <icon src="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png"/>
+  </channel>
+  <channel id="TV.ONE.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN HD</display-name>
+    <display-name lang="en">TV ONE HD</display-name>
   </channel>
-  <channel id="HLN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64549_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Me.TV.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HLN HD</display-name>
-  </channel>
-  <channel id="CHARGE!.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102148_h3_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CHARGE!</display-name>
-  </channel>
-  <channel id="Bounce.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Bounce TV</display-name>
-  </channel>
-  <channel id="Boomerang.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21883_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Boomerang</display-name>
-  </channel>
-  <channel id="Cinemax.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax HD</display-name>
-  </channel>
-  <channel id="6512ec9f3a0d700008db4f0c">
-    <display-name>The Twilight Zone</display-name>
-    <icon src="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png"/>
-  </channel>
-  <channel id="FX.Movie.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FX Movie Channel HD</display-name>
-  </channel>
-  <channel id="5d51ddf0369acdb278dfb05e">
-    <display-name>Love &amp; Hip Hop</display-name>
-    <icon src="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png"/>
-  </channel>
-  <channel id="plex.tv.The.First.48.by.A&amp;E.plex">
-    <display-name lang="en">The First 48 by A&amp;E</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/i6bSut4XPepaJ5VC6oG303iGKQU.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/i6bSut4XPepaJ5VC6oG303iGKQU.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="Comedy.Central.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comedy Central HD</display-name>
-  </channel>
-  <channel id="TV.Land.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV Land HD</display-name>
-  </channel>
-  <channel id="NFL.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NFL Network HD</display-name>
-  </channel>
-  <channel id="plex.tv.Pink.Panther.plex">
-    <display-name lang="en">Pink Panther</display-name>
-    <icon src="https://image.tmdb.org/t/p/original/4B2WKgIY1uNov3zLAgSeNIk5G0W.jpg" />
-    <icon src="https://image.tmdb.org/t/p/original/4B2WKgIY1uNov3zLAgSeNIk5G0W.jpg" />
-    <url>http://www.plex.tv</url>
-  </channel>
-  <channel id="ABC.National.Feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ABC National Feed</display-name>
-  </channel>
-  <channel id="National.Geographic.Wild.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic Wild HD</display-name>
-  </channel>
-  <channel id="Disney.XD.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Disney XD HD</display-name>
-  </channel>
-  <channel id="A.and.E.HD.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">A and E HD East</display-name>
+    <display-name lang="en">Me TV Network</display-name>
   </channel>
   <channel id="Paramount.Network.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
@@ -596,53 +339,288 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Paramount Network HD</display-name>
   </channel>
-  <channel id="678aa104680721c77c506746">
-    <display-name>The Walking Dead by AMC</display-name>
-    <icon src="https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png"/>
-  </channel>
-  <channel id="Vice.us2">
+  <channel id="Disney.XD.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Vice</display-name>
+    <display-name lang="en">Disney XD HD</display-name>
   </channel>
-  <channel id="E!.Entertainment.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="WNBC-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">E! Entertainment Television HD</display-name>
+    <display-name lang="en">WNBC-DT</display-name>
   </channel>
-  <channel id="Investigation.Discovery.HD.(Pacific).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Investigation Discovery HD (Pacific)</display-name>
+  <channel id="US1800014CG">
+    <display-name>Alfred Hitchcock Presents</display-name>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800014CG_20260421T142108SQUARE.png"/>
   </channel>
-  <channel id="Antenna.TV.us2">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/70248-224D0.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/70248-224D0.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Antenna TV</display-name>
+  <channel id="68e8fd7c3ede4398bc69af93">
+    <display-name>Dragon Ball Z</display-name>
+    <icon src="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1775550158845.png"/>
   </channel>
   <channel id="5f7796e470510900070d4e3d">
     <display-name>Beverly Hillbillies</display-name>
     <icon src="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png"/>
   </channel>
+  <channel id="63da365f60bc8f0008a50f44">
+    <display-name>Matlock</display-name>
+    <icon src="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png"/>
+  </channel>
+  <channel id="FXX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FXX HD</display-name>
+  </channel>
+  <channel id="AMC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC HD</display-name>
+  </channel>
+  <channel id="Comedy.Central.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comedy Central HD</display-name>
+  </channel>
+  <channel id="Discovery.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Discovery Channel HD</display-name>
+  </channel>
+  <channel id="truTV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">truTV HD</display-name>
+  </channel>
+  <channel id="NFL.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NFL Network HD</display-name>
+  </channel>
+  <channel id="History.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">History HD</display-name>
+  </channel>
+  <channel id="Grit.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002FEPV8.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Grit</display-name>
+  </channel>
+  <channel id="ESPNU.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPNU HD</display-name>
+  </channel>
+  <channel id="BUZZR.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BUZZR Stream</display-name>
+  </channel>
+  <channel id="plex.tv.BET.x.Tyler.Perry.Drama.plex">
+    <display-name lang="en">BET x Tyler Perry Drama</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/9UtwdSXDkDMvqAdMJsbB8JLlBEH.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/9UtwdSXDkDMvqAdMJsbB8JLlBEH.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="Cinemax.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cinemax HD</display-name>
+  </channel>
+  <channel id="Revolt.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s83098_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Revolt HD</display-name>
+  </channel>
+  <channel id="USA.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">USA Network HD</display-name>
+  </channel>
+  <channel id="FS1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS1 HD</display-name>
+  </channel>
+  <channel id="MeTV.Toons.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s159817_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s159817_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MeTV Toons</display-name>
+  </channel>
+  <channel id="Hallmark.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Hallmark Channel HD</display-name>
+  </channel>
+  <channel id="Vice.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Vice</display-name>
+  </channel>
+  <channel id="NBA.TV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NBA TV HD</display-name>
+  </channel>
+  <channel id="plex.tv.PBS.Nature.plex">
+    <display-name lang="en">PBS Nature</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/qRg5boKJdJhJKoGJdchVqPGQTEl.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/qRg5boKJdJhJKoGJdchVqPGQTEl.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="TNT.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TNT HD</display-name>
+  </channel>
   <channel id="65e977a618036500082ec972">
     <display-name>Chappelle's Show</display-name>
     <icon src="https://images.pluto.tv/channels/65e977a618036500082ec972/colorLogoPNG.png"/>
   </channel>
-  <channel id="61325c4f982acd000723287e">
-    <display-name>Classic TV Crime Drama</display-name>
-    <icon src="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png"/>
-  </channel>
-  <channel id="WWBT-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+  <channel id="LMN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WWBT-DT</display-name>
+    <display-name lang="en">LMN HD</display-name>
   </channel>
-  <channel id="5c2d64ffbdf11b71587184b8">
-    <display-name>TV Land Sitcoms</display-name>
-    <icon src="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png"/>
+  <channel id="HBO2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO2 HD</display-name>
+  </channel>
+  <channel id="Starz.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz HD</display-name>
+  </channel>
+  <channel id="National.Geographic.Wild.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic Wild HD</display-name>
+  </channel>
+  <channel id="TBS.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TBS HD</display-name>
+  </channel>
+  <channel id="687ff00ff6bc08130f16ab81">
+    <display-name>Beyond the Gates</display-name>
+    <icon src="https://images.pluto.tv/channels/687ff00ff6bc08130f16ab81/colorLogoPNG_1755074273752.png"/>
+  </channel>
+  <channel id="A.and.E.HD.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">A and E HD East</display-name>
+  </channel>
+  <channel id="68758038552299d2b08162e3">
+    <display-name>Law &amp; Order</display-name>
+    <icon src="https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png"/>
+  </channel>
+  <channel id="Court.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Court TV</display-name>
+  </channel>
+  <channel id="Showtime.Extreme.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Extreme HD</display-name>
+  </channel>
+  <channel id="BET.Her.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s14897_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BET Her</display-name>
+  </channel>
+  <channel id="WE.tv.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59296_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WE tv HD</display-name>
+  </channel>
+  <channel id="Freeform.us"><display-name>Freeform.us</display-name></channel>
+  <channel id="plex.tv.TVOne.Stars.&amp;.Stories.plex">
+    <display-name lang="en">TVOne Stars &amp; Stories</display-name>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/791eed012664001a7f2f5966fb03fcf4.jpg" />
+    <icon src="https://metadata-static.plex.tv/7/gracenote/791eed012664001a7f2f5966fb03fcf4.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="CBS.Streaming.SD.East.feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS Streaming SD East feed</display-name>
+  </channel>
+  <channel id="plex.tv.Game.Show.Central.plex">
+    <display-name lang="en">Game Show Central</display-name>
+    <icon src="https://image.tmdb.org/t/p/original/sqrMP8JCjuGh8oxuwtGR0Yd3UVo.jpg" />
+    <icon src="https://image.tmdb.org/t/p/original/sqrMP8JCjuGh8oxuwtGR0Yd3UVo.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+  <channel id="ReelzChannel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002HWGLE.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ReelzChannel HD</display-name>
+  </channel>
+  <channel id="Fuse.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Fuse HD</display-name>
+  </channel>
+  <channel id="678aa104680721c77c506746">
+    <display-name>The Walking Dead by AMC</display-name>
+    <icon src="https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png"/>
+  </channel>
+  <channel id="6176fd25e83a5f0007a464c9">
+    <display-name>Bounce XL</display-name>
+    <icon src="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png"/>
+  </channel>
+  <channel id="Syfy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Syfy HD</display-name>
+  </channel>
+  <channel id="Stories.by.AMC.us2">
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <icon src="https://image.xumo.com/v1/channels/channel/99991622/56x56.webp?type=color_onBlack" />
+    <url>http://www.xumo.com</url>
+    <display-name lang="en">Stories by AMC</display-name>
+  </channel>
+  <channel id="BBC.America.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BBC America HD</display-name>
+  </channel>
+  <channel id="plex.tv.The.Outer.Limits.plex">
+    <display-name lang="en">The Outer Limits</display-name>
+    <icon src="https://images.frequency.com/freq-img/e73bf313-c7ff-4fb1-86d8-6a3d82cc9ca4/OuterLimits1963Series2000x3000jpg.jpg" />
+    <icon src="https://images.frequency.com/freq-img/e73bf313-c7ff-4fb1-86d8-6a3d82cc9ca4/OuterLimits1963Series2000x3000jpg.jpg" />
+    <url>http://www.plex.tv</url>
   </channel>
   <channel id="plex.tv.TV.One.Crime.&amp;.Justice.plex">
     <display-name lang="en">TV One Crime &amp; Justice</display-name>
@@ -650,11 +628,37 @@
     <icon src="https://image.tmdb.org/t/p/original/r1ha0AxeL6QbTSCH2mE0rVQzwAY.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <channel id="AMC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="NBC.Sports.Now.us2">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s114140_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">NBC Sports Now</display-name>
+  </channel>
+  <channel id="62e9186f8b685d000773cf58">
+    <display-name>Taxi</display-name>
+    <icon src="https://images.pluto.tv/channels/62e9186f8b685d000773cf58/colorLogoPNG.png"/>
+  </channel>
+  <channel id="WPXI-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC HD</display-name>
+    <display-name lang="en">WPXI-DT</display-name>
+  </channel>
+  <channel id="ABC.News.Live.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s113380_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s113380_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ABC News Live</display-name>
+  </channel>
+  <channel id="677fafd91da79bfe4fb0b4ec">
+    <display-name>Quantum Leap</display-name>
+    <icon src="https://images.pluto.tv/channels/677fafd91da79bfe4fb0b4ec/colorLogoPNG_1770397003859.png"/>
+  </channel>
+  <channel id="ESPN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN HD</display-name>
   </channel>
 
   <programme channel="Investigation.Discovery.HD.(Pacific).us2" start="20260627050000 +0000" stop="20260627060000 +0000">
@@ -287127,6 +287131,206 @@
     <category>Crime</category>
     <category>Series</category>
   </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260628220000 +0000" stop="20260629003000 +0000">
+    <title>On the Come Up</title>
+    <live/>
+    <episode-num system="original-air-date">20260628220000 +0000</episode-num>
+    <desc>When her first hit song goes viral for all the wrong reasons, a 16-year-old rapper finds herself torn between the authenticity that got her this far and the false persona that the industry wants to impose on her.</desc>
+    <icon src="https://images.pluto.tv/series/6a11268fdee9a631d0a51fc0/tile_1779508880563.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">6a11268fdee9a631d0a51fc0</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629003000 +0000" stop="20260629023000 +0000">
+    <title>Shaft</title>
+    <live/>
+    <episode-num system="original-air-date">20260629003000 +0000</episode-num>
+    <desc>A detective (Samuel L. Jackson) and a narcotics cop (Vanessa L. Williams) track a sociopath out to kill a woman who can testify that he committed murder.</desc>
+    <icon src="https://images.pluto.tv/series/67d2ddece8cf6265423d7136/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">67d2ddece8cf6265423d7136</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629023000 +0000" stop="20260629043000 +0000">
+    <title>The Rundown</title>
+    <live/>
+    <episode-num system="original-air-date">20260629023000 +0000</episode-num>
+    <desc>Before his retirement, a bounty hunter (The Rock) must locate his boss' son (Seann William Scott), who is searching for a priceless artifact in the Amazon.</desc>
+    <icon src="https://images.pluto.tv/series/6a0a79db4c1064447f41ab5c/tile_1779071452621.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">6a0a79db4c1064447f41ab5c</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629043000 +0000" stop="20260629053000 +0000">
+    <title>Saints &amp; Sinners</title>
+    <live/>
+    <episode-num system="original-air-date">20260629043000 +0000</episode-num>
+    <desc>A glamorous awards ceremony threatens to shine a dangerous and deadly spotlight on the misdeeds of Cypress's finest.</desc>
+    <icon src="https://images.pluto.tv/series/65f65cd7ea323e00132c9d39/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">65f65cd7ea323e00132c9d39</series-id>
+    <sub-title>I Did It to Survive</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629053000 +0000" stop="20260629063000 +0000">
+    <title>Saints &amp; Sinners</title>
+    <live/>
+    <episode-num system="original-air-date">20260629053000 +0000</episode-num>
+    <desc>Ella faces a reckoning unlike she's ever seen.</desc>
+    <icon src="https://images.pluto.tv/series/65f65cd7ea323e00132c9d39/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">65f65cd7ea323e00132c9d39</series-id>
+    <sub-title>Deliver Us From Ella</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629063000 +0000" stop="20260629073000 +0000">
+    <title>Saints &amp; Sinners</title>
+    <live/>
+    <episode-num system="original-air-date">20260629063000 +0000</episode-num>
+    <desc>Everything is on the line as the citizens of Cypress fight to survive.</desc>
+    <icon src="https://images.pluto.tv/series/65f65cd7ea323e00132c9d39/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">65f65cd7ea323e00132c9d39</series-id>
+    <sub-title>My Soul to Take</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629073000 +0000" stop="20260629083000 +0000">
+    <title>Saints &amp; Sinners</title>
+    <live/>
+    <episode-num system="original-air-date">20260629073000 +0000</episode-num>
+    <desc>A new murder mystery is uncovered at Greater Hope Baptist Church; newly-elected Mayor Ella Johnson and the remaining power players in Cypress face corruption, courtrooms and scandal.</desc>
+    <icon src="https://images.pluto.tv/series/65f65cd7ea323e00132c9d39/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">65f65cd7ea323e00132c9d39</series-id>
+    <sub-title>Playing Dirty</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629083000 +0000" stop="20260629090000 +0000">
+    <title>Mann &amp; Wife</title>
+    <live/>
+    <episode-num system="original-air-date">20260629083000 +0000</episode-num>
+    <desc>Michael Hobbs falls in love with a woman and wants to move back to New York City with her; Terri doesn't feel that college is necessary to be successful.</desc>
+    <icon src="https://images.pluto.tv/series/63d49e2e5b790200142aa373/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d49e2e5b790200142aa373</series-id>
+    <sub-title>Empire State of Mann</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629090000 +0000" stop="20260629100000 +0000">
+    <title>Tamron Hall</title>
+    <live/>
+    <episode-num system="original-air-date">20260629090000 +0000</episode-num>
+    <desc>Sitcom legend Jackée Harry is back with the TamFam for a revealing conversation about her headline-making cosmetic transformation and her acclaimed career; her world-renowned cosmetic surgeon, Patrick Davis, joins us to answer questions.</desc>
+    <icon src="https://images.pluto.tv/series/63d7cf4b5957f20013172add/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7cf4b5957f20013172add</series-id>
+    <sub-title>Daytime Exclusive: Jackée Harry</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629100000 +0000" stop="20260629110000 +0000">
+    <title>The Jennifer Hudson Show</title>
+    <live/>
+    <episode-num system="original-air-date">20260629100000 +0000</episode-num>
+    <desc>Alfre Woodard (Apple TV show "The Last Frontier"); Jennifer welcomes 6-year-old piano prodigy "Alec Van," one of the youngest musicians to play at Carnegie Hall; how Shay Taylor from New Haven, Conn., went from janitor to doctor.</desc>
+    <icon src="https://images.pluto.tv/series/6503ddd44bcd330014cc6283/tile_1777014226244.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">6503ddd44bcd330014cc6283</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629110000 +0000" stop="20260629120000 +0000">
+    <title>Sherri</title>
+    <live/>
+    <episode-num system="original-air-date">20260629110000 +0000</episode-num>
+    <desc>Brie Larson and Courtney McBroom (cookbook "Party People"); exclusive online shopping deals from MorningSave.com.</desc>
+    <icon src="https://images.pluto.tv/series/63d7cf4b5957f20013172b0e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7cf4b5957f20013172b0e</series-id>
+    <sub-title>Brie Larson and Courtney McBroom</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629120000 +0000" stop="20260629130000 +0000">
+    <title>Karamo</title>
+    <live/>
+    <episode-num system="original-air-date">20260629120000 +0000</episode-num>
+    <desc>Octavia has been with John for more than a year, but she doesn't even know where he lives; why John is so secretive about his address, and what he is hiding; after 30 years, Tyrone believes he's tracked down the young woman who could be his daughter.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c709/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3aff97d01001331c709</series-id>
+    <sub-title>Unlock: In Love With My Delivery Driver?; Truth: I Spent 30 Years Looking for You</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629130000 +0000" stop="20260629133000 +0000">
+    <title>Couples Court With the Cutlers</title>
+    <live/>
+    <episode-num system="original-air-date">20260629130000 +0000</episode-num>
+    <desc>A woman suspects her boyfriend has a mistress after finding pineapple-flavored lip gloss and condoms.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c78d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3aff97d01001331c78d</series-id>
+    <sub-title>Spillman vs. Morris</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629133000 +0000" stop="20260629140000 +0000">
+    <title>Couples Court With the Cutlers</title>
+    <live/>
+    <episode-num system="original-air-date">20260629133000 +0000</episode-num>
+    <desc>A former military expert interrogator questions a woman being accused of cheating on her high-school sweetheart after he finds condoms and another man's underwear in their home.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c78d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3aff97d01001331c78d</series-id>
+    <sub-title>Dobbins vs. Aguilar</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629140000 +0000" stop="20260629143000 +0000">
+    <title>Couples Court With the Cutlers</title>
+    <live/>
+    <episode-num system="original-air-date">20260629140000 +0000</episode-num>
+    <desc>R &amp; B singer Q Parker weighs in on the effects of cheating for a couple on the verge of divorce after the wife finds nude photos of her husband's ex.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c78d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3aff97d01001331c78d</series-id>
+    <sub-title>Holland vs. Allen</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629143000 +0000" stop="20260629150000 +0000">
+    <title>Lauren Lake's Paternity Court</title>
+    <live/>
+    <episode-num system="original-air-date">20260629143000 +0000</episode-num>
+    <desc>A failed lie-detector test and an admission of cheating lead a man to believe that he is not the father of his girlfriend's 3-year-old son.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
+    <sub-title>Moody vs. Vaughn</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629150000 +0000" stop="20260629153000 +0000">
+    <title>Lauren Lake's Paternity Court</title>
+    <live/>
+    <episode-num system="original-air-date">20260629150000 +0000</episode-num>
+    <desc>A California man is ready to unmask his cheating wife and is certain that her 4-month-old child is not his.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
+    <sub-title>Broussard vs. Broussard</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
   <programme channel="6549337183595c000815ad05" start="20260628224100 +0000" stop="20260628233500 +0000">
     <title>Murder, She Wrote</title>
     <live/>
@@ -290346,6 +290550,206 @@
     <sub-title>Time to Kill</sub-title>
     <category>Drama</category>
     <category>Crime</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260628220000 +0000" stop="20260629003000 +0000">
+    <title>On the Come Up</title>
+    <live/>
+    <episode-num system="original-air-date">20260628220000 +0000</episode-num>
+    <desc>When her first hit song goes viral for all the wrong reasons, a 16-year-old rapper finds herself torn between the authenticity that got her this far and the false persona that the industry wants to impose on her.</desc>
+    <icon src="https://images.pluto.tv/series/6a11268fdee9a631d0a51fc0/tile_1779508880563.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">6a11268fdee9a631d0a51fc0</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629003000 +0000" stop="20260629023000 +0000">
+    <title>Shaft</title>
+    <live/>
+    <episode-num system="original-air-date">20260629003000 +0000</episode-num>
+    <desc>A detective (Samuel L. Jackson) and a narcotics cop (Vanessa L. Williams) track a sociopath out to kill a woman who can testify that he committed murder.</desc>
+    <icon src="https://images.pluto.tv/series/67d2ddece8cf6265423d7136/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">67d2ddece8cf6265423d7136</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629023000 +0000" stop="20260629043000 +0000">
+    <title>The Rundown</title>
+    <live/>
+    <episode-num system="original-air-date">20260629023000 +0000</episode-num>
+    <desc>Before his retirement, a bounty hunter (The Rock) must locate his boss' son (Seann William Scott), who is searching for a priceless artifact in the Amazon.</desc>
+    <icon src="https://images.pluto.tv/series/6a0a79db4c1064447f41ab5c/tile_1779071452621.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">6a0a79db4c1064447f41ab5c</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629043000 +0000" stop="20260629053000 +0000">
+    <title>Saints &amp; Sinners</title>
+    <live/>
+    <episode-num system="original-air-date">20260629043000 +0000</episode-num>
+    <desc>A glamorous awards ceremony threatens to shine a dangerous and deadly spotlight on the misdeeds of Cypress's finest.</desc>
+    <icon src="https://images.pluto.tv/series/65f65cd7ea323e00132c9d39/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">65f65cd7ea323e00132c9d39</series-id>
+    <sub-title>I Did It to Survive</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629053000 +0000" stop="20260629063000 +0000">
+    <title>Saints &amp; Sinners</title>
+    <live/>
+    <episode-num system="original-air-date">20260629053000 +0000</episode-num>
+    <desc>Ella faces a reckoning unlike she's ever seen.</desc>
+    <icon src="https://images.pluto.tv/series/65f65cd7ea323e00132c9d39/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">65f65cd7ea323e00132c9d39</series-id>
+    <sub-title>Deliver Us From Ella</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629063000 +0000" stop="20260629073000 +0000">
+    <title>Saints &amp; Sinners</title>
+    <live/>
+    <episode-num system="original-air-date">20260629063000 +0000</episode-num>
+    <desc>Everything is on the line as the citizens of Cypress fight to survive.</desc>
+    <icon src="https://images.pluto.tv/series/65f65cd7ea323e00132c9d39/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">65f65cd7ea323e00132c9d39</series-id>
+    <sub-title>My Soul to Take</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629073000 +0000" stop="20260629083000 +0000">
+    <title>Saints &amp; Sinners</title>
+    <live/>
+    <episode-num system="original-air-date">20260629073000 +0000</episode-num>
+    <desc>A new murder mystery is uncovered at Greater Hope Baptist Church; newly-elected Mayor Ella Johnson and the remaining power players in Cypress face corruption, courtrooms and scandal.</desc>
+    <icon src="https://images.pluto.tv/series/65f65cd7ea323e00132c9d39/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">65f65cd7ea323e00132c9d39</series-id>
+    <sub-title>Playing Dirty</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629083000 +0000" stop="20260629090000 +0000">
+    <title>Mann &amp; Wife</title>
+    <live/>
+    <episode-num system="original-air-date">20260629083000 +0000</episode-num>
+    <desc>Michael Hobbs falls in love with a woman and wants to move back to New York City with her; Terri doesn't feel that college is necessary to be successful.</desc>
+    <icon src="https://images.pluto.tv/series/63d49e2e5b790200142aa373/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d49e2e5b790200142aa373</series-id>
+    <sub-title>Empire State of Mann</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629090000 +0000" stop="20260629100000 +0000">
+    <title>Tamron Hall</title>
+    <live/>
+    <episode-num system="original-air-date">20260629090000 +0000</episode-num>
+    <desc>Sitcom legend Jackée Harry is back with the TamFam for a revealing conversation about her headline-making cosmetic transformation and her acclaimed career; her world-renowned cosmetic surgeon, Patrick Davis, joins us to answer questions.</desc>
+    <icon src="https://images.pluto.tv/series/63d7cf4b5957f20013172add/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7cf4b5957f20013172add</series-id>
+    <sub-title>Daytime Exclusive: Jackée Harry</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629100000 +0000" stop="20260629110000 +0000">
+    <title>The Jennifer Hudson Show</title>
+    <live/>
+    <episode-num system="original-air-date">20260629100000 +0000</episode-num>
+    <desc>Alfre Woodard (Apple TV show "The Last Frontier"); Jennifer welcomes 6-year-old piano prodigy "Alec Van," one of the youngest musicians to play at Carnegie Hall; how Shay Taylor from New Haven, Conn., went from janitor to doctor.</desc>
+    <icon src="https://images.pluto.tv/series/6503ddd44bcd330014cc6283/tile_1777014226244.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">6503ddd44bcd330014cc6283</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629110000 +0000" stop="20260629120000 +0000">
+    <title>Sherri</title>
+    <live/>
+    <episode-num system="original-air-date">20260629110000 +0000</episode-num>
+    <desc>Brie Larson and Courtney McBroom (cookbook "Party People"); exclusive online shopping deals from MorningSave.com.</desc>
+    <icon src="https://images.pluto.tv/series/63d7cf4b5957f20013172b0e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7cf4b5957f20013172b0e</series-id>
+    <sub-title>Brie Larson and Courtney McBroom</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629120000 +0000" stop="20260629130000 +0000">
+    <title>Karamo</title>
+    <live/>
+    <episode-num system="original-air-date">20260629120000 +0000</episode-num>
+    <desc>Octavia has been with John for more than a year, but she doesn't even know where he lives; why John is so secretive about his address, and what he is hiding; after 30 years, Tyrone believes he's tracked down the young woman who could be his daughter.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c709/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3aff97d01001331c709</series-id>
+    <sub-title>Unlock: In Love With My Delivery Driver?; Truth: I Spent 30 Years Looking for You</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629130000 +0000" stop="20260629133000 +0000">
+    <title>Couples Court With the Cutlers</title>
+    <live/>
+    <episode-num system="original-air-date">20260629130000 +0000</episode-num>
+    <desc>A woman suspects her boyfriend has a mistress after finding pineapple-flavored lip gloss and condoms.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c78d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3aff97d01001331c78d</series-id>
+    <sub-title>Spillman vs. Morris</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629133000 +0000" stop="20260629140000 +0000">
+    <title>Couples Court With the Cutlers</title>
+    <live/>
+    <episode-num system="original-air-date">20260629133000 +0000</episode-num>
+    <desc>A former military expert interrogator questions a woman being accused of cheating on her high-school sweetheart after he finds condoms and another man's underwear in their home.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c78d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3aff97d01001331c78d</series-id>
+    <sub-title>Dobbins vs. Aguilar</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629140000 +0000" stop="20260629143000 +0000">
+    <title>Couples Court With the Cutlers</title>
+    <live/>
+    <episode-num system="original-air-date">20260629140000 +0000</episode-num>
+    <desc>R &amp; B singer Q Parker weighs in on the effects of cheating for a couple on the verge of divorce after the wife finds nude photos of her husband's ex.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3aff97d01001331c78d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3aff97d01001331c78d</series-id>
+    <sub-title>Holland vs. Allen</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629143000 +0000" stop="20260629150000 +0000">
+    <title>Lauren Lake's Paternity Court</title>
+    <live/>
+    <episode-num system="original-air-date">20260629143000 +0000</episode-num>
+    <desc>A failed lie-detector test and an admission of cheating lead a man to believe that he is not the father of his girlfriend's 3-year-old son.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
+    <sub-title>Moody vs. Vaughn</sub-title>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6176fd25e83a5f0007a464c9" start="20260629150000 +0000" stop="20260629153000 +0000">
+    <title>Lauren Lake's Paternity Court</title>
+    <live/>
+    <episode-num system="original-air-date">20260629150000 +0000</episode-num>
+    <desc>A California man is ready to unmask his cheating wife and is certain that her 4-month-old child is not his.</desc>
+    <icon src="https://images.pluto.tv/series/63d7a3b0f97d01001331c81d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+    <date>19700101</date>
+    <series-id system="pluto">63d7a3b0f97d01001331c81d</series-id>
+    <sub-title>Broussard vs. Broussard</sub-title>
+    <category>Entertainment</category>
     <category>Series</category>
   </programme>
   <programme channel="6549337183595c000815ad05" start="20260628224100 +0000" stop="20260628233500 +0000">
