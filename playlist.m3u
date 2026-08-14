@@ -41,7 +41,7 @@ https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&h=270" group-title="",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
+#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
 https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d1427a992c/playlist.m3u8
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&h=270" group-title="",BUZZR
 https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
@@ -111,7 +111,7 @@ https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network 2" tvg-logo="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&h=270" group-title="",Game Show Network 2
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuiD6SB40_qGHJo44Q_qh-5/m3u8
-#EXTINF:-1 tvg-id="get.us2" tvg-name="get" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&h=270" group-title="",getTV
+#EXTINF:-1 tvg-id="plex.tv.GET.plex" tvg-name="get" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG002QQ7SV.png?w=360&h=270" group-title="",getTV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.m3u8
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002FEPTV.png_dark_360w_270h.png" group-title="",Grit TV
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/40583.m3u8
