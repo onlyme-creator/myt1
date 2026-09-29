@@ -41,7 +41,7 @@ https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://dtil.tmsimg.com/assets/s73067_ll_h15_ab.png?w=360&h=270" group-title="",Bounce TV
 http://23.237.104.106:8080/USA_BOUNCE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Bounce XL.us" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
+#EXTINF:-1 tvg-id="6176fd25e83a5f0007a464c9" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="",Bounce XL
 https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d1427a992c/playlist.m3u8
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="http://dtil.tmsimg.com/assets/s93430_h3_aa.png?w=360&h=270" group-title="",BUZZR
 https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
@@ -219,7 +219,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8
 #EXTINF:-1 tvg-id="plex.tv.The.Outer.Limits.plex" tvg-name="The Outer Limits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2373afb-f4c2-4e2d-b61a-5b1abd8e8110/OuterLimits_logo_dark_-_Carl_HoffeldeWHITErRDX.png" group-title="",The Outer Limits
 https://linear-1145.frequency.stream/dist/tcltv/1145/hls/master/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=CSID&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.us_privacy=1YN-
-#EXTINF:-1 tvg-id="6512ec9f3a0d700008db4f0c" tvg-name="The Twilight Zone" tvg-logo="" group-title="",The Twilight Zone
+#EXTINF:-1 tvg-id="The Twilight Zone.us" tvg-name="The Twilight Zone" tvg-logo="" group-title="",The Twilight Zone
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 #EXTINF:-1 tvg-id="678aa104680721c77c506746" tvg-name="The Walking Dead by AMC" tvg-logo="" group-title="",The Walking Dead by AMC
 https://jmp2.uk/plu-678aa104680721c77c506746.m3u8
